@@ -1,0 +1,24 @@
+.DS_Store
+**/.DS_Store
+
+# Local source documents are provenance references only.
+# Keep original Word/PDF exports out of the repo unless intentionally reviewed.
+source-docs/*
+!source-docs/README.md
+
+# Common editor and OS noise
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Generated artifacts
+tmp/
+temp/
+dist/
+build/

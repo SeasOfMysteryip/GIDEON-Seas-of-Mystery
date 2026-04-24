@@ -1,0 +1,8 @@
+* text=auto
+*.md text eol=lf
+*.txt text eol=lf
+*.sh text eol=lf
+
+# Treat source exports as binary if they are ever intentionally added.
+*.docx binary
+*.pdf binary
