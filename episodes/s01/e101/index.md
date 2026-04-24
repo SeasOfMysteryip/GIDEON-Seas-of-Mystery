@@ -6,7 +6,6 @@ source_module: "Episode Teleplay / Drive scene packets / 00_Canon Bible Core v2"
 source_section: "Episode 101 living bible insert + whole-episode source map"
 source_file: "source-docs/00_Canon Bible Core🗺️ v2.docx"
 uses:
-  - episodes/s01/e101/bible-notes.md
   - episodes/s01/e101/source-map.md
   - episodes/s01/e101/script.md
   - episodes/s01/e101/continuity-notes.md
@@ -20,7 +19,6 @@ This folder stores the repo-native episode packet for `EP101 — The Girl from t
 
 Current contents:
 
-- `bible-notes.md` for the early living-bible extraction from `00`
 - `source-map.md` for whole-episode and by-scene source tracking
 - `script.md` for the clean episode script landing zone
 - `continuity-notes.md` for episode-level canon and structure locks
@@ -35,6 +33,5 @@ Within this episode folder, use authority in this order:
 2. `continuity-notes.md`
 3. `scene-cards/`
 4. `revision-notes.md`
-5. `bible-notes.md`
 
 If any episode file conflicts with locked canon in `canon/`, the locked canon files win.

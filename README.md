@@ -192,7 +192,6 @@ episodes/
   s01/
     e101/
       index.md
-      bible-notes.md
       source-map.md
       script.md
       continuity-notes.md

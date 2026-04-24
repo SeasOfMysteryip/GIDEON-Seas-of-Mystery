@@ -2,12 +2,11 @@
 id: episodes.s01.e101.continuity_notes
 type: episode_continuity
 status: working
-source_module: "Whole episode Google Doc / Episode 101 bible notes"
+source_module: "Whole episode Google Doc / Episode 101 episode packet"
 uses:
   - canon/core/season-spine.md
   - canon/deep-myth/spectral-sea.md
   - canon/relics/relic-circuit.md
-  - episodes/s01/e101/bible-notes.md
 ---
 
 # Episode 101 Continuity Notes

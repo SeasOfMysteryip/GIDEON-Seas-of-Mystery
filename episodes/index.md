@@ -6,7 +6,6 @@ source_module: "00_Canon Bible Core v2"
 source_file: "source-docs/00_Canon Bible Core🗺️ v2.docx"
 uses:
   - episodes/s01/e101/index.md
-  - episodes/s01/e101/bible-notes.md
   - episodes/s01/e101/source-map.md
   - episodes/s01/e101/script.md
   - episodes/s01/e101/continuity-notes.md
@@ -34,7 +33,6 @@ Use it for:
 - continuity notes
 - revision notes
 - source maps
-- living-bible inserts that are too specific for Core or season-planning
 
 ## Authority Rule
 
