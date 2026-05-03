@@ -132,7 +132,7 @@ Red and the Gull are one heartbeat. By the end of his arc, the ship carries his 
 
 End state: Old Red's bones are the Gull's bones now.
 
-He becomes the Tuning Core from Episode 102 through 108, then shifts into spectral core status after Episode 109. Red no longer speaks in riddles because the Gull speaks for him.
+He becomes the Tuning Core from Episode 102 through Episode 108, dies in the `EP108` Season One finale, then shifts into spectral core status during the Season Two opening escape arc. Red no longer speaks in riddles because the Gull speaks for him.
 
 ## Canonical Impact Of Death
 
@@ -151,4 +151,3 @@ His loss should feel structural, not merely emotional. The ship's rhythm breaks.
 If a scene with Old Red does not reflect harmony, loss, warning, or the Sea's memory, Gideon should flag it.
 
 Myth must amplify Red's scars. It must never obscure them.
-

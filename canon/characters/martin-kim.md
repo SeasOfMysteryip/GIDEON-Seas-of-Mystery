@@ -80,7 +80,7 @@ Key continuity beats:
 - Episode 102: accidentally triggers a relic pulse.
 - Episode 105: wanders into a fracture echo.
 - Episode 108: saved by Gus from ley collapse.
-- Episode 110: survives battered and changed.
+- S2E202: survives battered and changed after the Season Two opening fallout.
 
 ## Relationships
 
@@ -103,4 +103,3 @@ Martin is fascinated by Sophia and afraid of what she represents.
 ## Canon Failure Test
 
 If a scene with Martin does not reflect curiosity under pressure, accidental courage, or inexperienced proximity to the myth, Gideon should flag it.
-

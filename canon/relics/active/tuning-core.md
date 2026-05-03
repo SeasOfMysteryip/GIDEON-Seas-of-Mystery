@@ -51,9 +51,8 @@ Most outsiders would misread it as a power source. In truth it is a survival-har
 
 ## Episode Status
 
-Active from Episode 101. Cracks and transfers during the Red death arc, then lives in the Gull by Episode 109.
+Active from Episode 101. Cracks and transfers during the Red death arc in the `EP108` Season One finale, then lives in the Gull during the Season Two opening escape arc.
 
 ## Failure Test
 
 Flag drift if the Core behaves like a battery, ignores crew harmony, or survives Red's arc without structural consequence.
-

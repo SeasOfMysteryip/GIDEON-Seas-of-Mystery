@@ -120,7 +120,7 @@ Murakami is active kobun: precision made flesh in service of Blackbeard's will.
 
 ### Charles Vane
 
-Vane is former kobun and unstable ghost. Blackbeard executes him in Episode 109 to close the Lysara betrayal thread.
+Vane is former kobun and unstable ghost. Blackbeard executes him in `S2E201` to close the Lysara betrayal thread after the `EP108` Season One fall into the Abyss.
 
 ### Jeb Blackwater
 
@@ -149,4 +149,3 @@ He is not simply villainous. He is the Sea's unlearned lesson: a ghost wearing s
 If a scene with Blackbeard does not reflect control, blood-oath fracture, or myth weaponized through dominance, Gideon should flag it.
 
 Myth must amplify Blackbeard's scars. It must never mask them.
-

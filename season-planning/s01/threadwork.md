@@ -51,7 +51,9 @@ Condensed season planning summary:
 - Sophia and Lark are drawn into linked bloodline-relic pressure
 - Blackbeard works the shadows while Vane accelerates collapse
 - Old Red dies, but the Gull inherits his pulse
-- the season ends in synchronized escape, awakening, and charting what comes next
+- the season ends with Old Red's death and the Bloody Gull falling into the Abyss
+
+The synchronized escape and immediate post-fall consequences now belong to the opening movement of Season Two.
 
 ## Use Rule
 

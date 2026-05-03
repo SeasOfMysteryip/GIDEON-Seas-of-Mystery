@@ -33,7 +33,7 @@ Season One is a spiral of:
 - crew formation through violence and loyalty
 - growing awareness that history is unstable
 
-Season One ends in awakening rather than closure.
+Season One ends in awakening rather than closure. As of the final Season One restructure, `EP108` is the finale: Old Red dies, the Bloody Gull falls into the Abyss, and the mechanics of escape move to the opening of Season Two.
 
 ## Locked Season-One Arc Threads
 
@@ -61,8 +61,8 @@ The doc crew's footage and witness position become proof that history in this wo
 
 By the end of Season One:
 
-- the Gull survives, but changed
-- the crew survives, but changed
+- the Gull falls into the Abyss, wounded and changed
+- the crew survives the season, but is trapped in consequence rather than released from it
 - the relic system is more awake than before
 - Atlantis and deeper world architecture move closer to the surface
 - the story graduates from discovery into larger war

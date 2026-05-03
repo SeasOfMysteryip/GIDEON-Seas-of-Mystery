@@ -7,6 +7,7 @@ source_file: "source-docs/00_Canon Bible Core🗺️ v2.docx"
 uses:
   - season-planning/s01/threadwork.md
   - season-planning/s02/outline-frame.md
+  - season-planning/s02/session-restructure-notes.md
   - season-planning/s03/high-level-spine.md
 ---
 
@@ -37,4 +38,5 @@ When planning material conflicts with locked canon, locked canon wins.
 | --- | --- |
 | `s01/threadwork.md` | stores season-one shadow spine, bloodline threadwork, and condensed season storyteller summary |
 | `s02/outline-frame.md` | stores the Season Two planning frame and act-level objectives |
+| `s02/session-restructure-notes.md` | stores working notes from the 108 finale and Season Two restructure session |
 | `s03/high-level-spine.md` | stores the high-level Season Three spine and outcome framing |

@@ -49,9 +49,8 @@ Murakami and any power seeking authored history or controlled routes would treat
 
 ## Episode Status
 
-Found in Episode 105. Guides key route and battle decisions through Episodes 106 to 110. Seeds a larger fate-versus-trust dilemma for later seasons.
+Found in Episode 105. Guides key route and battle decisions from Episode 106 through the Season Two opening fallout. Seeds a larger fate-versus-trust dilemma for later seasons.
 
 ## Failure Test
 
 Flag drift if the map behaves like passive reference material, rewrites fate without cost, or loses the moral burden of inscription.
-

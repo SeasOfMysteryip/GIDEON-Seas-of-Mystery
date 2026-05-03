@@ -50,9 +50,8 @@ Warlords and storm claimants covet it, but the blade is not a transferable statu
 
 ## Episode Status
 
-Episode anchors: discovered in Episode 105, mishandled by Vane in Episode 106, unlocked further by Jeb in Episodes 108 through 110.
+Episode anchors: discovered in Episode 105, mishandled by Vane in Episode 106, unlocked further by Jeb across Episode 108 and the Season Two opening fallout.
 
 ## Failure Test
 
 Flag drift if the Cutlass works equally for Jeb and Vane, behaves like a generic sword, or grants power without emotional and physical backlash.
-

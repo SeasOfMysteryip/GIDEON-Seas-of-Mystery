@@ -94,7 +94,7 @@ Vane must not:
 
 Primary relic:
 
-- Cutlass of Surge, held from Episode 106 through 109.
+- Cutlass of Surge, held from Episode 106 through `S2E201`.
 
 Rule:
 
@@ -135,4 +135,3 @@ He should never feel stable, but he should always feel specific.
 If a scene with Vane does not reflect blood oath, revenge hunger, or inability to recover from betrayal, Gideon should flag it.
 
 Myth must fuel Vane's fury. It must never mask it.
-
