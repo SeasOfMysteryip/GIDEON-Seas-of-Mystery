@@ -92,7 +92,7 @@ If the input is missing or unclear, return `Input required`.
 - Scene Title:
 - Source Location:
 - Input Type:
-- Current Forge Tier:
+- Material State:
 
 ## Scene Pulse
 
@@ -150,7 +150,7 @@ If the input is missing or unclear, return `Input required`.
 
 -
 
-## Recommended Next Forge Tier
+## Workspace Next Move
 
 -
 ```
@@ -211,16 +211,20 @@ Use:
 - `low` - possible match only
 - `unknown` - cannot identify safely
 
-## Ready For Tier Checks
+## Workspace Next Move Rules
 
-After building the card, recommend the next Forge tier.
+Scene Work Card Builder does not recommend Forge tiers.
 
-- If the scene is only an idea or beats, recommend `Thread the Bones`.
-- If the draft exists but feels thin, recommend `Salt the Blood`.
-- If world, relic, faction, fleet, tactic, or myth behavior is active, recommend `Gulp It Deep`.
-- If emotional pulse, voice, relationship, or consequence needs validation, recommend `Trial the Fire`.
-- If the scene is nearly locked and needs bloodlock or voiceprint verification, recommend `Pirate's Bloody Heart`.
-- If Tier Five has passed, recommend `Final Cut, Gideon`.
+After building or updating the card, name the next workspace action only:
+
+- lock beat choices
+- resolve missing inputs
+- build or update the scene card
+- draft the page
+- save the card to repo
+- send to Forge only if the captain explicitly asks for validation
+
+If the material is pre-draft, do not say it "needs T1" or "is ready for T1." Use writing-room language such as `Ready for captain beat lock`, `Ready for scene-card save`, or `Ready to draft`.
 
 ## App Implementation Notes
 
@@ -240,6 +244,6 @@ Suggested object fields:
 - `scene_exit`
 - `captain_note`
 - `missing_inputs`
-- `recommended_next_tier`
+- `workspace_next_move`
 
 This card is the bridge between freeform writing and reliable retrieval.
