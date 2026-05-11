@@ -23,6 +23,10 @@ related_characters:
   - character.charles_vane
   - character.elias_hawthorne
   - character.lysara
+  - character.callum_thorne
+  - character.bram_pike
+  - character.finnian_bell
+  - character.toby_marlowe
 related_relics:
   - relic.lysaras_locket
   - relic.cutlass_of_surge
@@ -144,6 +148,10 @@ Jeb respects Lark's eyes and drive, but he is haunted by her father's fate. He h
 ### Old Red
 
 Old Red is Jeb's blood brother, sanity tether, and ship soul. Red's death scars Jeb deeply.
+
+### The Bloody Gull Boys
+
+Jeb treats The Bloody Gull Boys as working crew before performers. Their music can help him preserve the Gull's public mask, cover dangerous noise, or keep civilians looking the wrong way, but he does not treat them as mystics or stage props.
 
 ### Charles Vane
 

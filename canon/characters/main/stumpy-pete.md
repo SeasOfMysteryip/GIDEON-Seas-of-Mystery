@@ -20,6 +20,10 @@ related_characters:
   - character.sophia_briggs
   - character.lark_hawthorne
   - character.darak_al_mhar
+  - character.callum_thorne
+  - character.bram_pike
+  - character.finnian_bell
+  - character.toby_marlowe
 related_relics: []
 canon_tags:
   - quartermaster
@@ -119,6 +123,10 @@ Stumpy is wary of Sophia and calls her storm-wrapped in flesh. He keeps distance
 ### Lark Hawthorne
 
 Stumpy teases Lark and calls her Stormdaughter, but the teasing hides real worry about her path.
+
+### The Bloody Gull Boys
+
+Stumpy treats The Bloody Gull Boys as shipboard working crew, not entertainers first. He trusts their rhythm when it helps the deck move and distrusts any song that forgets the work under it.
 
 ### Darak al-Mhar
 

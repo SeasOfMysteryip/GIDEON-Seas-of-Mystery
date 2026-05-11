@@ -8,6 +8,7 @@ uses:
   - canon/relics/relic-circuit.md
   - canon/deep-myth/mirror-harbors.md
   - canon/deep-myth/spectral-sea.md
+  - agents/gideon/forge-execution-modes.md
 ---
 
 # Season Two Restructure Notes
@@ -117,13 +118,15 @@ Her captivity should stay active. She should win small things, learn, test bound
 
 ## Forge Tiers Reminder
 
-Restructure the Forge Tiers before writing Season Two:
+See `agents/gideon/forge-execution-modes.md` for the general Forge framework and Seas of Mystery command names.
 
-1. Full Draft From Outline - turn the outline into a complete rough draft.
-2. Big Color Pass - write it rich, novelistic, mythic, emotional, and deliberately too much.
-3. Spectral Pirate Pass - focus on relics, magic, pirate texture, Spectral Sea weirdness, mirror harbors, fracture zones, and what makes the show itself.
-4. Character Consequence Pass - focus on voice, action, choice, consequence, relationships, and wounds.
-5. Teleplay Strip Pass - remove novel prose and convert to strict playable teleplay.
-6. Polish And Seal - format, trim, continuity check, typo pass, and final emotional punch.
+Season Two practical tier map:
+
+1. Thread the Bones / Structure Draft - turn the outline into a complete rough draft.
+2. Salt the Blood / Expansion Pass - write it rich, novelistic, mythic, emotional, and deliberately too much.
+3. Gulp It Deep / Canon Validation Pass - validate relics, magic, pirate texture, Spectral Sea weirdness, mirror harbors, fracture zones, factions, fleets, tactics, and what makes the show itself.
+4. Trial the Fire / Character Consequence Pass - validate voice, action, choice, consequence, relationships, wounds, and support-character function.
+5. Pirate's Bloody Heart / Format & Voice Lock - remove novel prose, enforce voiceprint, lock pace and tone, and convert to strict playable teleplay.
+6. Final Cut, Gideon / Polish & Seal - format, trim, continuity check, typo pass, final emotional punch, and delivery seal.
 
 Tier 2 is allowed to be too much on purpose. Tier 5 is where it stops staying too much.

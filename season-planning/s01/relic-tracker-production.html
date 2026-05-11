@@ -1,0 +1,432 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Season One Relic Tracker</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1f2933;
+      --muted: #5f6b7a;
+      --line: #d8dee6;
+      --header: #eef3f7;
+      --section: #f8fafc;
+      --accent: #1f6f8b;
+      --flag-high: #fff1f0;
+      --flag-med: #fff8e6;
+      --flag-low: #edf7ed;
+    }
+
+    body {
+      margin: 0;
+      background: white;
+      color: var(--ink);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 11pt;
+      line-height: 1.42;
+    }
+
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 36px 44px 56px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 24pt;
+      line-height: 1.1;
+      color: #102a43;
+    }
+
+    .subtitle {
+      margin: 0 0 24px;
+      color: var(--muted);
+      font-size: 11pt;
+    }
+
+    h2 {
+      margin: 30px 0 10px;
+      padding-bottom: 6px;
+      border-bottom: 2px solid var(--accent);
+      font-size: 16pt;
+      color: #102a43;
+    }
+
+    h3 {
+      margin: 24px 0 8px;
+      font-size: 13pt;
+      color: #102a43;
+    }
+
+    p {
+      margin: 8px 0 14px;
+    }
+
+    .note {
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      background: var(--section);
+      color: var(--muted);
+      margin: 14px 0 20px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 8px 0 18px;
+      table-layout: fixed;
+    }
+
+    th,
+    td {
+      border: 1px solid var(--line);
+      padding: 7px 8px;
+      vertical-align: top;
+      text-align: left;
+    }
+
+    th {
+      background: var(--header);
+      color: #102a43;
+      font-weight: 700;
+    }
+
+    td {
+      background: #fff;
+    }
+
+    .episode-table th:nth-child(1),
+    .episode-table td:nth-child(1) {
+      width: 7%;
+      font-weight: 700;
+    }
+
+    .episode-table th:nth-child(2),
+    .episode-table td:nth-child(2) {
+      width: 24%;
+    }
+
+    .thread-table th:nth-child(1),
+    .thread-table td:nth-child(1) {
+      width: 8%;
+      font-weight: 700;
+    }
+
+    .thread-table th:nth-child(2),
+    .thread-table td:nth-child(2) {
+      width: 20%;
+    }
+
+    .thread-table th:nth-child(4),
+    .thread-table td:nth-child(4) {
+      width: 24%;
+      font-size: 10pt;
+      color: var(--muted);
+    }
+
+    .flag-high td {
+      background: var(--flag-high);
+    }
+
+    .flag-medium td {
+      background: var(--flag-med);
+    }
+
+    .flag-low td {
+      background: var(--flag-low);
+    }
+
+    .status {
+      margin: -6px 0 18px;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    .small {
+      font-size: 10pt;
+      color: var(--muted);
+    }
+
+    @media print {
+      main {
+        max-width: none;
+        padding: 24px;
+      }
+
+      h2,
+      h3 {
+        break-after: avoid;
+      }
+
+      table {
+        break-inside: avoid;
+      }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Season One Relic Tracker</h1>
+  <p class="subtitle">Fast tracker pass based on the current Season One script files. This is a production-readable state map, not a full canon audit.</p>
+
+  <section>
+    <h2>Scope</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Tracked Relic</th>
+          <th>Primary Season One Function</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Compass of Ley Currents</td><td>Bloodline navigation and memory-route alignment.</td></tr>
+        <tr><td>Shell of Memory</td><td>Memory translation, song transmission, and Library-facing resonance.</td></tr>
+        <tr><td>Spyglass of Storms / Echo of the Tides</td><td>Longing-driven perception, fracture sight, route confirmation, and temporal glimpse.</td></tr>
+        <tr><td>Cutlass of Surge</td><td>Bonded storm-force channeling and disruption blade.</td></tr>
+        <tr><td>Tuning Core</td><td>Old Red's harmony engine and the Bloody Gull's stabilizing pulse.</td></tr>
+        <tr><td>Memory of Kings</td><td>Living map, authored memory, and fate-pressure relic.</td></tr>
+        <tr><td>Abyssal Chronometer</td><td>Counterfeit Phoenician temporal lure and unstable amplifier.</td></tr>
+        <tr><td>Spectral Beacon</td><td>Convergence lure and battlefield pulse tower.</td></tr>
+        <tr><td>Crown of the Abyss</td><td>Sovereign drowned-court dominion relic.</td></tr>
+        <tr><td>Blackbeard's Ring</td><td>Ghost-fleet command and spectral ambition tether.</td></tr>
+        <tr><td>Lysara's Locket</td><td>Siren-memory leverage, longing weapon, and emotional/political trade object.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Naming Watch</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Script Term</th>
+          <th>Canon Tracker Term</th>
+          <th>Note</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Compass of the Drowned</td><td>Compass of Ley Currents</td><td>Appears in early scripts as an active name. Canon normalization prefers Compass of Ley Currents.</td></tr>
+        <tr><td>Echo of the Tides</td><td>Spyglass of Storms</td><td>Valid alias pressure, but canon primary name is Spyglass of Storms.</td></tr>
+        <tr><td>conch shell</td><td>Shell of Memory</td><td>Early acquisition language; normalize when referring to the relic as canon object.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Episode State Table</h2>
+    <table class="episode-table">
+      <thead>
+        <tr>
+          <th>Episode</th>
+          <th>Relics in Active Play</th>
+          <th>State Movement</th>
+          <th>Fast Flags</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>101</td><td>Compass of Ley Currents; Blackbeard's Ring</td><td>Sophia carries the rusted compass; it behaves as a living Atlantean signal and locks toward the Bloody Gull. Blackbeard's ring glows in the closing power-web beat.</td><td>Compass naming still uses Compass of the Drowned. No Shell/Spyglass possession yet.</td></tr>
+        <tr><td>102</td><td>Compass; Shell; Spyglass; Lysara's Locket</td><td>Sophia's Compass leads the chamber pull; Sophia claims the Shell; Lark claims the Spyglass; Jeb takes Lysara's Locket. End state separates bearer burdens.</td><td>Strong acquisition episode. Conch shell and Echo of the Tides naming should be normalized in tracker language.</td></tr>
+        <tr><td>103</td><td>Compass; Shell; Spyglass</td><td>The three hero relics synchronize, overload, reveal route/map logic, absorb ley pressure, and cost Sophia/Lark physically. Old Red stabilizes the system through ship rhythm.</td><td>Clean circuit escalation. Compass still sometimes appears as Compass of the Drowned.</td></tr>
+        <tr><td>104</td><td>Compass; Shell; Spyglass; Lysara's Locket; Crown; Blackbeard's Ring; Abyssal Chronometer</td><td>Nassau/council episode widens the relic field. Ching Shih's Crown and Blackbeard's Ring assert sovereign pressure. Darak introduces the Chronometer and blood-wakes it through Lark.</td><td>Chronometer enters as unsafe counterfeit pressure. Good cost signal through Lark's blood and heartbeat sync.</td></tr>
+        <tr><td>105</td><td>Compass; Shell; Spyglass; Tuning Core; Memory of Kings; Spectral Beacon; Cutlass; Lysara's Locket; Chronometer aftereffect</td><td>Storm/convergence episode. Old Red/Tuning Core harmonizes ship and crew. Lark recovers Memory of Kings. Beacon draws relics. Jeb claims Cutlass of Surge under leviathan/storm pressure.</td><td>Major relic expansion. Beacon is active battlefield anchor. Cutlass appears properly costly and bonded to Jeb.</td></tr>
+        <tr><td>106</td><td>Chronometer; Memory; Spyglass; Shell; Compass; Cutlass; Locket; Crown; Blackbeard's Ring</td><td>Murakami/Darak pressure Sophia through Chronometer. Lark uses Memory/Spyglass/Shell to reach Sophia. Vane wields the Cutlass against Jeb but recoil and instability remain present. Crown enters Ching Shih's battlefield leverage.</td><td>Good false-bearer pressure on Vane. One watch item: Blackbeard's ring is called the Ember Crown in action language.</td></tr>
+        <tr><td>107</td><td>Spyglass; Memory; Shell; Compass; Chronometer; Locket; Tuning Core</td><td>Lark tracks Sophia through Spyglass/Memory/Shell, overloads when pushing the circuit from distance, and Darak openly targets Jeb's Locket. Old Red's Tuning Core hums at end.</td><td>Strong tracker episode. Confirms Lark carries Spyglass/Memory/Shell while Sophia has Compass under captivity/transfer pressure.</td></tr>
+        <tr><td>108</td><td>Compass; Shell; Spyglass; Chronometer; Locket; Cutlass; Tuning Core</td><td>Sophia reclaims/uses Compass and Chronometer; Shell/Compass/Spyglass stabilize together; Jeb trades Lysara's Locket to Darak; Darak becomes active bearer; Vane drives Cutlass into Old Red's Tuning Core; all relics fall silent after Red's death.</td><td>Finale state change is clear: Locket transfers to Darak, Tuning Core breaks/transfers pressure toward Gull, Chronometer remains unstable.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Relic Threads</h2>
+
+    <h3>Compass of Ley Currents</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>101</td><td>Sophia, first as the girl from the fog, then aboard the Gull</td><td>Rattles, clicks, trembles, locks on the Bloody Gull; treated as first Atlantean signal since Elias.</td><td>e101/script.md:769, 810, 1606, 2137</td></tr>
+        <tr><td>102</td><td>Sophia</td><td>Pulls through the chamber sequence; burns/marks Sophia; ends at hip with palm damage.</td><td>e102/script.md:294, 1404, 1699</td></tr>
+        <tr><td>103</td><td>Sophia</td><td>Syncs with Shell and Spyglass; flares during route revelation and battle escape; costs Sophia through glowing veins and physical distress.</td><td>e103/script.md:352, 663, 1260, 1302</td></tr>
+        <tr><td>104</td><td>Sophia</td><td>Worn around neck; syncs with Shell/Bloody Gull; responds in council and storm pressure.</td><td>e104/script.md:210, 649, 1153</td></tr>
+        <tr><td>105</td><td>Sophia</td><td>Locks to the Spectral Beacon and spasms under convergence pressure.</td><td>e105/script.md:143, 483, 637</td></tr>
+        <tr><td>106</td><td>Sophia / captivity pressure</td><td>Flares in Sophia's hand during Murakami/Darak pressure and appears in Lark's vision.</td><td>e106/script.md:779</td></tr>
+        <tr><td>107</td><td>Sophia, under Murakami/Darak pressure</td><td>Glows during captivity; visible to Lark through Spyglass while Sophia is moved in the fort.</td><td>e107/script.md:292, 788</td></tr>
+        <tr><td>108</td><td>Sophia</td><td>Starts contained, then returns to Sophia; harmonizes with Shell and supports tear/escape stabilization until finale collapse.</td><td>e108/script.md:56, 98, 632, 971</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Strong throughline. Main cleanup is terminology drift from Compass of the Drowned to Compass of Ley Currents.</p>
+
+    <h3>Shell of Memory</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>102</td><td>Sophia claims it from chamber</td><td>Introduced as conch shell, then Shell; vibrates, pulses, and begins memory burden.</td><td>e102/script.md:1402, 1563, 1680, 1874</td></tr>
+        <tr><td>103</td><td>Sophia</td><td>Hums, convulses, absorbs ley blast, joins Compass/Spyglass circuit.</td><td>e103/script.md:181, 501, 1238, 1321</td></tr>
+        <tr><td>104</td><td>Sophia</td><td>Cradled and synced with Sophia/Gull; whispers old language and flares under storm pressure.</td><td>e104/script.md:210, 253, 1152, 1257</td></tr>
+        <tr><td>105</td><td>Sophia</td><td>Threads glyphs through Sophia's ley-lit body; throbs toward Beacon.</td><td>e105/script.md:238, 480, 622</td></tr>
+        <tr><td>106</td><td>Lark carries it after Sophia's capture</td><td>Sits on chart table, sings from Lark's ribs, joins Locket/Gull/Spyglass response.</td><td>e106/script.md:470, 704, 1018, 1163</td></tr>
+        <tr><td>107</td><td>Lark carries it while tracking Sophia</td><td>Hums with Spyglass and Memory; shrieks in three-relic overload.</td><td>e107/script.md:415, 776, 798</td></tr>
+        <tr><td>108</td><td>Back with Sophia</td><td>Sings with Compass and Spyglass; reveals Lysara memory; fails with Compass/Chronometer after Red's death fracture backlash.</td><td>e108/script.md:487, 630, 677, 971</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Cleanest active relic thread after Compass. It consistently costs Sophia and behaves as invasive memory/song transmission.</p>
+
+    <h3>Spyglass of Storms / Echo of the Tides</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>102</td><td>Lark claims it</td><td>Foreshadowed in monitor/static, then acquired in chamber; called Spyglass and Echo of the Tides.</td><td>e102/script.md:65, 1442, 1519, 1669</td></tr>
+        <tr><td>103</td><td>Lark</td><td>Reveals phantom fleet, possible futures, route map; burns and overloads Lark.</td><td>e103/script.md:97, 520, 1192, 1232</td></tr>
+        <tr><td>104</td><td>Lark</td><td>Pulls at Lark; maps storm pressure; gets blood-smeared during Chronometer wake.</td><td>e104/script.md:265, 294, 1011, 1157</td></tr>
+        <tr><td>105</td><td>Lark</td><td>Locks path forward through storm, catches shadow fleet, cracks lens but keeps functioning.</td><td>e105/script.md:314, 344, 441, 625</td></tr>
+        <tr><td>106</td><td>Lark</td><td>Works with Memory/Shell to see Sophia; creates fracture spiral; becomes object of enemy demand.</td><td>e106/script.md:482, 609, 759, 1047</td></tr>
+        <tr><td>107</td><td>Lark</td><td>Tracks Sophia in fort; overuse blasts Lark into wall; remains strategic target.</td><td>e107/script.md:237, 788, 799, 891</td></tr>
+        <tr><td>108</td><td>Lark</td><td>Harmonizes with Shell/Compass in middeck stabilization.</td><td>e108/script.md:604, 724</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Strong emotional/function line. Naming should prefer Spyglass of Storms in canon-facing summaries while preserving Echo of the Tides as alias.</p>
+
+    <h3>Cutlass of Surge</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>105</td><td>Jeb claims it from wreck</td><td>Chains crumble; Cutlass erupts in ley energy; wraps Jeb and fights Vane.</td><td>e105/script.md:512, 523, 527, 588</td></tr>
+        <tr><td>106</td><td>Vane steals/wields it against Jeb</td><td>Vane uses it violently, but the weapon destabilizes space, wounds the Gull, and flares against Jeb/Locket/Shell response.</td><td>e106/script.md:931, 957, 969, 1034</td></tr>
+        <tr><td>108</td><td>Vane</td><td>Pulls toward Sophia/Tuning Core; wounds Old Red by driving into the Core; burns Vane after use.</td><td>e108/script.md:249, 262, 941, 945</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: The false-bearer logic is present. Watch that Vane's use never reads as clean mastery.</p>
+
+    <h3>Tuning Core</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>103</td><td>Old Red / Bloody Gull rhythm</td><td>Not named directly in script hits, but Old Red stabilizes the relic overload and route revelation through ship rhythm.</td><td>e103/script.md:1192, 1238, 1302</td></tr>
+        <tr><td>105</td><td>Old Red</td><td>Explicitly named; Old Red, bone dice, and Bloody Gull hum together.</td><td>e105/script.md:75</td></tr>
+        <tr><td>107</td><td>Old Red</td><td>Core glows and hums as episode closes into Red Horizon movement.</td><td>e107/script.md:1314</td></tr>
+        <tr><td>108</td><td>Old Red / Gull</td><td>Hum answers through Gull; Cutlass pierces Core; every relic aboard falls silent.</td><td>e108/script.md:884, 941, 943</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Structurally vital but under-mentioned by name until late season. This may be fine if Old Red's embodied role is clear enough.</p>
+
+    <h3>Memory of Kings</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>105</td><td>Lark claims it</td><td>Floats free from corpse/tome; hums in Lark's grip; later lashed to deck and crackling toward Beacon.</td><td>e105/script.md:413, 423, 482</td></tr>
+        <tr><td>106</td><td>Lark</td><td>Pages twitch/turn; speaks through Elias pressure; works with Spyglass/Shell to locate Sophia.</td><td>e106/script.md:210, 675, 763, 1187</td></tr>
+        <tr><td>107</td><td>Lark</td><td>Hums and turns pages with Spyglass/Shell while Lark tracks Sophia.</td><td>e107/script.md:233, 447, 484, 776</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Clear mid-season acquisition and late-season guidance thread. Watch that its moral cost of authorship is not yet as visible as its map utility.</p>
+
+    <h3>Abyssal Chronometer</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>104</td><td>Darak introduces; Lark blood-wakes it</td><td>Chronometer screams when it touches Lark's blood; syncs to her heartbeat and scars her.</td><td>e104/script.md:991, 996, 1020, 1110</td></tr>
+        <tr><td>105</td><td>Aftereffect on Lark</td><td>Lark's scorch marks and pain carry forward from the Chronometer bite.</td><td>e105/script.md:141, 320</td></tr>
+        <tr><td>106</td><td>Darak/Murakami pressure Sophia with it</td><td>Counterclockwise ticks pull at Sophia; Darak/Murakami use it for captivity and route pressure.</td><td>e106/script.md:99, 109, 172, 870</td></tr>
+        <tr><td>107</td><td>Darak/Murakami/Sophia interaction</td><td>Ticks in Sophia's cell and responds to Sophia's finger-flick rhythm.</td><td>e107/script.md:254, 294, 718</td></tr>
+        <tr><td>108</td><td>Darak/Sophia</td><td>Starts with Sophia contained near it; Sophia grabs/uses it; Darak still carries it; it ticks out of time after the rift.</td><td>e108/script.md:89, 315, 594, 831</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Good counterfeit pressure. It consistently feels dangerous, invasive, and unstable.</p>
+
+    <h3>Spectral Beacon</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>105</td><td>Battlefield/convergence anchor</td><td>Draws Compass, relics, ships, blood, and Cutlass pressure toward itself.</td><td>e105/script.md:483, 486, 537, 637</td></tr>
+        <tr><td>106</td><td>Aftermath / departure</td><td>Bloody Gull sails away from it; its active battlefield role drops after 105.</td><td>e106/script.md:53</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Clean activation/convergence role. No obvious late-season misuse found in the fast scan.</p>
+
+    <h3>Crown of the Abyss</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>104</td><td>Ching Shih</td><td>Crown breathes, flakes salt, and marks Ching Shih's sovereign pressure in council.</td><td>e104/script.md:617, 624, 775</td></tr>
+        <tr><td>106</td><td>Ching Shih / vision pressure</td><td>Appears in Lark's vision on Sophia, then physically atop Ching Shih during battle leverage.</td><td>e106/script.md:732, 1113, 1155, 1283</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Strong sovereign/dominion feel. Keep it out of hero-circuit behavior.</p>
+
+    <h3>Blackbeard's Ring</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>101</td><td>Blackbeard</td><td>Large figure's ring glows, then Blackbeard adjusts it in power-web close.</td><td>e101/script.md:2095, 2185, 2234</td></tr>
+        <tr><td>104</td><td>Blackbeard</td><td>Ring flares in council/sovereign pressure scenes.</td><td>e104/script.md:754, 835, 1202</td></tr>
+        <tr><td>106</td><td>Blackbeard</td><td>His ring glows hot and red; one line calls it the Ember Crown.</td><td>e106/script.md:443, 450</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Present but not heavily tracked. Flag Ember Crown wording for review against Blackbeard's Ring / Crown terminology.</p>
+
+    <h3>Lysara's Locket</h3>
+    <table class="thread-table">
+      <thead><tr><th>Episode</th><th>Bearer / Location</th><th>Use / Pressure</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>102</td><td>Jeb claims it</td><td>Locket appears with siren memory and Jeb closes hand around it.</td><td>e102/script.md:1483, 1489, 1747, 1806</td></tr>
+        <tr><td>104</td><td>Jeb</td><td>Jeb tucks it under shirt; Darak's gaze locks onto it.</td><td>e104/script.md:471, 961</td></tr>
+        <tr><td>105</td><td>Jeb</td><td>Locket flares during Cutlass/Beacon/Vane conflict and Lysara memory flashes.</td><td>e105/script.md:534, 571, 612, 615</td></tr>
+        <tr><td>106</td><td>Jeb</td><td>Locket flares in Vane/Cutlass conflict and joins Shell/Gull/Spyglass response.</td><td>e106/script.md:612, 951, 969, 1018</td></tr>
+        <tr><td>107</td><td>Jeb, coveted by Darak</td><td>Darak openly watches and wants the locket.</td><td>e107/script.md:1134, 1239</td></tr>
+        <tr><td>108</td><td>Jeb to Darak</td><td>Jeb trades Locket to Darak; it brands Darak's hand and becomes tucked against Darak's chest.</td><td>e108/script.md:520, 691, 693, 702</td></tr>
+      </tbody>
+    </table>
+    <p class="status">Fast status: Excellent emotional-object throughline. The 108 transfer is a major season-state change.</p>
+  </section>
+
+  <section>
+    <h2>Fast Continuity Flags</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Priority</th>
+          <th>Flag</th>
+          <th>Where</th>
+          <th>Suggested Follow-Up</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="flag-high"><td>High</td><td>Normalize Compass naming.</td><td>101-103 use Compass of the Drowned; later scripts use Compass of Ley Currents.</td><td>Decide whether Compass of the Drowned remains diegetic sailor/prophecy language or should be revised in script.</td></tr>
+        <tr class="flag-medium"><td>Medium</td><td>Normalize Spyglass primary name.</td><td>102-108 heavily use Echo of the Tides.</td><td>Keep as alias if desired, but canon-facing tracker/review should call it Spyglass of Storms / Echo of the Tides.</td></tr>
+        <tr class="flag-medium"><td>Medium</td><td>Blackbeard's Ring may be confused with Crown language.</td><td>e106/script.md:443 calls his ring the Ember Crown.</td><td>Confirm whether Ember Crown is intentional in-world nickname or rename to avoid Crown of the Abyss confusion.</td></tr>
+        <tr class="flag-medium"><td>Medium</td><td>Memory of Kings cost is lighter than function.</td><td>105-107</td><td>Later audit should check whether Lark feels the moral burden of using/reading the book, not only its navigation help.</td></tr>
+        <tr class="flag-low"><td>Low</td><td>Tuning Core is structurally crucial but sparsely named.</td><td>103, 105, 107, 108</td><td>If readers miss Old Red's relic role, seed one or two clearer lines before finale.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>End-of-Season State</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Relic</th>
+          <th>End State After 108</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Compass of Ley Currents</td><td>With Sophia; part of failed stabilization after Old Red's death fracture backlash.</td></tr>
+        <tr><td>Shell of Memory</td><td>With Sophia; sings/stabilizes, then fails with Compass/Chronometer during fracture backlash.</td></tr>
+        <tr><td>Spyglass of Storms / Echo of the Tides</td><td>With Lark; harmonizes with Shell/Compass before finale collapse.</td></tr>
+        <tr><td>Cutlass of Surge</td><td>In Vane's hands during Old Red's death; false-bearer burn remains active.</td></tr>
+        <tr><td>Tuning Core</td><td>Pierced through Old Red; all relics fall silent. Sets up transfer/fusion pressure into Gull.</td></tr>
+        <tr><td>Memory of Kings</td><td>With Lark through late-season tracking; not directly resolved in 108 fast scan.</td></tr>
+        <tr><td>Abyssal Chronometer</td><td>In Sophia/Darak pressure field; ticks out of time after rift and fails to stabilize final backlash.</td></tr>
+        <tr><td>Spectral Beacon</td><td>Active in 105, then drops/dormants after the Gull sails away.</td></tr>
+        <tr><td>Crown of the Abyss</td><td>With Ching Shih; remains sovereign power-web relic.</td></tr>
+        <tr><td>Blackbeard's Ring</td><td>With Blackbeard; continues as sovereign/ghost-fleet tether pressure.</td></tr>
+        <tr><td>Lysara's Locket</td><td>Transferred from Jeb to Darak; brands Darak and becomes his active political/emotional leverage relic.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <p class="small">Source basis: episodes/s01/e101-e108/script.md. Generated as a production-readable companion to season-planning/s01/relic-tracker.md.</p>
+</main>
+</body>
+</html>

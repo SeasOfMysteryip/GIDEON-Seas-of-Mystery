@@ -51,7 +51,7 @@ Most outsiders would misread it as a power source. In truth it is a survival-har
 
 ## Episode Status
 
-Active from Episode 101. Cracks and transfers during the Red death arc in the `EP108` Season One finale, then lives in the Gull during the Season Two opening escape arc.
+Active from Episode 101. Cracks during the Red death arc in the EP108 Season One finale, then fully transfers into the Bloody Gull in EP201 during the Season Two opening escape arc.
 
 ## Failure Test
 

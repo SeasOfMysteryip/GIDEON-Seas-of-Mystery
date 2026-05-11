@@ -54,13 +54,32 @@ uses:
   - episodes/s01/e108/continuity-notes.md
   - episodes/s01/e108/revision-notes.md
   - episodes/s01/e108/scene-cards/index.md
+  - episodes/s02/e201/index.md
+  - episodes/s02/e201/source-map.md
+  - episodes/s02/e201/script.md
+  - episodes/s02/e201/continuity-notes.md
+  - episodes/s02/e201/revision-notes.md
+  - episodes/s02/e201/scene-cards/index.md
+  - episodes/s02/e202/index.md
+  - episodes/s02/e202/source-map.md
+  - episodes/s02/e202/script.md
+  - episodes/s02/e202/continuity-notes.md
+  - episodes/s02/e202/revision-notes.md
+  - episodes/s02/e202/scene-cards/index.md
 ---
 
 # Episodes Index
 
 This folder holds episode-level material.
 
-Season One currently runs from `EP101` through `EP108`. The final Season One episode is `EP108 — Into the Abyss`; the former final two Season One episodes now lead off Season Two as `S2E201` and `S2E202`.
+Season One currently runs from `EP101` through `EP108`. The final Season One episode is `EP108 — Into the Abyss`.
+
+Season Two currently begins with the holdover opening packet:
+
+- `EP201` - Abyss escape, Ocracoke betrayal, and Sophia taken
+- `EP202` - Sophia captivity, fracture corridor chase, Spectral Sea closure, and Benjamin Briggs reveal
+
+`EP203` remains downstream of `EP201`, `EP202`, `season-planning/s02/outline-frame.md`, `season-planning/s02/session-restructure-notes.md`, and `season-planning/s02/ep203-scene-breakdown.md`.
 
 Use it for:
 

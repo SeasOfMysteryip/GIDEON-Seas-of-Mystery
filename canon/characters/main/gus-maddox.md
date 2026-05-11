@@ -20,6 +20,10 @@ related_characters:
   - character.lark_hawthorne
   - character.sophia_briggs
   - character.old_red
+  - character.callum_thorne
+  - character.bram_pike
+  - character.finnian_bell
+  - character.toby_marlowe
 related_relics: []
 canon_tags:
   - survivalist_backbone
@@ -119,6 +123,10 @@ Gus watches Sophia like a stormcloud. Relics make him uneasy, but the unease com
 ### Old Red
 
 Gus treats Old Red with reverence and superstition. He knows Red is part prophet and part ship soul.
+
+### The Bloody Gull Boys
+
+Gus reads The Bloody Gull Boys as crew ballast: useful hands, cover noise, and shipboard morale. He respects the work behind the music more than the performance.
 
 ## Canon Failure Test
 

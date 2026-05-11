@@ -16,7 +16,7 @@ Use this as the one clean reusable scene-audit template for the new Gideon syste
 # Scene Audit
 
 ## Mode
-Thread the Bones / Salt in the Blood / Trial by Fire / Gulp It Deep / Pirate's Bloody Heart / Final Blade
+Thread the Bones / Salt the Blood / Gulp It Deep / Trial the Fire / Pirate's Bloody Heart / Final Cut, Gideon
 
 ## Overall Result
 Pass / Pass with notes / Revision recommended
@@ -63,4 +63,3 @@ Suggested Fix:
 ## Clean Next Pass
 - Best next review mode to run
 ```
-

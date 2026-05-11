@@ -5,30 +5,34 @@ status: canon_locked
 source_module: "03_Characters v2"
 source_file: "source-docs/03_Characters🧬 v2.docx"
 pilot_scope:
-  - character.silas_merrin
-  - character.beau_halvorsen
-  - character.marin_halvorsen
-  - character.lt_alina_voss
-  - character.tomas_reyes
-  - character.lysara
-  - character.vernon_harrow
-  - character.charles_vane
-  - character.murakami_hideyoshi
-  - character.blackbeard
-  - character.ching_shih
-  - character.darak_al_mhar
+  - character.sophia_briggs
+  - character.lark_hawthorne
   - character.elias_hawthorne
+  - character.jeb_blackwater
+  - character.old_red
+  - character.gus_maddox
+  - character.stumpy_pete
   - character.linda_han
   - character.drew_mitchell
   - character.jordan_reyes
   - character.martin_kim
   - character.carlos_vega
-  - character.old_red
-  - character.gus_maddox
-  - character.stumpy_pete
-  - character.jeb_blackwater
-  - character.lark_hawthorne
-  - character.sophia_briggs
+  - character.lysara
+  - character.blackbeard
+  - character.ching_shih
+  - character.charles_vane
+  - character.murakami_hideyoshi
+  - character.vernon_harrow
+  - character.darak_al_mhar
+  - character.silas_merrin
+  - character.beau_halvorsen
+  - character.marin_halvorsen
+  - character.lt_alina_voss
+  - character.tomas_reyes
+  - character.callum_thorne
+  - character.bram_pike
+  - character.finnian_bell
+  - character.toby_marlowe
 ---
 
 # Character Canon Index
@@ -39,33 +43,48 @@ This index defines the current canon-locked character profiles in the Gideon age
 
 For this pilot, the files below are treated as canon-locked character source material. If a scene conflicts with one of these profiles, Gideon should flag the conflict clearly and suggest a fix that preserves the writer's intent.
 
-## Profiles
+## Main
 
 | Character | File | Agent Function |
 | --- | --- | --- |
-| Silas Merrin | `silas-merrin.md` | Surveillance dread, codebreaker restraint, private-sector fracture intelligence |
-| Beau & Marin Halvorsen | `beau-and-marin-halvorsen.md` | Civilian bleed-tourism contrast, influencer blindness, early-listener sensitivity |
-| Lt. Alina Voss | `lt-alina-voss.md` | Tactical fracture mapping, clinical anti-myth observation, ArcLight counterpoint |
-| Tomas Reyes | `tomas-reyes.md` | Human fracture consequence, memory fragmentation, atmospheric warning presence |
-| Lysara | `lysara.md` | Living sea-memory, tidal grief, love-triggered myth presence, emotional catalyst |
-| Admiral Vernon Harrow | `vernon-harrow.md` | Imperial decay, command obsession, relic predation, haunted colonial order |
-| Charles Vane | `charles-vane.md` | Blood-oath fury, berserker fracture rage, revenge religion, feral myth violence |
-| Murakami Hideyoshi | `murakami-hideyoshi.md` | Tactical supremacy, cold calculation, relic-utilitarian control, future-rival precision |
-| Edward "Blackbeard" Thatch | `blackbeard.md` | Mythic dominion, theatrical menace, blood-oath fracture, strategic terror |
-| Ching Shih | `ching-shih.md` | Sovereign precision, abyssal command, legacy control, cold empire logic |
-| Darak al-Mhar | `darak-al-mhar.md` | Wild-card leverage, transaction charm, black-market relic logic, opportunist threat |
-| Elias Hawthorne | `elias-hawthorne.md` | Spectral mentor, Builder memory, restrained guidance, father-legacy pressure |
-| Linda Han | `linda-han.md` | Truth-seeking lens, combat-documentary pressure, myth skepticism, quiet grief |
-| Drew Mitchell | `drew-mitchell.md` | Light hunter, visual anomaly witness, image-first awe |
-| Jordan Reyes | `jordan-reyes.md` | Fracture listener, audio anomaly sensitivity, laid-back dread |
-| Martin Kim | `martin-kim.md` | Innocent-eye curiosity, accidental courage, myth proximity |
-| Carlos Vega | `carlos-vega.md` | Pattern reader, glitch analyst, edit-room anomaly logic |
-| Old Red | `old-red.md` | Prophecy voice, harmony regulation, relic pulse, sea-memory warning |
-| Gus Maddox | `gus-maddox.md` | Crew ballast, action loyalty, gallows humor, non-relic grit |
-| Stumpy Pete | `stumpy-pete.md` | Quartermaster bluntness, earned seamanship, crew-first grit, old-salt warning |
-| Jebediah "Jeb" Blackwater | `jeb-blackwater.md` | Captain voice, protective loyalty, grief, restraint, myth witness |
-| Lark Hawthorne | `lark-hawthorne.md` | Relic logic, sharp command voice, father wound, seeker drive |
-| Sophia Briggs | `sophia-briggs.md` | Oracle voice, bloodline pull, relic resonance, orphan wound |
+| Sophia Briggs | `main/sophia-briggs.md` | Oracle voice, bloodline pull, relic resonance, orphan wound |
+| Lark Hawthorne | `main/lark-hawthorne.md` | Relic logic, sharp command voice, father wound, seeker drive |
+| Elias Hawthorne | `main/elias-hawthorne.md` | Spectral mentor, Builder memory, restrained guidance, father-legacy pressure |
+| Jebediah "Jeb" Blackwater | `main/jeb-blackwater.md` | Captain voice, protective loyalty, grief, restraint, myth witness |
+| Old Red | `main/old-red.md` | Prophecy voice, harmony regulation, relic pulse, sea-memory warning |
+| Gus Maddox | `main/gus-maddox.md` | Crew ballast, action loyalty, gallows humor, non-relic grit |
+| Stumpy Pete | `main/stumpy-pete.md` | Quartermaster bluntness, earned seamanship, crew-first grit, old-salt warning |
+| Linda Han | `main/linda-han.md` | Truth-seeking lens, combat-documentary pressure, myth skepticism, quiet grief |
+| Drew Mitchell | `main/drew-mitchell.md` | Light hunter, visual anomaly witness, image-first awe |
+| Jordan Reyes | `main/jordan-reyes.md` | Fracture listener, audio anomaly sensitivity, laid-back dread |
+| Martin Kim | `main/martin-kim.md` | Innocent-eye curiosity, accidental courage, myth proximity |
+| Carlos Vega | `main/carlos-vega.md` | Pattern reader, glitch analyst, edit-room anomaly logic |
+| Lysara | `main/lysara.md` | Living sea-memory, tidal grief, love-triggered myth presence, emotional catalyst |
+
+## Enemies
+
+| Character | File | Agent Function |
+| --- | --- | --- |
+| Edward "Blackbeard" Thatch | `enemies/blackbeard.md` | Mythic dominion, theatrical menace, blood-oath fracture, strategic terror |
+| Ching Shih | `enemies/ching-shih.md` | Sovereign precision, abyssal command, legacy control, cold empire logic |
+| Charles Vane | `enemies/charles-vane.md` | Blood-oath fury, berserker fracture rage, revenge religion, feral myth violence |
+| Murakami Hideyoshi | `enemies/murakami-hideyoshi.md` | Tactical supremacy, cold calculation, relic-utilitarian control, future-rival precision |
+| Admiral Vernon Harrow | `enemies/vernon-harrow.md` | Imperial decay, command obsession, relic predation, haunted colonial order |
+| Darak al-Mhar | `enemies/darak-al-mhar.md` | Wild-card leverage, transaction charm, black-market relic logic, opportunist threat |
+
+## Minor
+
+| Character | File | Agent Function |
+| --- | --- | --- |
+| Silas Merrin | `minor/silas-merrin.md` | Surveillance dread, codebreaker restraint, private-sector fracture intelligence |
+| Beau Halvorsen | `minor/beau-and-marin-halvorsen.md` | Civilian bleed-tourism contrast, influencer blindness, early-listener sensitivity |
+| Marin Halvorsen | `minor/beau-and-marin-halvorsen.md` | Civilian bleed-tourism contrast, influencer blindness, early-listener sensitivity |
+| Lt. Alina Voss | `minor/lt-alina-voss.md` | Tactical fracture mapping, clinical anti-myth observation, ArcLight counterpoint |
+| Tomas Reyes | `minor/tomas-reyes.md` | Human fracture consequence, memory fragmentation, atmospheric warning presence |
+| Callum Thorne | `minor/callum-thorne.md` | Bloody Gull Boys guitar/vocals, topman rhythm, shipboard morale |
+| Bram Pike | `minor/bram-pike.md` | Bloody Gull Boys upright bass/vocals, carpenter's mate, low-harmony ballast |
+| Finnian Bell | `minor/finnian-bell.md` | Bloody Gull Boys fiddle/accordion/vocals, sailmaker-rigger, nervous musical edge |
+| Toby Marlowe | `minor/toby-marlowe.md` | Bloody Gull Boys drums/vocals, bosun's runner, deck cadence |
 
 ## Review Priorities
 
@@ -85,6 +104,7 @@ When these characters appear together, Gideon should check:
 - Does Old Red sound prophetic and rhythmic without becoming plain exposition?
 - Does Gus carry survival pressure through action, humor, and loyalty instead of mythic speech?
 - Does Stumpy sound earned, blunt, and crew-first rather than poetic?
+- Do The Bloody Gull Boys remain distinct working crew members whose music supports ship culture instead of turning them into relic operators or major plot engines?
 - Does Jeb protect without overexplaining?
 - Does Lark conclude instead of wondering aloud?
 - Does Sophia speak from reluctant certainty rather than generic mysticism?

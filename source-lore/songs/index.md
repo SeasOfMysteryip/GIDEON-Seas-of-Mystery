@@ -48,3 +48,4 @@ Do preserve:
 - `the-last-battle-of-jebediah-blackwater.md`
 - `the-ballad-of-the-mermaids-of-mistral-bay.md`
 - `the-ballad-of-the-gallows-ghost.md`
+- `into-the-triangle.md`

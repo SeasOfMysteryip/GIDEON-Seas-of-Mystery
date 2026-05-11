@@ -18,6 +18,10 @@ related_characters:
   - character.sophia_briggs
   - character.lark_hawthorne
   - character.charles_vane
+  - character.callum_thorne
+  - character.bram_pike
+  - character.finnian_bell
+  - character.toby_marlowe
 related_relics:
   - relic.builders_dice
 canon_tags:
@@ -127,6 +131,10 @@ Vane is harbinger and destroyer: he kills Red and snaps the Gull's original puls
 ### The Bloody Gull
 
 Red and the Gull are one heartbeat. By the end of his arc, the ship carries his pulse.
+
+### The Bloody Gull Boys
+
+Old Red is the older, stranger source of ship-song logic. The Bloody Gull Boys may carry crew rhythm and oral culture, but they must not mimic Red's prophecy function or replace his ley-tuned relationship to the ship.
 
 ## Arc And End State
 

@@ -7,12 +7,12 @@ source_section: "Primary Spine / Lark Hawthorne Bloodline / Season One Storytell
 source_file: "source-docs/00_Canon Bible Core🗺️ v2.docx"
 uses:
   - canon/core/season-spine.md
-  - canon/characters/lark-hawthorne.md
-  - canon/characters/sophia-briggs.md
-  - canon/characters/jeb-blackwater.md
-  - canon/characters/old-red.md
-  - canon/characters/blackbeard.md
-  - canon/characters/charles-vane.md
+  - canon/characters/main/lark-hawthorne.md
+  - canon/characters/main/sophia-briggs.md
+  - canon/characters/main/jeb-blackwater.md
+  - canon/characters/main/old-red.md
+  - canon/characters/enemies/blackbeard.md
+  - canon/characters/enemies/charles-vane.md
   - canon/relics/relic-circuit.md
 ---
 

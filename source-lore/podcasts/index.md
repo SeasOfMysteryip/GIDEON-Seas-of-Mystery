@@ -3,6 +3,8 @@ id: source_lore.podcasts.index
 type: source_lore_podcast_index
 status: working
 source_module: "05B_LORE / Podcast Episodes"
+uses:
+  - source-lore/podcasts/episode-bermuda-triangle.md
 ---
 
 # Podcasts Index
@@ -29,3 +31,6 @@ Podcast material may contain:
 
 These are not hard canon by default.
 
+## Current Converted Files
+
+- `episode-bermuda-triangle.md` - Seas of Mystery Episode 2, "The Bermuda Triangle Mysteries"; includes searchable vault sheet, tags, segment map, key entries, theory index, and clean transcript.

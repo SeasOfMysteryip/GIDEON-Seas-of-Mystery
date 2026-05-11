@@ -16,6 +16,15 @@ uses:
   - canon/factions/index.md
   - canon/factions/bleed-economy.md
   - agents/gideon/review-modes.md
+  - agents/gideon/pre-tier-outline-builder.md
+  - agents/gideon/scene-work-card-builder.md
+  - agents/gideon/forge-execution-modes.md
+  - agents/gideon/tier-one-structure-draft.md
+  - agents/gideon/tier-two-expansion-pass.md
+  - agents/gideon/tier-three-canon-validation.md
+  - agents/gideon/tier-four-character-consequence.md
+  - agents/gideon/tier-five-format-voice-lock.md
+  - agents/gideon/tier-six-final-pass.md
 ---
 
 # Gideon System
@@ -53,6 +62,10 @@ Gideon uses simplified modes instead of a hard Prime/Lite split:
 - `review mode`
 
 See [review-modes.md](review-modes.md) for the mode map.
+
+For full idea-to-finished-material development, use [forge-execution-modes.md](forge-execution-modes.md).
+
+The Forge is the primary product workflow for the Gideon Workspace app. Canon lookup, validation, pass/fail review, and final seal behavior should be embedded into the appropriate Forge tiers rather than exposed as disconnected machinery.
 
 ## Canon Rules
 

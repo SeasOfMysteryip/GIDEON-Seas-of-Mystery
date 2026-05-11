@@ -26,7 +26,7 @@ See `CONTRIBUTING.md` before changing locked canon, Gideon operating rules, or s
 
 ## What This Pilot Does
 
-- Treats Jeb, Lark, Sophia, Elias Hawthorne, Lysara, Darak al-Mhar, Blackbeard, Ching Shih, Charles Vane, Murakami Hideyoshi, Vernon Harrow, Old Red, Gus Maddox, Stumpy Pete, Linda Han, Drew Mitchell, Jordan Reyes, Martin Kim, Carlos Vega, Silas Merrin, Beau & Marin Halvorsen, Lt. Alina Voss, and Tomas Reyes as `canon_locked`.
+- Treats Jeb, Lark, Sophia, Elias Hawthorne, Lysara, Darak al-Mhar, Blackbeard, Ching Shih, Charles Vane, Murakami Hideyoshi, Vernon Harrow, Old Red, Gus Maddox, Stumpy Pete, Callum Thorne, Bram Pike, Finnian Bell, Toby Marlowe, Linda Han, Drew Mitchell, Jordan Reyes, Martin Kim, Carlos Vega, Silas Merrin, Beau & Marin Halvorsen, Lt. Alina Voss, and Tomas Reyes as `canon_locked`.
 - Separates each character into a stable, addressable profile.
 - Splits combat, fleet, and faction doctrine into dedicated canon buckets.
 - Establishes relic-language cleanup rules before the Relics module is converted.
@@ -42,7 +42,7 @@ Give Gideon a scene and ask:
 
 ```text
 Use agents/gideon/character-review.md and canon/relationship-continuity.md.
-Review this scene against canon/characters/jeb-blackwater.md, canon/characters/lark-hawthorne.md, and canon/characters/sophia-briggs.md.
+Review this scene against canon/characters/main/jeb-blackwater.md, canon/characters/main/lark-hawthorne.md, and canon/characters/main/sophia-briggs.md.
 Flag hard canon conflicts, voice drift, emotional drift, and relationship drift.
 Suggest fixes without rewriting the whole scene unless asked.
 ```
@@ -54,29 +54,36 @@ If you want a more repeatable operator flow, start with `agents/gideon/review-wo
 ```text
 canon/characters/
   index.md
-  old-red.md
-  gus-maddox.md
-  stumpy-pete.md
-  linda-han.md
-  drew-mitchell.md
-  jordan-reyes.md
-  martin-kim.md
-  carlos-vega.md
-  elias-hawthorne.md
-  lysara.md
-  darak-al-mhar.md
-  blackbeard.md
-  ching-shih.md
-  charles-vane.md
-  murakami-hideyoshi.md
-  vernon-harrow.md
-  silas-merrin.md
-  beau-and-marin-halvorsen.md
-  lt-alina-voss.md
-  tomas-reyes.md
-  jeb-blackwater.md
-  lark-hawthorne.md
-  sophia-briggs.md
+  main/
+    sophia-briggs.md
+    lark-hawthorne.md
+    elias-hawthorne.md
+    jeb-blackwater.md
+    old-red.md
+    gus-maddox.md
+    stumpy-pete.md
+    linda-han.md
+    drew-mitchell.md
+    jordan-reyes.md
+    martin-kim.md
+    carlos-vega.md
+    lysara.md
+  enemies/
+    blackbeard.md
+    ching-shih.md
+    charles-vane.md
+    murakami-hideyoshi.md
+    vernon-harrow.md
+    darak-al-mhar.md
+  minor/
+    silas-merrin.md
+    beau-and-marin-halvorsen.md
+    lt-alina-voss.md
+    tomas-reyes.md
+    callum-thorne.md
+    bram-pike.md
+    finnian-bell.md
+    toby-marlowe.md
 canon/tactics/
   index.md
   spectral-naval-codex.md

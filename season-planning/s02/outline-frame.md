@@ -22,6 +22,107 @@ This file is planning scaffolding extracted from `00`. It is useful for future d
 
 `Seas of Mystery: The Flood & The Flame`
 
+## Current Working Spine
+
+Season One:
+
+The crew discovers the impossible is real.
+
+Season Two:
+
+The crew learns other people have known for a long time.
+
+Season Two should widen the world without losing the crew's emotional engine. The Spectral Sea is no longer only a discovered myth. It is a hidden arena already known, studied, exploited, feared, guarded, and weaponized by other powers.
+
+## Expansion Categories
+
+### Factions
+
+Suggested Season Two faction lanes:
+
+- Blackbeard / Phoenician legacy faction
+- Ching Shih's fleet
+- modern military or intelligence group
+- private salvage / tech corporation
+- occult maritime order or admiralty archive
+- survivor communities in mirror harbors
+
+### Locations
+
+Suggested Season Two location lanes:
+
+- Mirror Harbors
+- Fracture Zones
+- Dead Routes
+- Anchor Cities
+- The Abyss
+- Atlantean Locks
+- Phoenician Keys
+
+## Sophia's Season Two Arc
+
+Avoid a simple "Sophia goes evil" arc.
+
+Better framing:
+
+Sophia is seduced by certainty and power.
+
+Possible influence lines:
+
+- Blackbeard tells her power is inheritance.
+- Ching Shih tells her power is command.
+- Benjamin Briggs tells her power is purpose.
+- The Gull's crew reminds her power is relationship, memory, and choice.
+
+Sophia should remain active while separated from the Gull. Her danger is not passive captivity; it is that every answer she receives makes the enemy's worldview feel more useful.
+
+## Opening Three Episodes
+
+### S2E1
+
+Working shape:
+
+- Open in the Abyss.
+- The Gull is broken and grieving.
+- Lark, Sophia, the relics, and the Gull harmonize to escape.
+- Old Red's Bone Dice and sacrifice become part of the ship's new state.
+- Jeb and Blackbeard temporarily team up against Vernon.
+- Ocracoke.
+- Jeb and Vane fight.
+- Vane almost reveals Blackbeard ordered Lysara's death.
+- Blackbeard kills Vane before he can finish.
+- Blackbeard turns on Jeb and takes Sophia.
+
+### S2E2
+
+Working shape:
+
+- Sophia is captive on Queen Anne's Revenge and spars with Blackbeard.
+- Ching Shih coordinates a trap with an unseen ally.
+- Jeb grieves Old Red, Lysara, and Sophia.
+- Jeb realizes Blackbeard has been behind the pattern.
+- Lark learns more about the relic circuit from the Memory of Kings.
+- The chase through fracture corridors.
+- The trap.
+- Sophia and Lark close the Spectral Sea from the Bloody Gull.
+- The Gull is left in the Atlantic near the Bermuda Triangle.
+- Post-credit reveal: USS Cyclops and Benjamin Briggs.
+
+### S2E3
+
+Working shape:
+
+- The Gull has to navigate the real world without looking like a spectral ship.
+- Lark obsessively studies the Memory of Kings and relic circuit.
+- Gus and Jeb look for ways back into the Spectral Sea.
+- Hint at new factions and the return of a minor Season One character.
+- Sophia spends time with Benjamin Briggs.
+- She listens, watches, and learns.
+- Blackbeard, Ching Shih, and Benjamin meet with a new faction.
+- Sophia discovers truths while thinking she is sneaking, though Benjamin allows it.
+- The Gull meets a new faction and returning character.
+- A plan to breach the Spectral Sea begins forming.
+
 ## Act Frame
 
 ### Act I - Return to Bloodied Shores

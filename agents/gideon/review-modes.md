@@ -5,6 +5,7 @@ status: pilot
 source_module: "07_GIDEON & THE FORGE v2"
 uses:
   - agents/gideon/system.md
+  - agents/gideon/forge-execution-modes.md
   - agents/gideon/character-review.md
   - agents/gideon/voice-check.md
   - canon/core/index.md
@@ -12,138 +13,158 @@ uses:
 
 # Gideon Review Modes
 
-This file translates the old Forge tier language into practical operating modes for the GitHub-era Gideon agent.
+This file maps Gideon's review behavior to the canonical Forge tiers.
 
-The Forge names can still be used as flavor labels, but the behavior underneath should stay simple and consistent.
+The Forge tiers are the primary product workflow. Review behavior is built into the tiers instead of living as a separate competing system.
 
 ## Mode Map
 
-### Thread the Bones
+| Tier | Seas Name | Generic App Name | Review Behavior |
+| --- | --- | --- | --- |
+| T1 | `Thread the Bones` | `Structure Draft` | Structure, outline, beat, scene-turn, and draft-shape review. |
+| T2 | `Salt the Blood` | `Expansion Pass` | Emotional discovery, texture, atmosphere, wound pressure, and richness review. |
+| T3 | `Gulp It Deep` | `Canon Validation Pass` | Canon lookup, world-bible validation, lore, relics, myth systems, factions, fleets, and tactics. |
+| T4 | `Trial the Fire` | `Character Consequence Pass` | Character, relationship, action, consequence, support-function, and voice-pressure validation. |
+| T5 | `Pirate's Bloody Heart` | `Format & Voice Lock` | Pass/fail lock for format, tone, pace, voiceprint, and unresolved validation blockers. |
+| T6 | `Final Cut, Gideon` | `Polish & Seal` | Final grammar, format, trim, continuity confidence, and delivery seal. |
 
-Function:
-Structure pass.
+## T1: Thread The Bones
 
 Use for:
 
 - outline review
 - scene skeleton checks
 - act and beat logic
-- whether the story bones are in place
+- point of view
+- scene turn
+- cause/effect clarity
 
 Primary questions:
 
 - Does the scene know what it is doing?
 - Is the point of view stable?
 - Is the scene turning for a reason?
+- Are required beats present?
 
-### Salt in the Blood
-
-Function:
-Emotional pass.
+## T2: Salt The Blood
 
 Use for:
 
 - wound pressure
 - emotional logic
 - desire, fear, grief, loyalty, longing
+- atmosphere
+- sensory discovery
+- mythic or tonal richness
 
 Primary questions:
 
 - What hurts here?
 - What is being protected?
 - What changed inside the character?
+- What image, feeling, or pressure has not yet been fully found?
 
-### Trial by Fire
-
-Function:
-Character and drift pass.
+## T3: Gulp It Deep
 
 Use for:
 
-- canon drift
-- relationship drift
+- canon lookup
+- canon validation
+- relic behavior
+- myth and systems doctrine
+- world-bible rules
+- faction pressure
+- fleet and tactics logic
+- location specificity
+
+Primary questions:
+
+- Does this obey locked canon?
+- Which source files prove or challenge this choice?
+- Is the world logic specific or generic?
+- Are unsupported additions labeled correctly?
+
+## T4: Trial The Fire
+
+Use for:
+
+- character integrity
+- relationship continuity
 - role confusion
 - support-character flattening
+- consequence audit
+- action meaning
+- voice drift under pressure
 
 Primary questions:
 
 - Does everyone still sound and act like themselves?
 - Did any relationship truth get bent or erased?
+- Does action create consequence?
+- Did the plot move without changing the people?
 
-### Gulp It Deep
-
-Function:
-Deep scene audit.
+## T5: Pirate's Bloody Heart
 
 Use for:
 
-- high-value emotional scenes
-- layered ensemble scenes
-- scenes mixing myth, relics, and relationship tension
+- near-final pass/fail review
+- format compliance
+- tone lock
+- pace lock
+- voiceprint enforcement
+- unresolved blocker review
 
 Primary questions:
 
-- Is the scene only functional, or does it carry full pressure?
-- Are myth and emotion balanced?
-- Are all present characters doing distinct work?
+- Is this in the correct form?
+- Does the pace match the form?
+- Does the voiceprint hold?
+- Are there any Tier 3 or Tier 4 blockers that prevent lock?
 
-### Pirate's Bloody Heart
-
-Function:
-Intensive scene-heart review.
+## T6: Final Cut, Gideon
 
 Use for:
 
-- pivotal scenes
-- episode anchors
-- scenes likely to define character memory
-
-Primary questions:
-
-- Does this scene feel inevitable?
-- Is it emotionally dangerous enough?
-- Does it reveal character through pressure instead of summary?
-
-### Final Blade
-
-Function:
-Final polish pass.
-
-Use for:
-
-- near-final scene language
-- rhythm trimming
+- final polish
+- grammar
+- typo pass
 - line tightening
-- last-pass continuity confidence
+- formatting cleanup
+- final continuity confidence
+- final decision notes
 
 Primary questions:
 
 - What can be sharpened without changing meaning?
 - Is there any remaining drift?
-- Does the scene breathe cleanly?
+- Does the draft breathe cleanly?
+- Is this ready to seal?
 
 ## Default Use Order
 
-For a normal scene review:
+For full Forge execution:
 
 1. `Thread the Bones`
-2. `Salt in the Blood`
-3. `Trial by Fire`
-4. `Gulp It Deep` if the scene matters enough
-5. `Final Blade` when polishing
+2. `Salt the Blood`
+3. `Gulp It Deep`
+4. `Trial the Fire`
+5. `Pirate's Bloody Heart`
+6. `Final Cut, Gideon`
 
 ## Mode Selection Guidance
 
-Use fewer modes for smaller tasks.
+Use fewer tiers for smaller tasks.
 
-- Short dialogue sample: `Trial by Fire` + `Final Blade`
 - Outline beat pass: `Thread the Bones`
-- Big emotional reunion: `Salt in the Blood` + `Gulp It Deep`
-- Canon-sensitive ensemble confrontation: `Trial by Fire` + `Gulp It Deep`
+- Emotional expansion: `Salt the Blood`
+- Canon-sensitive scene: `Gulp It Deep`
+- Character-sensitive scene: `Trial the Fire`
+- Near-final teleplay scene: `Pirate's Bloody Heart`
+- Final polish: `Final Cut, Gideon`
 
 ## Review Output Rule
 
-No matter which mode is used, Gideon should still:
+No matter which tier is used, Gideon should still:
 
 - preserve constitutional identity from `canon/core/`
 - preserve intent

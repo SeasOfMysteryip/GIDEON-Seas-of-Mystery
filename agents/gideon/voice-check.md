@@ -3,29 +3,29 @@ id: agent.gideon.voice_check
 type: review_mode
 status: pilot
 uses:
-  - canon/characters/silas-merrin.md
-  - canon/characters/beau-and-marin-halvorsen.md
-  - canon/characters/lt-alina-voss.md
-  - canon/characters/tomas-reyes.md
-  - canon/characters/lysara.md
-  - canon/characters/vernon-harrow.md
-  - canon/characters/charles-vane.md
-  - canon/characters/murakami-hideyoshi.md
-  - canon/characters/blackbeard.md
-  - canon/characters/ching-shih.md
-  - canon/characters/darak-al-mhar.md
-  - canon/characters/elias-hawthorne.md
-  - canon/characters/linda-han.md
-  - canon/characters/drew-mitchell.md
-  - canon/characters/jordan-reyes.md
-  - canon/characters/martin-kim.md
-  - canon/characters/carlos-vega.md
-  - canon/characters/old-red.md
-  - canon/characters/gus-maddox.md
-  - canon/characters/stumpy-pete.md
-  - canon/characters/jeb-blackwater.md
-  - canon/characters/lark-hawthorne.md
-  - canon/characters/sophia-briggs.md
+  - canon/characters/minor/silas-merrin.md
+  - canon/characters/minor/beau-and-marin-halvorsen.md
+  - canon/characters/minor/lt-alina-voss.md
+  - canon/characters/minor/tomas-reyes.md
+  - canon/characters/main/lysara.md
+  - canon/characters/enemies/vernon-harrow.md
+  - canon/characters/enemies/charles-vane.md
+  - canon/characters/enemies/murakami-hideyoshi.md
+  - canon/characters/enemies/blackbeard.md
+  - canon/characters/enemies/ching-shih.md
+  - canon/characters/enemies/darak-al-mhar.md
+  - canon/characters/main/elias-hawthorne.md
+  - canon/characters/main/linda-han.md
+  - canon/characters/main/drew-mitchell.md
+  - canon/characters/main/jordan-reyes.md
+  - canon/characters/main/martin-kim.md
+  - canon/characters/main/carlos-vega.md
+  - canon/characters/main/old-red.md
+  - canon/characters/main/gus-maddox.md
+  - canon/characters/main/stumpy-pete.md
+  - canon/characters/main/jeb-blackwater.md
+  - canon/characters/main/lark-hawthorne.md
+  - canon/characters/main/sophia-briggs.md
 ---
 
 # Gideon Voice Check
