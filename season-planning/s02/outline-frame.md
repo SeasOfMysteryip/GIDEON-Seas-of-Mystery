@@ -24,11 +24,11 @@ This file is planning scaffolding extracted from `00`. It is useful for future d
 
 ## Current Working Spine
 
-Season One:
+### Season One
 
 The crew discovers the impossible is real.
 
-Season Two:
+### Season Two
 
 The crew learns other people have known for a long time.
 
@@ -65,7 +65,7 @@ Avoid a simple "Sophia goes evil" arc.
 
 Better framing:
 
-Sophia is seduced by certainty and power.
+> Sophia is seduced by certainty and power.
 
 Possible influence lines:
 
@@ -125,7 +125,7 @@ Working shape:
 
 ## Act Frame
 
-### Act I - Return to Bloodied Shores
+### Act I - Return to Bloodied Shores (EP201-203)
 
 Objective planning points:
 
@@ -133,7 +133,7 @@ Objective planning points:
 - establish surface-world tension
 - log myth signals, relic activations, and ley events
 
-### Act II - The Kings Reclaim Their Thrones
+### Act II - The Kings Reclaim Their Thrones (EP204-206)
 
 Objective planning points:
 
@@ -141,15 +141,38 @@ Objective planning points:
 - expose major faction agendas
 - layer betrayal, broken alliances, and false finds
 
-### Act III - The Relic Uprising
+#### EP204
+
+- Blackbeard, Ching Shih, Murakami and Benjamin Briggs use Sophia to start hunting more relics. We start to pick up on the sense that Benjamin Briggs may not be fully aligned with the Phoenicians (Pirates.)
+- Blackbeard thinks having the relics will allow him to become "mortal" again and be able to leave the Spectral Sea and walk on real land. He wants to create a Pirate ruled world.
+- Ching Shih is more in line with Benjamin Briggs.
+- Murakami is Blackbeard's second but he isn't immune to his own desires and Phoenician/Revisionists aims.
+
+#### EP205
+
+- Start hinting at Watchers/Protectors.
+- Lark and Sophia bloodlines trace back to Atlantis, making them Watchers. They, along with Jeb have been chosen to protect the knowledge of Atlantis.
+- Lets have Jeb's being chosen be a source of inner conflict.
+- The Gull finally makes it back to Spectral Sea in this episode with the help of Lt. Alina Voss and Darak al-Mhar.
+
+#### EP206
+
+- Really open up the Phoenicians and Revisionists. Working together but both looking to use the other until they don't have to. Benjamin Briggs represents the Revisionists.
+- Let's play off of a British Empire working with pirates back in the Golden Age of Piracy. In the end, pirates are going to pirate. Imperials are going to imperial.
+- Jeb, Lark and the crew navigate the Spectral Sea looking for Blackbeard and Sophia. They don't know that Benjamin Briggs is involved.
+
+### Act III - The Relic Uprising (NOW EP207)
 
 Objective planning points:
 
 - reunite the crew with Sophia
+- Benjamin Briggs reveal to the Jeb, Lark and the Gull's crew.
 - turn relic conflict into rebellion or resistance
+- The relics in Blackbeard's possession are now known.
+- Darak has the Coral Fragment. (We teased this in EP107.)
 - introduce new ships, pirates, or maritime myth pressure
 
-### Act IV - Atlantis Emerges
+### Act IV - Atlantis Emerges (NOW EP208)
 
 Objective planning points:
 
@@ -157,7 +180,9 @@ Objective planning points:
 - shift the world geographically and mythically
 - push relic bearers into new loyalties and anchors
 
-### Finale - Crowning of the New Leviathans
+### Finale - Crowning of the New Leviathans (END OF 208)
+
+Season Three starts with the "bad guys" in control. They are closer to Atlantis than the Watcher/Protectors.
 
 Objective planning points:
 
