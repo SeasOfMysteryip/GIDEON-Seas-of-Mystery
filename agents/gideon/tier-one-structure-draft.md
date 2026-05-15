@@ -129,7 +129,7 @@ Tier One ends with:
 
 - `Ready for Tier Two`
 - `Ready with notes`
-- `Hold for captain review`
+- `Hold for writer review`
 - `Blocked`
 
 Do not move to Tier Two if:

@@ -141,7 +141,7 @@ Does myth move forward, or does it repeat the wound?
 
 Use this to identify whether the scene escalates or merely restates existing pain.
 
-### Captain's Note
+### Writer's Note
 
 Optional directive clarification from the writer.
 
@@ -240,7 +240,7 @@ Allowed findings:
 - `Myth leads emotion`
 - `Bloodline weight aligned`
 - `Bloodline weight mismatch`
-- `Captain review requested`
+- `Writer review requested`
 - `Input required`
 
 ## App Output Shape
@@ -256,7 +256,7 @@ Recommended sections:
 - Myth Fracture Alignment
 - Bloodline Weight Rank
 - Pulse Note
-- Captain's Note
+- Writer's Note
 - Pacing Reference
 - Result
 - Blockers
@@ -268,14 +268,14 @@ Tier Four must end with one clear gate result:
 
 - `Ready for Tier Five`
 - `Ready with notes`
-- `Hold for captain review`
+- `Hold for writer review`
 - `Blocked`
 
 `Ready for Tier Five` means character consequence is strong enough to enter `Pirate's Bloody Heart`.
 
 `Ready with notes` means non-blocking concerns should carry forward.
 
-`Hold for captain review` means the writer must answer a question or choose an option.
+`Hold for writer review` means the writer must answer a question or choose an option.
 
 `Blocked` means emotional pulse, voiceprint, relic consequence, myth alignment, or bloodline weight fails.
 

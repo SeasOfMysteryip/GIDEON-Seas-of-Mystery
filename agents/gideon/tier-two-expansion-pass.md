@@ -166,7 +166,7 @@ Tier Two ends with:
 
 - `Ready for Tier Three`
 - `Ready with notes`
-- `Hold for captain review`
+- `Hold for writer review`
 - `Blocked`
 
 Tier Two should hand Tier Three a draft with enough life and specificity to validate against canon and world law.

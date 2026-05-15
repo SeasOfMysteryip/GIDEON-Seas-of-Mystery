@@ -440,7 +440,7 @@ Result labels:
 - `Revision required`
 - `Do not seal`
 - `Ready for Tier Six`
-- `Hold for captain review`
+- `Hold for writer review`
 
 ## T6: Final Cut, Gideon
 

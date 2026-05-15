@@ -142,7 +142,7 @@ If the input is missing or unclear, return `Input required`.
 - Next scene if known:
 - Source path:
 
-## Captain's Note
+## Writer's Note
 
 -
 

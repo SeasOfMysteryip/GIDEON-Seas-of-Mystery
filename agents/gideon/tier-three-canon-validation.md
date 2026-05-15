@@ -116,7 +116,7 @@ Use for:
 - scene rhythm that must remain intact
 - intentional silence
 
-If a no-touch zone appears to conflict with canon, flag it for captain review instead of changing it.
+If a no-touch zone appears to conflict with canon, flag it for writer review instead of changing it.
 
 ### Editing Margin
 
@@ -135,7 +135,7 @@ Tier Three prohibited actions:
 - no new relic behavior
 - no emotional reinterpretation
 
-### Captain's Note
+### Writer's Note
 
 Optional directive or concern from the writer.
 
@@ -274,7 +274,7 @@ Ask:
 
 - Are all no-touch zones preserved?
 - Does any no-touch zone create canon risk?
-- If so, has it been flagged for captain review instead of changed?
+- If so, has it been flagged for writer review instead of changed?
 
 ### Word Drift Check
 
@@ -303,7 +303,7 @@ Allowed findings:
 - `Myth injection risk`
 - `Word drift risk`
 - `No-touch zone preserved`
-- `No-touch conflict: captain review`
+- `No-touch conflict: writer review`
 - `Dialogue redline safe`
 - `Dialogue redline unsafe`
 - `Input required`
@@ -332,14 +332,14 @@ Tier Three must end with one clear gate result:
 
 - `Ready for Tier Four`
 - `Ready with notes`
-- `Hold for captain review`
+- `Hold for writer review`
 - `Blocked`
 
 `Ready for Tier Four` means world law and canon validation are strong enough to enter `Trial the Fire`.
 
 `Ready with notes` means non-blocking concerns should carry forward.
 
-`Hold for captain review` means the writer must answer a question or approve a redline.
+`Hold for writer review` means the writer must answer a question or approve a redline.
 
 `Blocked` means canon, world identity, relic behavior, myth system behavior, benchmark compliance, or no-touch conflict fails.
 

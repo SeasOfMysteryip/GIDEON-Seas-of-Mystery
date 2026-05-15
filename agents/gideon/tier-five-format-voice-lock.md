@@ -60,7 +60,7 @@ Each Tier Five scene should include:
 - target format
 - full scene draft
 - selected source files or source packet
-- optional captain's challenge or focus question
+- optional writer's challenge or focus question
 
 ## Tier Five Audit Card
 
@@ -135,7 +135,7 @@ The closing visible or audible act.
 
 No narration. Only what is seen or heard.
 
-### Captain's Challenge
+### Writer's Challenge
 
 Optional writer concern for Gideon to validate.
 
@@ -180,10 +180,10 @@ Gideon may:
 - identify performance breath markers
 - identify voiceprint blend risk
 - identify performance break risk
-- answer the captain's challenge
+- answer the writer's challenge
 - provide scaled options when explicitly requested
 - verify insert readiness for Tier Six
-- request captain review
+- request writer review
 
 When the writer asks for edit options, use three scaled options:
 
@@ -263,7 +263,7 @@ Allowed result labels:
 - `Performance break risk`
 - `Relic attunement risk`
 - `Insert verified`
-- `Captain review requested`
+- `Writer review requested`
 - `Input required`
 
 ## App Output Shape
@@ -279,7 +279,7 @@ Recommended sections:
 - Emotional Fracture Vector
 - Relic Attunement Check
 - Final Word Or Gesture
-- Captain's Challenge
+- Writer's Challenge
 - Result
 - Blockers
 - Ready For Tier Six
@@ -290,14 +290,14 @@ Tier Five must end with one clear gate result:
 
 - `Ready for Tier Six`
 - `Ready with notes`
-- `Hold for captain review`
+- `Hold for writer review`
 - `Blocked`
 
 `Ready for Tier Six` means the scene can enter `Final Cut, Gideon`.
 
 `Ready with notes` means the scene can enter Tier Six, but non-blocking concerns should be preserved.
 
-`Hold for captain review` means the writer must answer a question or choose an option.
+`Hold for writer review` means the writer must answer a question or choose an option.
 
 `Blocked` means bloodlock, voiceprint, performance, canon, or format pressure fails.
 
