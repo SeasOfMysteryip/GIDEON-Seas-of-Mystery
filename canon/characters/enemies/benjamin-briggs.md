@@ -27,7 +27,7 @@ In Seas of Mystery canon, Benjamin is not simply a lost mariner returned from hi
 
 Benjamin is of Phoenician blood. His wife, Sarah Briggs, was Atlantean or Atlantean-descended. Sophia therefore carries both Phoenician and Atlantean inheritance, making her a living convergence point between old enemy systems.
 
-Benjamin currently works and lives aboard the USS Cyclops, which functions as his hidden Revisionist/Phoenician archive and command space inside a modern naval shell. Captain Wilhelm Morely will be connected to the Cyclops infrastructure in later development.
+Benjamin currently works and lives aboard the USS Cyclops, which functions as his hidden Revisionist/Phoenician archive and command space inside a modern naval shell. Captain Wilhelm Worley will be connected to the Cyclops infrastructure in later development.
 
 ## Antagonist Function
 
@@ -107,7 +107,7 @@ Benjamin currently operates from the USS Cyclops.
 
 The Cyclops functions as a hidden Revisionist/Phoenician archive and command space inside a modern naval shell. It contains evidence of failed timelines, alternate logs, duplicate relic impressions, erased maps, rooms named after vanished ships, and one sealed chamber connected to the Mary Celeste.
 
-The detailed layout, Captain Wilhelm Morely’s role, and the Cyclops/Proteus naval identity are **Later Reveal** and should be developed during the dedicated USS Cyclops and Morely pass.
+The detailed layout, Captain Wilhelm Worley’s role, and the Cyclops/Proteus naval identity are **Later Reveal** and should be developed during the dedicated USS Cyclops and Worley pass.
 
 ## Behavioral Law
 
@@ -164,7 +164,7 @@ Historical details should remain in adaptation notes unless the story explicitly
 | --- | --- |
 | The Last Benjamin | Locked into the canon draft as declared backstory: Benjamin has killed alternate versions of himself to prune outcomes. Marked Not Yet Explained for on-page mechanics. |
 | Sarah Was The First Revision | Integrated as Benjamin’s emotional origin. The exact result of the Sarah revision remains Later Reveal. |
-| The Cyclops Archive | Integrated as Benjamin’s current base and archive. Details around Cyclops layout, Morely, and Mary Celeste chamber remain Later Reveal. |
+| The Cyclops Archive | Integrated as Benjamin’s current base and archive. Details around Cyclops layout, Worley, and Mary Celeste chamber remain Later Reveal. |
 | Benjamin Knows Blackbeard Wins Wrong | Integrated as Benjamin’s moral-complexity engine. He believes Blackbeard’s future burns the Spectral Sea and breaks Sophia. |
 | Mary Celeste disappearance | Integrated as Benjamin’s first major Revisionist rupture, with mechanics saved for Later Reveal. |
 | Sarah as Atlantean inheritance | Integrated as canon-in-progress: Sarah’s Atlantean descent makes Sophia both Phoenician and Atlantean by inheritance. |
