@@ -6,7 +6,7 @@ source: "User Tier One/Two planning notes and EP108 outline-to-draft reference"
 uses:
   - agents/gideon/forge-execution-modes.md
   - agents/gideon/tier-one-structure-draft.md
-  - agents/gideon/scene-work-card-builder.md
+  - agents/gideon/field-scene-card-builder.md
   - canon/core/index.md
   - source-lore/songs/song-catalog.md
 ---
@@ -16,7 +16,7 @@ uses:
 Tier Two is the overfill and discovery pass.
 
 Seas name:
-`Salt the Blood`
+`T2 Draft Expansion`
 
 Generic app name:
 `Expansion Pass`

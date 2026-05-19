@@ -20,7 +20,7 @@ uses:
 Tier Four is the emotional truth and consequence pass.
 
 Seas name:
-`Trial the Fire`
+`T4 Character Consequence`
 
 Generic app name:
 `Character Consequence Pass`
@@ -271,7 +271,7 @@ Tier Four must end with one clear gate result:
 - `Hold for writer review`
 - `Blocked`
 
-`Ready for Tier Five` means character consequence is strong enough to enter `Pirate's Bloody Heart`.
+`Ready for Tier Five` means character consequence is strong enough to enter `T5 Voice & Continuity`.
 
 `Ready with notes` means non-blocking concerns should carry forward.
 

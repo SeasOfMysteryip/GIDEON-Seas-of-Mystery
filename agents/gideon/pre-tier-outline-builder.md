@@ -5,7 +5,7 @@ status: working
 source: "User Tier One/Two planning notes and EP108 outline-to-draft reference"
 uses:
   - agents/gideon/forge-execution-modes.md
-  - agents/gideon/scene-work-card-builder.md
+  - agents/gideon/field-scene-card-builder.md
   - canon/core/index.md
 ---
 
@@ -14,7 +14,7 @@ uses:
 Pre-Tier is the simplest entry point into the Forge.
 
 Seas name:
-`Chart the Waters`
+`Idea To Outline`
 
 Generic app name:
 `Idea To Outline`
@@ -106,7 +106,7 @@ Pre-Tier ends with:
 - `Ready with questions`
 - `Input required`
 
-`Ready for Tier One` means there is enough shape to run `Thread the Bones`.
+`Ready for Tier One` means there is enough shape to run `T1 Structure`.
 
 `Ready with questions` means Gideon can proceed, but the writer should answer one to three useful questions first.
 

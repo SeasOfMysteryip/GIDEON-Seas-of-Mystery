@@ -442,4 +442,4 @@ Needs Forge: T3
 
 ## Recommended Next Step
 
-Break this into act-by-act scene cards, then send the breach mechanics, new faction doctrine, and opposite-side circuit logic through T3 - Gulp It Deep for canon validation before drafting pages.
+Break this into act-by-act scene cards, then send the breach mechanics, new faction doctrine, and opposite-side circuit logic through T3 - T3 Canon Validation for canon validation before drafting pages.

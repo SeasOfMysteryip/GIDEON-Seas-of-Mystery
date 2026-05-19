@@ -15,7 +15,7 @@ uses:
 Tier Six is the final non-invasive pass before a scene, chapter, episode section, or other writing unit is treated as sealed.
 
 Seas name:
-`Final Cut, Gideon`
+`T6 Final Polish`
 
 Generic app name:
 `Polish & Seal`

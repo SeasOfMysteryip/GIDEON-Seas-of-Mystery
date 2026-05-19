@@ -6,7 +6,7 @@ source: "User notes, 2026-05-03"
 uses:
   - agents/gideon/system.md
   - agents/gideon/pre-tier-outline-builder.md
-  - agents/gideon/scene-work-card-builder.md
+  - agents/gideon/field-scene-card-builder.md
   - agents/gideon/review-modes.md
   - agents/gideon/review-workflow.md
   - agents/gideon/tier-one-structure-draft.md
@@ -37,12 +37,12 @@ The Forge should feel like working with a co-showrunner in the room, not asking 
 
 | Tier | Seas Name | Generic App Name | Primary Job |
 | --- | --- | --- | --- |
-| T1 | `Thread the Bones` | `Structure Draft` | Turn outline, beats, or sketch material into a complete structured draft. |
-| T2 | `Salt the Blood` | `Expansion Pass` | Overfill the draft with emotion, atmosphere, texture, and discovery. |
-| T3 | `Gulp It Deep` | `Canon Validation Pass` | Validate world rules, canon, lore, systems, relics, factions, fleets, tactics, and setting identity. |
-| T4 | `Trial the Fire` | `Character Consequence Pass` | Validate character, relationship, action, choice, emotional consequence, and voice-pressure behavior. |
-| T5 | `Pirate's Bloody Heart` | `Format & Voice Lock` | Lock pace, tone, format, voiceprint, pass/fail status, and draft compliance. |
-| T6 | `Final Cut, Gideon` | `Polish & Seal` | Finish grammar, formatting, continuity confidence, final trim, and delivery readiness. |
+| T1 | `T1 Structure` | `Structure Draft` | Turn outline, beats, or sketch material into a complete structured draft. |
+| T2 | `T2 Draft Expansion` | `Expansion Pass` | Overfill the draft with emotion, atmosphere, texture, and discovery. |
+| T3 | `T3 Canon Validation` | `Canon Validation Pass` | Validate world rules, canon, lore, systems, relics, factions, fleets, tactics, and setting identity. |
+| T4 | `T4 Character Consequence` | `Character Consequence Pass` | Validate character, relationship, action, choice, emotional consequence, and voice-pressure behavior. |
+| T5 | `T5 Voice & Continuity` | `Format & Voice Lock` | Lock pace, tone, format, voiceprint, pass/fail status, and draft compliance. |
+| T6 | `T6 Final Polish` | `Polish & Seal` | Finish grammar, formatting, continuity confidence, final trim, and delivery readiness. |
 
 ## Pre-Tier: Build The Outline
 
@@ -64,7 +64,7 @@ Gideon may ask clarifying questions or offer options, but should not invent lock
 
 Use `agents/gideon/pre-tier-outline-builder.md` when the writer gives a raw idea, rough sketch, or messy note pile and wants a usable outline back.
 
-Use `agents/gideon/scene-work-card-builder.md` when the writer gives a scene idea, outline, or draft and wants Gideon to build a searchable field scene card before running a Forge tier.
+Use `agents/gideon/field-scene-card-builder.md` when the writer gives a scene idea, outline, or draft and wants Gideon to build a searchable field scene card before running a Forge tier.
 
 ## Global Forge Rules
 
@@ -114,7 +114,7 @@ Each tier must end with one clear gate result:
 
 If the result is `Hold for revision` or `Blocked`, Gideon must name the blocker and the smallest useful next action.
 
-## T1: Thread The Bones
+## T1: T1 Structure
 
 Generic app name:
 `Structure Draft`
@@ -161,7 +161,7 @@ Hard stops:
 - required beats omitted
 - draft cannot be understood without external explanation
 
-## T2: Salt The Blood
+## T2: T2 Draft Expansion
 
 Generic app name:
 `Expansion Pass`
@@ -210,7 +210,7 @@ Hard stops:
 Important rule:
 Tier 2 is allowed to be too much on purpose. Tier 5 is where it stops staying too much.
 
-## T3: Gulp It Deep
+## T3: T3 Canon Validation
 
 Generic app name:
 `Canon Validation Pass`
@@ -287,7 +287,7 @@ Result labels:
 - `Revision recommended`
 - `Canon conflict`
 
-## T4: Trial The Fire
+## T4: T4 Character Consequence
 
 Generic app name:
 `Character Consequence Pass`
@@ -364,7 +364,7 @@ Result labels:
 - `Major drift`
 - `Canon conflict`
 
-## T5: Pirate's Bloody Heart
+## T5: T5 Voice & Continuity
 
 Generic app name:
 `Format & Voice Lock`
@@ -442,7 +442,7 @@ Result labels:
 - `Ready for Tier Six`
 - `Hold for writer review`
 
-## T6: Final Cut, Gideon
+## T6: T6 Final Polish
 
 Generic app name:
 `Polish & Seal`
@@ -510,12 +510,12 @@ Result labels:
 For the Gideon Workspace app, the visible product control should show both names:
 
 ```text
-Thread the Bones - Structure Draft
-Salt the Blood - Expansion Pass
-Gulp It Deep - Canon Validation Pass
-Trial the Fire - Character Consequence Pass
-Pirate's Bloody Heart - Format & Voice Lock
-Final Cut, Gideon - Polish & Seal
+T1 Structure - Structure Draft
+T2 Draft Expansion - Expansion Pass
+T3 Canon Validation - Canon Validation Pass
+T4 Character Consequence - Character Consequence Pass
+T5 Voice & Continuity - Format & Voice Lock
+T6 Final Polish - Polish & Seal
 ```
 
 The app should hide the internal prompt machinery but expose:

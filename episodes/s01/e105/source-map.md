@@ -10,7 +10,7 @@ source_file: "https://docs.google.com/document/d/1_c25A0QIsbYI1K6MQPugIEp61czb05
 
 ## Whole Episode Sources
 
-- Google Doc: [Final Pirate's Bloody Heart Pass - Seas of Mystery - Episode 105: Tides of Blood & Bone](https://docs.google.com/document/d/1_c25A0QIsbYI1K6MQPugIEp61czb05LmNRgJqtxotCU)
+- Google Doc: [Final T5 Voice & Continuity Pass - Seas of Mystery - Episode 105: Tides of Blood & Bone](https://docs.google.com/document/d/1_c25A0QIsbYI1K6MQPugIEp61czb05LmNRgJqtxotCU)
 - Source selection note: final-pass whole-episode Google Doc, modified 2025-06-05
 
 ## By-Scene Sources

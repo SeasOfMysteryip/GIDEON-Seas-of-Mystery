@@ -19,7 +19,7 @@ uses:
 Tier Five is the lock gate before final polish.
 
 Seas name:
-`Pirate's Bloody Heart`
+`T5 Voice & Continuity`
 
 Generic app name:
 `Format & Voice Lock`
@@ -293,7 +293,7 @@ Tier Five must end with one clear gate result:
 - `Hold for writer review`
 - `Blocked`
 
-`Ready for Tier Six` means the scene can enter `Final Cut, Gideon`.
+`Ready for Tier Six` means the scene can enter `T6 Final Polish`.
 
 `Ready with notes` means the scene can enter Tier Six, but non-blocking concerns should be preserved.
 

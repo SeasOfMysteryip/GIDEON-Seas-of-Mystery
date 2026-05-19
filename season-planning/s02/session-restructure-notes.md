@@ -122,11 +122,11 @@ See `agents/gideon/forge-execution-modes.md` for the general Forge framework and
 
 Season Two practical tier map:
 
-1. Thread the Bones / Structure Draft - turn the outline into a complete rough draft.
-2. Salt the Blood / Expansion Pass - write it rich, novelistic, mythic, emotional, and deliberately too much.
-3. Gulp It Deep / Canon Validation Pass - validate relics, magic, pirate texture, Spectral Sea weirdness, mirror harbors, fracture zones, factions, fleets, tactics, and what makes the show itself.
-4. Trial the Fire / Character Consequence Pass - validate voice, action, choice, consequence, relationships, wounds, and support-character function.
-5. Pirate's Bloody Heart / Format & Voice Lock - remove novel prose, enforce voiceprint, lock pace and tone, and convert to strict playable teleplay.
-6. Final Cut, Gideon / Polish & Seal - format, trim, continuity check, typo pass, final emotional punch, and delivery seal.
+1. T1 Structure / Structure Draft - turn the outline into a complete rough draft.
+2. T2 Draft Expansion / Expansion Pass - write it rich, novelistic, mythic, emotional, and deliberately too much.
+3. T3 Canon Validation / Canon Validation Pass - validate relics, magic, pirate texture, Spectral Sea weirdness, mirror harbors, fracture zones, factions, fleets, tactics, and what makes the show itself.
+4. T4 Character Consequence / Character Consequence Pass - validate voice, action, choice, consequence, relationships, wounds, and support-character function.
+5. T5 Voice & Continuity / Format & Voice Lock - remove novel prose, enforce voiceprint, lock pace and tone, and convert to strict playable teleplay.
+6. T6 Final Polish / Polish & Seal - format, trim, continuity check, typo pass, final emotional punch, and delivery seal.
 
 Tier 2 is allowed to be too much on purpose. Tier 5 is where it stops staying too much.

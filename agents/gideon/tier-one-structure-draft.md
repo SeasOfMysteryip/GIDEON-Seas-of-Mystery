@@ -6,7 +6,7 @@ source: "User Tier One/Two planning notes and EP108 outline-to-draft reference"
 uses:
   - agents/gideon/forge-execution-modes.md
   - agents/gideon/pre-tier-outline-builder.md
-  - agents/gideon/scene-work-card-builder.md
+  - agents/gideon/field-scene-card-builder.md
   - canon/core/index.md
   - episodes/index.md
   - season-planning/index.md
@@ -17,7 +17,7 @@ uses:
 Tier One is the structure pass.
 
 Seas name:
-`Thread the Bones`
+`T1 Structure`
 
 Generic app name:
 `Structure Draft`

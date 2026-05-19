@@ -17,7 +17,7 @@ uses:
   - canon/factions/bleed-economy.md
   - agents/gideon/review-modes.md
   - agents/gideon/pre-tier-outline-builder.md
-  - agents/gideon/scene-work-card-builder.md
+  - agents/gideon/field-scene-card-builder.md
   - agents/gideon/forge-execution-modes.md
   - agents/gideon/tier-one-structure-draft.md
   - agents/gideon/tier-two-expansion-pass.md

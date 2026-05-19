@@ -2,7 +2,7 @@
 id: agent.gideon.tier_three_canon_validation
 type: operator_protocol
 status: working
-source: "User Tier Three Gulp It Deep audit sheet"
+source: "User Tier Three T3 Canon Validation audit sheet"
 uses:
   - agents/gideon/forge-execution-modes.md
   - agents/gideon/tier-four-character-consequence.md
@@ -22,7 +22,7 @@ uses:
 Tier Three is the world-bible and canon validation pass.
 
 Seas name:
-`Gulp It Deep`
+`T3 Canon Validation`
 
 Generic app name:
 `Canon Validation Pass`
@@ -33,7 +33,7 @@ Tier Three may tighten, trim, and mark exact redlines inside approved margins. I
 
 ## Source Note
 
-This protocol is informed by the Tier Three `Gulp It Deep Audit Sheet`.
+This protocol is informed by the Tier Three `T3 Canon Validation Audit Sheet`.
 
 The reusable product insight is that Tier Three should not merely ask whether lore is "cool." It should enforce world identity against source law and benchmark scenes.
 
@@ -335,7 +335,7 @@ Tier Three must end with one clear gate result:
 - `Hold for writer review`
 - `Blocked`
 
-`Ready for Tier Four` means world law and canon validation are strong enough to enter `Trial the Fire`.
+`Ready for Tier Four` means world law and canon validation are strong enough to enter `T4 Character Consequence`.
 
 `Ready with notes` means non-blocking concerns should carry forward.
 

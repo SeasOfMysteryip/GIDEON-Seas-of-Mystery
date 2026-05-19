@@ -21,14 +21,14 @@ The Forge tiers are the primary product workflow. Review behavior is built into 
 
 | Tier | Seas Name | Generic App Name | Review Behavior |
 | --- | --- | --- | --- |
-| T1 | `Thread the Bones` | `Structure Draft` | Structure, outline, beat, scene-turn, and draft-shape review. |
-| T2 | `Salt the Blood` | `Expansion Pass` | Emotional discovery, texture, atmosphere, wound pressure, and richness review. |
-| T3 | `Gulp It Deep` | `Canon Validation Pass` | Canon lookup, world-bible validation, lore, relics, myth systems, factions, fleets, and tactics. |
-| T4 | `Trial the Fire` | `Character Consequence Pass` | Character, relationship, action, consequence, support-function, and voice-pressure validation. |
-| T5 | `Pirate's Bloody Heart` | `Format & Voice Lock` | Pass/fail lock for format, tone, pace, voiceprint, and unresolved validation blockers. |
-| T6 | `Final Cut, Gideon` | `Polish & Seal` | Final grammar, format, trim, continuity confidence, and delivery seal. |
+| T1 | `T1 Structure` | `Structure Draft` | Structure, outline, beat, scene-turn, and draft-shape review. |
+| T2 | `T2 Draft Expansion` | `Expansion Pass` | Emotional discovery, texture, atmosphere, wound pressure, and richness review. |
+| T3 | `T3 Canon Validation` | `Canon Validation Pass` | Canon lookup, world-bible validation, lore, relics, myth systems, factions, fleets, and tactics. |
+| T4 | `T4 Character Consequence` | `Character Consequence Pass` | Character, relationship, action, consequence, support-function, and voice-pressure validation. |
+| T5 | `T5 Voice & Continuity` | `Format & Voice Lock` | Pass/fail lock for format, tone, pace, voiceprint, and unresolved validation blockers. |
+| T6 | `T6 Final Polish` | `Polish & Seal` | Final grammar, format, trim, continuity confidence, and delivery seal. |
 
-## T1: Thread The Bones
+## T1: T1 Structure
 
 Use for:
 
@@ -46,7 +46,7 @@ Primary questions:
 - Is the scene turning for a reason?
 - Are required beats present?
 
-## T2: Salt The Blood
+## T2: T2 Draft Expansion
 
 Use for:
 
@@ -64,7 +64,7 @@ Primary questions:
 - What changed inside the character?
 - What image, feeling, or pressure has not yet been fully found?
 
-## T3: Gulp It Deep
+## T3: T3 Canon Validation
 
 Use for:
 
@@ -84,7 +84,7 @@ Primary questions:
 - Is the world logic specific or generic?
 - Are unsupported additions labeled correctly?
 
-## T4: Trial The Fire
+## T4: T4 Character Consequence
 
 Use for:
 
@@ -103,7 +103,7 @@ Primary questions:
 - Does action create consequence?
 - Did the plot move without changing the people?
 
-## T5: Pirate's Bloody Heart
+## T5: T5 Voice & Continuity
 
 Use for:
 
@@ -121,7 +121,7 @@ Primary questions:
 - Does the voiceprint hold?
 - Are there any Tier 3 or Tier 4 blockers that prevent lock?
 
-## T6: Final Cut, Gideon
+## T6: T6 Final Polish
 
 Use for:
 
@@ -144,23 +144,23 @@ Primary questions:
 
 For full Forge execution:
 
-1. `Thread the Bones`
-2. `Salt the Blood`
-3. `Gulp It Deep`
-4. `Trial the Fire`
-5. `Pirate's Bloody Heart`
-6. `Final Cut, Gideon`
+1. `T1 Structure`
+2. `T2 Draft Expansion`
+3. `T3 Canon Validation`
+4. `T4 Character Consequence`
+5. `T5 Voice & Continuity`
+6. `T6 Final Polish`
 
 ## Mode Selection Guidance
 
 Use fewer tiers for smaller tasks.
 
-- Outline beat pass: `Thread the Bones`
-- Emotional expansion: `Salt the Blood`
-- Canon-sensitive scene: `Gulp It Deep`
-- Character-sensitive scene: `Trial the Fire`
-- Near-final teleplay scene: `Pirate's Bloody Heart`
-- Final polish: `Final Cut, Gideon`
+- Outline beat pass: `T1 Structure`
+- Emotional expansion: `T2 Draft Expansion`
+- Canon-sensitive scene: `T3 Canon Validation`
+- Character-sensitive scene: `T4 Character Consequence`
+- Near-final teleplay scene: `T5 Voice & Continuity`
+- Final polish: `T6 Final Polish`
 
 ## Review Output Rule
 

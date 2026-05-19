@@ -16,9 +16,9 @@ uses:
   - episodes/index.md
 ---
 
-# Scene Work Card Builder
+# Field Scene Card Builder
 
-The Scene Work Card Builder turns a scene idea, outline, current draft, or selected scene into a source-aware field scene card.
+The Field Scene Card Builder turns a scene idea, outline, current draft, or selected scene into a source-aware field scene card.
 
 Its main purpose is searchability.
 
@@ -213,7 +213,7 @@ Use:
 
 ## Workspace Next Move Rules
 
-Scene Work Card Builder does not recommend Forge tiers.
+Field Scene Card Builder does not recommend Forge tiers.
 
 After building or updating the card, name the next workspace action only:
 

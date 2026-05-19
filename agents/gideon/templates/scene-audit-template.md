@@ -16,7 +16,7 @@ Use this as the one clean reusable scene-audit template for the new Gideon syste
 # Scene Audit
 
 ## Mode
-Thread the Bones / Salt the Blood / Gulp It Deep / Trial the Fire / Pirate's Bloody Heart / Final Cut, Gideon
+T1 Structure / T2 Draft Expansion / T3 Canon Validation / T4 Character Consequence / T5 Voice & Continuity / T6 Final Polish
 
 ## Overall Result
 Pass / Pass with notes / Revision recommended
