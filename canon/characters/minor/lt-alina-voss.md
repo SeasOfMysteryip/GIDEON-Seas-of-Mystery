@@ -66,6 +66,10 @@ Voss speaks in clipped, tactical, clinical language.
 
 Voss shows functional respect for Jeb's competence while mistrusting unregulated relic energy and mythic command styles.
 
+### Gus Maddox
+
+Has told Gus that if he ever needs help, to give her a call. (EP104.) She has Navy ties and Gus is a former Navy Seal.
+
 ## Canon Failure Test
 
 If a scene with Voss does not reflect clinical fracture analysis, operational speech, or anti-myth discipline, Gideon should flag it.
