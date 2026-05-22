@@ -1,157 +1,150 @@
 ---
 id: myth.war_of_the_ancients
-type: hidden_history
+type: origin_conflict
 status: canon_locked
-source_module: "05A_Deep Myth v2"
+source_module: "05A_Deep Myth"
 source_section: "War of the Ancients"
-source_file: "source-docs/05A_Deep Myth🧠 v2.docx"
+source_file: "source-docs/05A_Deep Myth.md"
 uses:
-  - canon/deep-myth/revelation-rules.md
   - canon/deep-myth/atlantis.md
   - canon/deep-myth/watchers.md
-  - canon/factions/protectors.md
   - canon/factions/revisionists.md
+  - canon/factions/watchers.md
 ---
 
 # War Of The Ancients
 
-## Surface Canon
+## Core Identity
 
-The oldest fracture war was not fought for territory alone.
+The War of the Ancients is the first fracture war: Atlantis against Phoenicia, stewardship against seizure, containment against open access.
 
-From the safe canon layer, Gideon may use these truths openly:
+They did not battle for land. They fought for the soul of time itself.
 
-- an ancient ideological war shaped the collapse age
-- that war split stewardship from seizure
-- its aftermath left fracture battlefields, relic scars, and bloodline consequences across the world
-- modern factions still replay its values without always understanding their origin
+## Atlantis / The Watchers
 
-In standard review, Gideon should frame this war as:
+Core identity:
 
-- the first fracture war
-- the oldest conflict over relic law and access
-- the buried split between containment and forced activation
+- dimensional navigators
+- architects of the ley grid
+- builders of the Library
+- spiritual engineers bound by law, not ambition
 
-## Deep Canon
+Philosophy:
 
-At the restricted layer, the war should be understood as a civilizational break between:
+- power must be contained, not wielded
+- only compatible bloodlines should access relic systems safely
+- time can be trusted as guardian when the world is not ready
+- dangerous knowledge must be delayed until the cost can be understood
 
-- Atlantis-era custodial order aligned with containment, timing, and stewardship
-- Phoenician rebellion aligned with access, rupture, and universalized power at catastrophic risk
+Technology:
 
-This is not simply “good side versus evil side.” It is a foundational ideological rupture over who should touch dangerous knowledge, when, and at what cost.
+- relic systems hard-coded to blood resonance
+- relics as memory vaults rather than simple weapons
+- defensive architecture across fractures
+- leyline stabilization and Library containment
 
-Gideon may use this layer in deep canon analysis and worldbuilding mode, but should avoid dumping it into ordinary scene notes.
+Legacy:
 
-## Atlantis-Aligned Order
+- Watchers founded or shaped the ley network
+- many relic locks trace to Atlantean design
+- Sophia and Lark carry Watcher stewardship echoes
 
-The Atlantis-aligned side should be treated as:
+## Phoenicia / The Fallen Innovators
 
-- stewards of the ley grid
-- protectors of the Library and dangerous memory
-- bloodline-lock advocates
-- designers of systems meant to delay access until readiness
+Core identity:
 
-Their core law is:
+- seafarers turned rebels
+- techno-mystic engineers
+- rival builders who broke from Atlantean orthodoxy
 
-- contain before wielding
-- preserve before accelerating
-- trust timing over ambition
+Philosophy:
 
-## Phoenician Rebellion
+- relics should belong to all humanity, not a chosen few
+- access matters more than safety
+- power belongs to those who seize it
+- bloodline locks are cages disguised as protection
 
-The Phoenician side should be treated as:
+Technology:
 
-- innovators turned fracture rebels
-- system-breakers who rejected custodial restriction
-- builders of bypass tools and rival access systems
-- advocates of power-through-seizure even when corruption risk rises
+- Phoenician-coded relics designed to bypass bloodline locks
+- rival ley systems, rituals, and glyph languages
+- rapid activations with high corruption risk
+- forced fracture openings and unstable access mechanisms
 
-Their core law is:
+Legacy:
 
-- access over restriction
-- force over delay
-- seizure over stewardship
+- Revisionists continue Phoenician ideology knowingly or unknowingly
+- Sons of Tyre and Flame of Sidon inherit parts of the rebellion
+- rumors persist of a Phoenician Mirror Core, a counter-Library
 
-In modern echoes, Gideon should recognize this pressure in Revisionist, Flame of Sidon, and similar fracture-weaponization ideologies.
+## Flame Of Sidon
 
-## The True Conflict
+The Flame of Sidon is a Phoenician legacy faction: a rogue relic cult turned militarized research cabal.
 
-At its deepest usable level, the war is about:
+Core identity:
 
-- memory versus authorship
-- stewardship versus acceleration
-- bloodline gating versus forced access
-- containment versus domination
-- whether time should be guarded or rewritten
+- fanatic and charismatic
+- modern, operational, and cultic
+- built around fire, fracture, relic access, and anti-Watcher doctrine
 
-This is why the war still matters. It did not end cleanly. It became the logic beneath later factions, relic misuse, and bloodline conflict.
+Goals:
 
-## Historical Consequence
+- burn the Watcher order
+- reboot Earth's ley grid under Phoenician control
+- exploit Spectral collapse to create a new dominion
+- forcibly rewrite fracture currents globally
 
-The war left behind:
+Tactics:
 
-- fracture zones as old battle scars
-- relic dispersal and bloodline locks
-- broken or rival glyph systems
-- scattered custodial lines
-- hidden hostility between old inheritance models
+- aggressive relic activation
+- fracture widening operations
+- black-market trades
+- state infiltration
+- covert operations
+- body-marked fracture maps on inner-circle operatives
+- relic-warped ships and warship programs
 
-When Gideon sees current conflict around relics, fractures, bloodlines, or access, it should check whether the scene is unconsciously replaying this older war.
+Mythos:
 
-## Present-Day Echoes
+- the Spectral Sea is treated as a liberation network, not a curse
+- ascension rituals sync bodies with relic pulse at terrible personal cost
+- leaders promise transcendence beyond linear time
 
-Modern systems reflecting the ancient split include:
+Relationship to Sophia and Lark:
 
-- Protectors as delayed-access custodial descendants
-- Revisionists as weaponizers of memory and fracture pressure
-- Flame of Sidon as accelerated Phoenician legacy logic
-- bloodline disputes over who has the right to carry or complete old systems
+- they are seen as Catalysts
+- they may be treated as vessels, keys, obstacles, or threats
 
-Gideon should preserve this pattern in strategic and myth-heavy story work.
+## Symbol Logic
 
-## Bloodline Rule
+Atlantean symbols should imply containment, time, ley navigation, relic memory, and lawful command.
 
-Bloodline conflict in the present should not read like simple ancestry trivia.
+Phoenician symbols should imply access, doorways, weapons, boundary-breaking, revelation, and marks of forced passage.
 
-It is the living continuation of the older argument:
+Use glyphs sparingly in ordinary draft review. Their function matters more than decorative display.
 
-- who is recognized by the system
-- who tries to bypass it
-- who believes access should be earned
-- who believes access should be seized
+## Canon Hooks
 
-## Writer-Only Layer
+- Fracture zones may be ancient battlefields of Atlantis versus Phoenicia.
+- Flame of Sidon may possess engines capable of forcing fracture breaches.
+- Some Watchers defected to Phoenicia before the collapse.
+- The Gull and crew traverse the echoes of this first war whenever they ride a fracture current.
+- Revisionists can be framed as imperial inheritors of Phoenician access logic.
 
-The following should remain behind the writer-only wall unless explicitly requested:
+## Faction Summary
 
-- the fullest cosmological cause of the war
-- explicit non-human or precursor participation in the conflict
-- the deepest statement that Atlantis itself was a sentient calibration engine under assault
-- any alien-taxonomy explanation folded into the war's origin
-
-When Gideon must refer upward to this layer, it should summarize instead:
-
-- precursor influence
-- transdimensional system conflict
-- origin-level ideological schism
-
-## Review Use Rule
-
-In normal scene review, Gideon should use this file indirectly:
-
-- to explain motive
-- to track ideological lineage
-- to judge whether factions are behaving according to their inheritance logic
-
-It should not use this file to overexplain the world to solve a local scene problem.
+| Faction | Core Belief | Relic Approach | Modern Legacy |
+| --- | --- | --- | --- |
+| Atlantis / Watchers | Control, stewardship, readiness, containment. | Bloodline locks and memory containment. | Sophia and Lark bloodlines, Watcher echoes, Protectors. |
+| Phoenicia | Power belongs to those who seize it. | Universal access and lock bypasses with high corruption risk. | Revisionists, Sons of Tyre, Flame of Sidon. |
+| Flame of Sidon | Burn the old order to birth the new. | Accelerate fracture and weaponize relics. | Cultic antagonist force with global reach. |
 
 ## Failure Test
 
 Flag War of the Ancients drift when:
 
-- ancient conflict is reduced to generic myth war flavor
-- Atlantis and Phoenician logics become morally flat or identical
-- modern factions lose their inheritance pattern
-- writer-only cosmology leaks into normal scene explanation
-
+- Atlantis becomes simply "good" and Phoenicia simply "evil"
+- access-versus-containment disappears
+- relic locks have no ideological meaning
+- Revisionists are detached from Phoenician inheritance
+- the ancient war has no pressure on modern faction behavior

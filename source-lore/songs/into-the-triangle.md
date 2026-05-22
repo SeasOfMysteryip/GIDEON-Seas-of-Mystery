@@ -1,215 +1,129 @@
 ---
 id: source_lore.songs.into_the_triangle
 type: source_lore_song
-status: canon_locked_enhanced
-source_module: "05B_LORE / Songbook"
+status: usable_reference
+source_module: "05B_LORE"
+source_section: "Songbook"
 title: "Into the Triangle"
 performed_by: "The Bloody Gull Boys"
-aliases:
-  - "Anthem of the Abyssal Gate"
-  - "Bloody Gull's Bermuda Charge"
-  - "The Navigator's Dare"
-vault_echo_tags:
-  - "#VaultEcho_Songbook_IntoTheTriangle"
-  - "#VaultEcho_Location_BermudaTriangle"
-  - "#VaultEcho_Location_AtlantisGate"
-  - "#VaultEcho_Relic_CompassOfLeyCurrents"
-  - "#VaultEcho_Relic_SpyglassOfStorms"
-  - "#VaultEcho_SceneUse_NavigationAnthem"
-  - "#VaultEcho_Atmosphere_StormChant"
-  - "#VaultEcho_Character_CaptainJeb"
-  - "#VaultEcho_Faction_BloodyGullCrew"
-  - "#VaultEcho_Legend_GhostFleetTriangle"
+song_type: "navigation anthem"
+canon_weight: source_lore
 cross_references:
-  - canon/characters/main/jeb-blackwater.md
-  - canon/fleets/bloody-gull.md
-  - canon/relics/active/compass-of-ley-currents.md
-  - canon/relics/active/spyglass-of-storms.md
-  - canon/deep-myth/atlantis.md
-  - canon/deep-myth/key-locations.md
-  - source-lore/podcasts/episode-bermuda-triangle.md
+  - "canon/characters/main/jeb-blackwater.md"
+  - "canon/fleets/bloody-gull.md"
+  - "canon/relics/active/compass-of-ley-currents.md"
+  - "canon/relics/active/spyglass-of-storms.md"
+  - "source-lore/podcasts/the-bermuda-triangle-mysteries.md"
 ---
 
 # Into the Triangle
 
-Performed by The Bloody Gull Boys.
+## Use Rule
 
-## Status
+Use this as source-lore song material. The full lyric can be quoted or performed on the page when it fits the scene, but the lyrics are not literal canon law unless a canon file, episode card, or approved scene promotes a specific claim.
 
-Canon locked and enhanced songbook entry.
+## Song Function
 
-## Search Tags
+Bermuda Triangle fracture crossing, battle charge, tourist-cover performance contrast.
 
-- `#VaultEcho_Songbook_IntoTheTriangle`
-- `#VaultEcho_Location_BermudaTriangle`
-- `#VaultEcho_Location_AtlantisGate`
-- `#VaultEcho_Relic_CompassOfLeyCurrents`
-- `#VaultEcho_Relic_SpyglassOfStorms`
-- `#VaultEcho_SceneUse_NavigationAnthem`
-- `#VaultEcho_Atmosphere_StormChant`
-- `#VaultEcho_Character_CaptainJeb`
-- `#VaultEcho_Faction_BloodyGullCrew`
-- `#VaultEcho_Legend_GhostFleetTriangle`
+## Performance Context
 
-## Alias / Nicknames
-
-- Anthem of the Abyssal Gate
-- Bloody Gull's Bermuda Charge
-- The Navigator's Dare
-
-## Canon Cross-Reference Table
-
-| Canon Anchor | Entry |
-| --- | --- |
-| Primary Character(s) | Captain Jeb Blackwater, Bloody Gull Crew |
-| Relic References | Compass of Ley Currents, Spyglass of Storms, Bone Dice |
-| Location(s) | Bermuda Triangle / Atlantis Gate |
-| Faction(s) | Bloody Gull Crew, Ghost Fleet |
-| Audio Cues | Ship pulse, Builder chant, bone dice shuffle |
-| Scene Usage | Battle charge, ley navigation scenes, post-encounter tavern retelling |
-| Themes | Ley navigation, daring in the storm, fate of sailors |
-| Vault Echo Tags | Header block fully embedded |
+- Performed by: The Bloody Gull Boys
+- Type: navigation anthem
+- Best use: scene texture, tavern performance, shipboard ritual, memory trigger, or emotional refrain
+- Response language: call-and-response, crew response, audience response, or band response should be treated as performance behavior, not as old source-system terminology
 
 ## Lyrics
 
-`[Intro Soundbed: Builder whisper fades rising, Compass pulse hum low, ship creaks under ley tension, bone dice tumble.]`
+_[Intro Soundbed: Watcher whisper fades rising, Compass pulse hum low, ship creaks under ley tension, bone dice tumble]_
 
-### Verse 1
-
+### Verse 1  -  Forge-strong, myth-threaded
 The Bloody Gull rose with fractured dawn,
 Captain Jeb, heart of storm, pulse drawn.
 Through the ley-lit seas, with the crew storm-born,
 To the Bermuda Gate, where myths are sworn.
-
 Whispers of Ghost Fleets, of ships long lost,
 Of compasses spinning at spectral cost.
 But fear we cast to the abyss below,
 For the pulse of the sea is the life we know.
+_Crew response overlay: Watcher chant, "The life we know..."_
 
-`[Echo overlay: Builder chant, "The life we know..."]`
-
-### Chorus
-
+### Chorus  -  Full crew, heartbeat anthem
 Into the Triangle, where shadows creep,
 Where the sky folds black and the oceans weep.
 Through the veil of the lost, where brave hearts go,
 We'll chase the storm and steal its glow.
-
-`[Pulse layering: bone dice shuffle, Spyglass hum rises.]`
+_Pulse layering: bone dice shuffle, Spyglass hum rises_
 
 ### Instrumental Hook
+_Fiddle flare, ship pulse rumble, stormbed breath alive._
 
-Fiddle flare, ship pulse rumble, stormbed breath alive.
-
-### Verse 2
-
-With thunder's crack and Builder's light,
+### Verse 2  -  Scene depth, ley storm build
+With thunder's crack and Watcher's light,
 The Triangle swallowed day to night.
 Waves like mountains roared and broke,
-Gulls above cried Builder's smoke.
-
+Gulls above cried Watcher's smoke.
 But Jeb roared loud, "Hold fast, my crew!
 Treasure calls, and it calls for you!"
 Through stormfire winds and abyssal cries,
 The Gull carved paths through fractured skies.
+_Audio hook: Gull pulse rising, crew stomp sync_
 
-`[Audio hook: Gull pulse rising, crew stomp sync.]`
-
-### Chorus
-
+### Chorus  -  Battle-hardened
 Into the Triangle, where shadows creep,
 Where the sky folds black and the oceans weep.
 Through the veil of the lost, where brave hearts go,
 We'll chase the storm and steal its glow.
+_Watcher response faint under chorus, "Steal its glow..."_
 
-`[Builder echo faint under chorus, "Steal its glow..."]`
-
-### Bridge
-
+### Bridge  -  Myth encounter, Ghost Fleet layered
 In the storm's heart, a fleet of mist,
 Sails of leyfire, eyes moon-kissed.
 Their hollow eyes, their voices wail,
 "Turn back now, or share our tale!"
-
 But Jeb unsheathed the Cutlass high,
 "No ghost nor gale will dim our sky!
 We're Gull-forged crew, we fear no grave,
 We claim the spoils the fracture gave!"
-
-`[Soundbed: Builder chant crescendo, Spyglass pulse flare.]`
+_Soundbed: Watcher chant crescendo, Spyglass pulse flare_
 
 ### Instrumental Hook
+_Fiddle, accordion, drums, stormglass shimmer_
 
-Fiddle, accordion, drums, stormglass shimmer.
-
-### Verse 3
-
+### Verse 3  -  Aftermath, victory with shadow
 When dawn broke sharp, the storm had fled,
 The sea below, Spectral red.
 Gold upon the deck did gleam,
 A curse or prize, or fractured dream?
-
 The crew knew well, as they sailed away,
 The Triangle's call returns one day.
 But with rum and song, they laughed in the storm,
-For the sea claims all, to the sea we're born.
+For the sea claims all  -  to the sea we're born.
+_Crew chant overlay: "To the sea we're born!"_
 
-`[Crew chant overlay: "To the sea we're born!"]`
-
-### Final Chorus
-
+### Chorus  -  Final charge
 Into the Triangle, where shadows creep,
 Where the sky folds black and the oceans weep.
 Through the veil of the lost, where brave hearts go,
 We'll chase the storm and steal its glow.
+_Pulse layering fades, heartbeat rhythm slows_
 
-`[Pulse layering fades, heartbeat rhythm slows.]`
-
-### Outro
-
+### Outro  -  Toast and legacy response
 So raise yer cups to the Bloody Gull,
 To Captain Jeb and his storm-forged soul.
 May the Triangle whisper of their tale,
-Of pirates who laughed in the Builder's gale.
+Of pirates who laughed in the Watcher's gale.
+_Big Finish: Crew shout "HOIST THE STORM!" / Watcher whisper fades to stillness._
+_[Full Stop]_
 
-`[Big Finish: Crew shout "HOIST THE STORM!" Builder whisper fades to stillness.]`
+## Story Uses
 
-`[Full Stop]`
+- Use as page-ready song material when a scene needs music, oral tradition, or ship culture.
+- Mine refrains for dialogue, act buttons, titles, and emotional callbacks.
+- Treat supernatural-sounding lines as sailor myth unless canon files confirm them.
 
-## Audio / Sound Bed Notes
+## Canon Guardrails
 
-- Intro: Builder whisper, Compass pulse hum, hull groan.
-- Verse hooks: Bone Dice shuffle, Spyglass resonance beneath vocals.
-- Chorus: Crew stomp rhythm, heartbeat drum pacing.
-- Bridge: Builder chant rises, Ghost Fleet wail layered.
-- Outro: Crew shout, fading ship pulse, Builder whisper echo into silence.
-
-## Myth Vault Notes
-
-Song purpose: Navigator's charge anthem for ley fracture navigation, especially Bermuda / Atlantis Gate crossings.
-
-Performance style: Full-crew chant, storm anthem pacing, ritual energy build.
-
-Scene hooks: Pre-ley fracture charge, mid-storm morale boost, post-success tavern retelling.
-
-Vault threading: Threads deeply into Bermuda Triangle canon, Ghost Fleet mythos, and Atlantis Gate system. Pairs with `The Stars They Lied` and `The Door Beneath the Waves` as part of the Navigator's Song Cycle.
-
-Expansion potential: Alternate verses for Ghost Fleet expansion, Navigator Guild version, or Hollow Compass echoes.
-
-## Flavor Quotes
-
-Captain Jeb, roaring pre-jump:
-
-"Brace the bones, lads. We claim the storm!"
-
-Gus, gruff post-battle:
-
-"The Triangle don't give easy... but she gives, aye."
-
-Lark, quiet awe:
-
-"We cut through the sky itself..."
-
-Builder Whisper, audio bed:
-
-"Steal... its... glow..."
+- Source lore loses to locked canon and approved episode/scene files.
+- Performance bravado, tavern exaggeration, and oral-tradition distortion are allowed.
+- Cleaned language has replaced outdated source terms with current Seas terms where needed.

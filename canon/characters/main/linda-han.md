@@ -123,6 +123,19 @@ Linda distrusts Jeb deeply and often frames him like a war target rather than a 
 
 Linda films Old Red obsessively because she senses prophecy inside his performance and madness.
 
+## Writer-Facing Pressure Points
+
+- Linda's camera is not passive. It is her way of refusing erasure.
+- She should remain allergic to mystical indulgence even after belief breaks through.
+- Her best scenes make documentation morally complicated: recording truth does not always save people from it.
+- Her tension with Lark should come from fear of obsession, not lack of respect.
+
+## Field Use Notes
+
+- Linda thinks in cuts, light, evidence, and survival beats.
+- In danger, her voice can become command-bark: short, unsentimental, and useful.
+- The camera may catch more truth than Linda can emotionally process in the moment.
+
 ## Canon Failure Test
 
 If a scene with Linda does not reflect hardened pursuit of truth, battle-forged skepticism about myth, or her quiet gravity toward Gus, Gideon should flag it.

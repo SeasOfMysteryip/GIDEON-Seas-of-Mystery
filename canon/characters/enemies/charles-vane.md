@@ -27,6 +27,7 @@ canon_tags:
   - leyline_fracture_rage
   - revenge_religion
   - blood_oath_break
+story_state: dead_as_of_ep201
 ---
 
 # Charles Vane
@@ -123,6 +124,18 @@ Vane misjudges Sophia by focusing on relic and bloodline while missing the soul 
 ### Murakami Hideyoshi
 
 Murakami is tactical equal and emotional void to Vane: blade without blood.
+
+## Death And Continuity Rule
+
+Charles Vane dies in EP201. After that point, Gideon should treat him as a consequence, memory, blood-oath wound, or relic-transfer pressure rather than an active present-tense antagonist.
+
+His death should not soften him retroactively. It should leave Jeb, Blackbeard, and the Cutlass of Surge with unfinished damage.
+
+## Visual And Performance Notes
+
+- Cracked salt-burned skin and storm-hungry eyes should imply a body overrun by fracture rage.
+- The Cutlass of Surge is his anchor as much as his weapon.
+- His final image should preserve storm, blood, blade, and the sense that the Sea itself records the cry.
 
 ## Character Mandate
 

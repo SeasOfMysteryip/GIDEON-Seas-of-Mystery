@@ -60,6 +60,19 @@ Voss speaks in clipped, tactical, clinical language.
 - No emotional reflection speeches.
 - No speculative mythology.
 
+## Visual And Field Notes
+
+- Athletic build, minimalist survival gear, cropped practical hair.
+- Neutral-toned uniform built for field durability rather than display.
+- Wrist compass or fracture-synced instrument should twitch, stutter, or misread before Voss does.
+- Her gaze should be analytical rather than awed; mythic spectacle becomes data under her pressure.
+
+## Operational Use
+
+- Voss maps active ley drift, pulse compression, and hostile anomaly space.
+- She works best as the counter-myth point of view: not cynical, not dismissive, but clinically unwilling to use mystical language.
+- Her Season Two return should carry the EP104 Gus promise as human leverage under the tactical surface.
+
 ## Relationships
 
 ### Jeb Blackwater

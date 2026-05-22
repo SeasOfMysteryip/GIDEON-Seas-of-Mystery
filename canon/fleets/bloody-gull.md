@@ -2,39 +2,53 @@
 id: fleet.bloody_gull
 type: fleet_profile
 status: canon_locked
-captain: character.jeb_blackwater
-related_tactics:
-  - tactics.bloody_gull
+source_module: "04_Factions, Fleets & Tactics"
+source_file: "source-docs/04_Factions, Fleets & Tactics.md"
+source_section: "Fleets"
+captain: "Jebediah Blackwater"
+alignment: "rogue; ex-Protector tool by function, found-family home by use"
 ---
 
 # The Bloody Gull
 
 ## Core Identity
 
-The Bloody Gull is a living relic vessel: nimble, ley-reactive, fracture-threading, and unpredictably lethal.
+- Type: fracture-bound pirate ship
+- Captain: Jebediah Blackwater
+- Status: cursed, sentient-adjacent, irreplaceable
+- Alignment: rogue; ex-Protector tool by function, found-family home by use
+
+The Bloody Gull is not just timber and iron. She is storm-forged myth: a ship whose bones are fused with ley memory, crew grief, and impossible survival. Jeb does not simply command her. In battle, they breathe as one.
 
 ## Tactical Signature
 
-Precision over power.
+Precision over power. The Gull threads, vanishes, cuts, and improvises rather than crushing in straight lines.
 
-## Relic Core
+## Traits And Behavior
 
-- Echo of the Tides
-- Shell of Memory
-- Memory of Kings
-- Bone Dice: part of the Bloody Gull after the EP201 transfer state.
-- Tuning Core: part of the Bloody Gull after the EP201 transfer state.
+- Reacts to relic pulses, bloodlines, and emotional storms.
+- Communicates through creaks, metal moans, lantern flicker, hull vibration, and rigging tension.
+- Carries hidden relic-vault logic beneath the keel.
+- Drawn to Sophia Briggs like tide to moon.
+- Old Red's post-death pulse remains part of her structural state after EP108.
 
 ## Fleet Behavior
 
-- asymmetric
-- improvisational
-- misdirection-heavy
-- fracture-pocket exploitation
+- She wakes under pressure before the crew can name the danger.
+- Her wounds mirror ley-grid stress and fracture instability.
+- She is base, coffin, compass, prison, home, and weapon at once.
 
-## Shipboard Culture And Cover
+## Primary Tactics
 
-The Bloody Gull carries working oral culture: chants, deck songs, repeated warnings, and performed stories that help the crew remember danger without turning every warning into exposition.
+- Needlethreader
+- Phantom Keel
+- Snapback Surge
+- Black Wake Spiral
+- Splitpulse Echo
+- Marrowhook Turn
+- Devil's Eye Cut
 
-The Bloody Gull Boys are the ship's named working band and public-facing performance cover. They can support morale, crew timing, tourist-cruise misdirection, and cover noise when anomalous audio threatens exposure. They remain crew first, not a relic apparatus or a separate faction.
 
+## Gideon Failure Test
+
+If the Gull behaves like a normal ship, a clean magic vehicle, or a brute-force warship, Gideon should flag it.

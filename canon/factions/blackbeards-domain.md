@@ -2,71 +2,39 @@
 id: factions.blackbeards_domain
 type: faction_profile
 status: canon_locked
-leader: character.blackbeard
-uses:
-  - canon/relics/relic-circuit.md
-  - canon/factions/bleed-economy.md
+source_module: "04_Factions, Fleets & Tactics"
+source_file: "source-docs/04_Factions, Fleets & Tactics.md"
+source_section: "Blackbeard's Domain"
 ---
 
 # Blackbeard's Domain
 
 ## Core Identity
 
-Blackbeard's domain is the underworld front of the Spectral Sea: criminal myth incarnate, pirate-yakuza structure, relic access, and consequence enforcement.
+Blackbeard is the underworld front of the Spectral Sea: criminal myth incarnate, kingpin gravity, and the power that understands memory as currency.
+
+His network runs less like a formal navy and more like a pirate underworld with oath law, relic debt, passage control, and consequence enforcement.
 
 ## Core Function
 
-- sell relics
-- control passage
-- forge alliances
-- enforce cost
-
-## Strategic Function
-
-Blackbeard's domain does not merely traffic in relics. It tracks emergent system pressure.
-
-That means the domain is positioned to:
-
-- monitor relic-circuit assembly
-- tax or capture access to key routes
-- turn memory and loyalty into leverage
-- use rumor, underworld traffic, and proxy networks to locate awakening nodes
-
-## Blackbeard's Long Game
-
-Blackbeard's deeper interest in relic convergence is strategic and existential.
-
-He should be treated as pursuing:
-
-- control over the forming relic circuit
-- leverage over bloodline bearers tied to it
-- a path out of tethered dependence
-- sovereignty over who gets access to awakened system law
-
-He should almost never read as a simple collector.
-
-## Front Operations
-
-Blackbeard often works through covers, councils, intermediaries, and underworld mythcraft rather than immediate open declaration.
-
-Use that rule when judging scenes involving:
-
-- relic meetings
-- secret evaluations
-- alliance theater
-- staged justice
-- controlled underworld rumor
-
-## Failure Test
-
-Flag Blackbeard-domain drift when:
-
-- the faction behaves like a generic pirate syndicate with no deeper system awareness
-- Blackbeard pursues relics without strategic interest in the circuit
-- the underworld side of his power loses its information and leverage function
+- Sell, steal, or leverage relic access.
+- Control passage through dangerous waters.
+- Fund or arm aligned powers through Phoenician-connected resources.
+- Keep rivals dependent on his route knowledge, dread, and enforcement.
+- Turn fear into cheaper labor than loyalty.
 
 ## Connected Powers
 
-- Ching Shih
-- Murakami
-- broader Phoenician funding and relic access structures
+- Ching Shih benefits from alignment but remains equal, not subordinate.
+- Murakami acts as tactical precision and future leverage.
+- Vane was a weapon of chaos until extinguished.
+- Darak trades at the edges without submitting.
+- Vernon opposes the underworld through dead imperial law.
+
+## Strategic Function
+
+Blackbeard's domain should make the Spectral Sea feel economically and politically lived-in. He is not just a villain with ships. He controls systems: passage, debt, silence, rumor, relic access, and the price of survival.
+
+## Failure Test
+
+If Blackbeard's domain reads as generic pirate empire without underworld economics, oath consequences, and mythic leverage, Gideon should flag it.

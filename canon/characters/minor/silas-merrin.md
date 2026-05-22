@@ -69,6 +69,13 @@ Silas mirrors Murakami's fracture-control doctrine, but as a lower-order intelli
 
 Silas's function around Sophia is surveillance of relic bleed behavior, not personal myth engagement.
 
+## Field Use Notes
+
+- Cover role: trade liaison through Storm Front Logistics or a comparable logistics shell.
+- True function: cartographic intelligence, anomaly data, and fracture-pattern surveillance.
+- Silas can bridge military surveillance, private-sector relic control, and Murakami-style doctrine without becoming a major power center himself.
+- His sidearm engraved with his wife's name is a useful humanizing detail, but it should not turn him into an action lead.
+
 ## Canon Failure Test
 
 If a scene with Silas does not reflect surveillance logic, data-driven restraint, or quiet dread behind precision, Gideon should flag it.

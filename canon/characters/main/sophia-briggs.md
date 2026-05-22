@@ -147,6 +147,20 @@ Ching observes Sophia's rise with strategic patience and future power interest.
 
 Sophia is delivered to her father aboard the USS Cyclops. By the end of Season 1, she is no longer a passenger in the myth. She is the Navigator of the Spectral Sea: ley-bound, storm-born, carrying the bloodlines of builders and drowned kings.
 
+## Writer-Facing Pressure Points
+
+- Sophia's power should feel like recognition, not command. The Sea answers her because it remembers her.
+- Her oracle mode is strongest when she is quiet, specific, and emotionally cornered.
+- She is allowed to be frightened by usefulness. A scene gets sharper when Sophia hates that the enemy's logic, relic response, or bloodline pull is working.
+- Avoid treating hybrid bloodline as a superpower label. It is a pressure system: Atlantean pulse, Phoenician angle, and orphan wound all trying to name her at once.
+
+## Visual And Performance Notes
+
+- Sophia can read weather, relic tremor, and emotional current before she can explain them.
+- Ley-light around her may suggest two inheritances: organic tide-pulse and sharper Phoenician geometry.
+- When the Compass, Shell, or ley current responds, the useful beat is her hesitation before acceptance.
+- Her stillness should never read passive; it is listening under pressure.
+
 ## Scene Forge Cues
 
 - Sophia's shadow can split in ley-light: one smooth Atlantean spiral, one fractal Phoenician storm.

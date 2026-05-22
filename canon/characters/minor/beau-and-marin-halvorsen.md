@@ -62,6 +62,13 @@ The gap between them is the point:
 - Beau frames the storm.
 - Marin listens to it.
 
+## Bleed Tourism Details
+
+- Beau and Marin paid for a high-end breach-adjacent experience through a front company tied to the bleed tourism economy.
+- Beau treats the Spectral Sea as the final frontier of brand identity.
+- Marin records atmosphere before spectacle and may register spectral static, wrong syllables, or early listener sensitivity.
+- Their value is not plot competence. It is the horror of civilians buying access to something that does not care how much they paid.
+
 ## Canon Failure Test
 
 If a scene with Beau and Marin does not preserve civilian contrast, perception split, or bleed-tourism texture, Gideon should flag it.

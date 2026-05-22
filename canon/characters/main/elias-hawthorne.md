@@ -130,6 +130,19 @@ Murakami seeks to control Elias's spectral signature and use him as an unstable 
 
 Elias floats in proximity to Watcher fragments, and their voices can sometimes bleed through him. This should increase strangeness, not flatten his identity.
 
+## Writer-Facing Pressure Points
+
+- Elias is most effective when he withholds because revealing everything would become a form of control.
+- He should guide Lark without stealing her agency.
+- His presence should feel like a map trying to speak through memory, not like a ghost delivering answers.
+- His fatherhood is defined by restraint, regret, and partial presence.
+
+## Visual And Performance Notes
+
+- When Elias interfaces with old systems, blue-gold Architect glyphs can distinguish him from Phoenician storm geometry.
+- His appearances should carry old precision and emotional distance at the same time.
+- Watcher fragments can bleed around him, but they should make the scene stranger without flattening Elias into a generic relay.
+
 ## Canon Failure Test
 
 If a scene with Elias does not reflect restrained guidance, Builder-memory authority, or the father-daughter wound with Lark, Gideon should flag it.

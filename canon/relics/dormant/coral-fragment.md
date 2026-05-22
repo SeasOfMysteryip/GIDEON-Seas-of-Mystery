@@ -5,8 +5,6 @@ status: canon_locked
 availability: dormant
 season_scope:
   - s2_plus
-related_nodes:
-  - life
 origin: atlantean_purity
 ---
 
@@ -16,24 +14,30 @@ origin: atlantean_purity
 
 The Coral Fragment is the life and restoration node of the wider system. It is what comes after conquest if the world deserves repair.
 
+## Form And Visual Signature
+
+- Fractured shard of Atlantean life-coral.
+- Bioluminescent veins pulse gently like a living heart.
+- Tendrils extend toward wounds, fractures, and damaged ley routes.
+
 ## Function
 
-- heals living bodies and stabilizes life force
-- restores local ley damage
-- calms relic fallout and ecological collapse
-- reseeds balance after war-scale destruction
+- Heals living bodies and stabilizes life force.
+- Restores local ley damage.
+- Calms relic fallout and ecological collapse.
+- Reseeds balance after war-scale destruction.
 
 ## Limitation And Cost
 
-- requires discipline and restorative intent
-- draws life from surroundings when overused
-- cannot reverse true death
+- Requires discipline and restorative intent.
+- Aggression nullifies or corrupts its function.
+- Draws life from surroundings when overused.
+- Cannot reverse true death.
 
 ## Story Rule
 
-This relic is future-facing and easy to undervalue. Gideon should preserve it as counterbalance, not as soft magic healing convenience.
+Future-facing restorative counterbalance. Easy for power factions to undervalue.
 
 ## Failure Test
 
-Flag drift if the Coral Fragment becomes resurrection tech or a painless answer to relic damage.
-
+Flag drift if it becomes resurrection tech or a painless answer to relic damage.

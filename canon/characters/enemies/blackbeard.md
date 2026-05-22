@@ -138,6 +138,17 @@ Lark is a bloodline-coded threat marked for eventual manipulation or elimination
 
 Vernon is a useful fool and discarded once his purpose ends.
 
+## Visual And Performance Notes
+
+- Salt-corroded regalia, obsidian rings, and controlled leyfire should read as theater built for domination.
+- His shadow should often feel faster than his body: fear arrives before the order.
+- His ring projects authority and hides fraud; visual language should preserve that unease.
+- When Blackbeard performs, the performance is strategy, not vanity.
+
+## Season Two Use Note
+
+Blackbeard's Season Two pressure should keep his stated hunger simple: he wants a way to escape or master the Spectral Sea on terms that make him sovereign beyond it. If he reaches for mortality, land, Atlantis, or a pirate-ruled world, those desires should still express the same wound: he refuses to remain trapped inside a system he did not design.
+
 ## Character Mandate
 
 Blackbeard must always carry control, fracture, and dominance through myth manipulation.

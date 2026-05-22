@@ -2,32 +2,51 @@
 id: fleet.sea_burial
 type: fleet_profile
 status: canon_locked
-captain: character.murakami_hideyoshi
-related_relics:
-  - relic.abyssal_chronometer
+source_module: "04_Factions, Fleets & Tactics"
+source_file: "source-docs/04_Factions, Fleets & Tactics.md"
+source_section: "Fleets"
+captain: "Murakami Hideyoshi"
+alignment: "Murakami's hunters"
 ---
 
 # Sea Burial
 
 ## Core Identity
 
-Sea Burial is Murakami's precision warship and mist predator, moving like a memory fading from the mind.
+- Type: precision warship; mist predator
+- Captain: Murakami Hideyoshi
+- Status: Ghost Admiral's executioner
+- Alignment: Murakami's hunters
+
+Sea Burial glides like a memory fading from the mind. It moves through fracture currents as if reading the bones of the sea.
 
 ## Tactical Signature
 
-Temporal subversion.
+Temporal subversion and surgical ambush.
+
+## Traits And Behavior
+
+- Pale hull.
+- Sails marked with living ley charts.
+- Victories carved into hull kanji.
+- Illusion warfare through phantom duplicates.
 
 ## Fleet Behavior
 
-- surgical ambush
-- leyfield flow control
-- split-time pressure
-- never brute force
+- Never brute force.
+- Controls leyfield flow to trap prey.
+- Wins by removing the correct function at the correct second.
+
+## Primary Tactics
+
+- Fog Rattle
+- Marrowline Cut
+- Chrono Drift Veil
 
 ## Supporting Ships
 
-- Mirror of Ash
+- Mirror of Ash: stealth trap and pulse net vessel.
 
-## Support Ship Function
+## Gideon Failure Test
 
-- `fleet.mirror_of_ash`: stealth strike and invisible ley-net deployment
+If Sea Burial fights emotionally, noisily, or wastefully, Gideon should flag it.

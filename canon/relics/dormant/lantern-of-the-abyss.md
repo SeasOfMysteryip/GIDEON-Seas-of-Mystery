@@ -14,24 +14,29 @@ origin: navigator_relic
 
 The Lantern of the Abyss is a null-zone navigation relic. It proves a path exists where ordinary sight, charts, and certainty all fail.
 
+## Form And Visual Signature
+
+- Bronze lantern patinated by seafloor, salt, and time.
+- Ghostly blue flame burns even in spectral dead zones.
+- In null zones, flame stretches like ley-thread silk.
+
 ## Function
 
-- projects living ley routes
-- illuminates null currents and dead zones
-- highlights temporal fracture edges
-- reveals hidden entry paths in later-stage navigation arcs
+- Projects living ley routes.
+- Illuminates null currents and dead zones.
+- Highlights temporal fracture edges.
+- Reveals hidden entry paths in later-stage navigation arcs.
 
 ## Limitation And Cost
 
-- drains memory and navigator focus
-- attracts predators through its pulse
-- dims under hesitation and overload
+- Drains memory and navigator focus.
+- Attracts predators through its pulse.
+- Dims under hesitation and overload.
 
 ## Story Rule
 
-Treat this as a future navigator-evolution relic, especially for Lark, not as an already available tool in Season One.
+Future navigator-evolution relic, especially for Lark. Not active Season One equipment.
 
 ## Failure Test
 
-Flag drift if the Lantern acts like a flashlight, a simple key, or generic mystical guidance without navigator strain.
-
+Flag drift if it acts like a flashlight, simple key, or generic mystical guidance without navigator strain.

@@ -122,6 +122,17 @@ Darak sells Vernon out without blinking. Empire is just another brittle customer
 
 Darak is intrigued by Lark and sees immediate value in her. He does not trust her, but he does recognize her as fracture fire on two legs.
 
+## Visual And Performance Notes
+
+- Patchwork fracture-scorched coat, twin trackers, and a grin that measures the room are core signals.
+- His bow can be an insult; his toast can be a threat.
+- He offers keys with one hand and sells the locks with the other.
+- He should be more help than harm until the exchange rate changes.
+
+## Continuity Note
+
+Darak is a Season One character who has not yet appeared in Season Two. If reintroduced, the scene should preserve that he is not new to the Sea, only newly active in the current Season Two board.
+
 ## Character Mandate
 
 Every Darak scene should pivot on self-interest, veiled humor, leverage, or unexpected defiance.

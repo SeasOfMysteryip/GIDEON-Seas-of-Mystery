@@ -30,6 +30,7 @@ canon_tags:
   - old_salt
   - trickster_survivor
   - crew_first
+story_state: dead_as_of_ep105
 ---
 
 # Stumpy Pete
@@ -131,6 +132,18 @@ Stumpy treats The Bloody Gull Boys as shipboard working crew, not entertainers f
 ### Darak al-Mhar
 
 Stumpy never trusts Darak. Old smuggler instinct tells him the man deals in storms no one can chart safely.
+
+## Post-Death Use Rule
+
+Stumpy Pete is dead after EP105. Later use should come through crew memory, practical habits he taught, Linda's footage, shipboard absence, or Jeb/Gus reacting to a missing old-salt function.
+
+He should not be reintroduced as a spectral advice machine unless a specific scene earns that exception.
+
+## Writer-Facing Pressure Points
+
+- Stumpy grounds myth in seamanship. When the Sea gets loud, he should make the scene feel worked, dirty, and practical.
+- His jokes are not decoration; they are how an old sailor refuses fear the dignity of a clean name.
+- His death should remain rude, loyal, and unromantic about cost.
 
 ## Death And End Note
 

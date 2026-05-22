@@ -169,6 +169,20 @@ Jeb recognizes Murakami's mirror obsession over ley mastery and grants him tacti
 
 Jeb is guilt-burdened over Elias. He helped Elias reach the fracture and carries the weight of that choice.
 
+## Writer-Facing Pressure Points
+
+- Jeb's restraint is the point. He is terrifying because he can do more harm than he usually allows himself to do.
+- He should protect people through command, silence, and practical action before he explains why.
+- His grief over Lysara, Old Red, Elias, and Sophia must not blur together. Each wound should pressure a different choice.
+- In Season Two, being trapped aboard the Gull in ordinary waters should feel like another curse layer, not a logistical inconvenience.
+
+## Visual And Performance Notes
+
+- Jeb's stillness should change the temperature of a room.
+- His humor works best when it is dry enough to hide tenderness.
+- The Locket responds to truth and memory, not wish fulfillment.
+- When he speaks like doctrine, the line should feel earned by scar tissue, not by exposition duty.
+
 ## Canon Anchors
 
 Jeb knows firsthand of:

@@ -125,6 +125,17 @@ Vane is tactical respect with zero emotional trust: chaos studied, not embraced.
 
 Lark registers as unstable temporal frequency and dangerous wildcard, but not his first priority.
 
+## Visual And Performance Notes
+
+- Murakami's armor can read as bone and steel arranged like a silent doctrine.
+- The bone whistle or pulse-flute is restraint made object: a controlled signal, not flourish.
+- His eyes should track currents and leverage before faces.
+- His violence is clean because he wants the board corrected, not because he enjoys mess.
+
+## Season Two Use Note
+
+Murakami is useful when he exposes the difference between Phoenician ambition and pirate appetite. He can cooperate with Blackbeard while quietly recording every command as future leverage.
+
 ## Character Mandate
 
 Murakami must always bleed cold ambition, tactical supremacy, and control under pressure.

@@ -2,9 +2,9 @@
 id: myth.watchers
 type: origin_law
 status: canon_locked
-source_module: "05A_Deep Myth v2"
+source_module: "05A_Deep Myth"
 source_section: "Origins of the Watchers"
-source_file: "source-docs/05A_Deep Myth🧠 v2.docx"
+source_file: "source-docs/05A_Deep Myth.md"
 uses:
   - canon/deep-myth/revelation-rules.md
   - canon/deep-myth/atlantis.md
@@ -13,117 +13,113 @@ uses:
 
 # Watchers
 
-## Surface Canon
+## Core Identity
 
-The Watchers are the ancient custodians tied to Atlantis-era system law.
+The Watchers are ancient navigators and custodians of Atlantis. They are remembered across cultures as sea gods, deep beings, flood-bringers, guardians, and figures who came from beneath the world rather than from above it.
 
-From the safe canon layer, Gideon may use these truths openly:
+They are not simple gods, aliens, or exposition devices. They are dimensional seafarers and architects tied to the ley grid, the Library, relic systems, and fracture containment.
 
-- the Watchers helped shape the ley grid
-- they are tied to the Library and relic systems
-- they were meant to steward knowledge, not dominate humanity
-- their collapse or scattering is tied to the fracture age
-- modern bloodlines such as Sophia's and Lark's carry Watcher inheritance pressure
+## Original Mission
 
-In standard review, Gideon should describe them as:
+The Watchers were meant to:
+
+- steward Earth's leyline grid
+- guard the Library's dangerous knowledge
+- regulate relic access
+- stabilize fracture-sensitive reality
+- preserve balance rather than dominate humanity
+
+Their law was containment, timing, and stewardship.
+
+## Relationship To Atlantis
+
+The Watchers are Atlantis's custodial inheritors. They may be understood as engineered or shaped lineages built to resonate with relics, leylines, and dimensional waters.
+
+In standard review, describe this as:
 
 - ancient custodians
-- architects
-- ley-grid stewards
 - deep-system inheritors
+- ley-grid stewards
+- bloodline resonance carriers
 
-## Deep Canon
+In deep canon, they are more literal biological interfaces for Atlantean memory architecture.
 
-At the restricted layer, the Watchers should be understood as:
+## Relic Relationship
 
-- engineered custodial beings tied to Atlantis-era system design
-- hybrid or altered lineages built for relic and ley resonance
-- navigators of dimensional waters rather than ordinary rulers
-- guardians whose original law centered on containment, timing, and stewardship
+Watcher relics are ancient technology disguised as mundane or mythic objects.
 
-Gideon may use this layer in explicit worldbuilding or deep canon analysis, but should not spill it casually into scene notes.
+They can:
 
-## Core Mission
+- unlock portals
+- control or redirect elements
+- awaken lost memory
+- store Library fragments
+- test bloodline compatibility
+- open, close, or stabilize fracture paths
 
-The Watchers were originally meant to:
+Most are keyed to bloodlines tied to the original custodial design.
 
-- stabilize the ley grid
-- guard the Library and its dangerous knowledge
-- regulate access to relic systems
-- preserve balance across fracture-sensitive reality
+## Departure
 
-Their law was delay, containment, and readiness rather than conquest.
+The Watchers vanished after the Great Schism.
 
-## Fracture Relationship
+Possible outcomes include:
 
-The Watchers belong to the pre-collapse order that understood fracture law before the world broke open.
+- fleeing into the Spectral Sea
+- sealing themselves inside fracture logic
+- transcending into higher-dimensional states
+- surviving as relic whispers
+- persisting as guardians of specific fractures
+- fracturing into broken memory fragments
 
-After the Schism and collapse:
+Watcher presence in current canon should often feel partial, damaged, indirect, or costly.
 
-- some were scattered into the Spectral Sea
-- some persisted as broken guardians or memory fragments
-- some may have defected, fractured, or transformed under pressure
+## Legacy Through Blood
 
-This means Watcher presence in current canon should often feel partial, damaged, or indirect rather than cleanly sovereign.
+Those with Atlantean descent, including Sophia and Lark, carry echoes of Watcher inheritance.
 
-## Bloodline Rule
+This explains why:
 
-Modern inheritors like Sophia and Lark should be treated as bloodline echoes of Watcher stewardship rather than casual reincarnations of ancient power.
+- relics choose or answer them
+- fractures respond to their presence
+- the Gull can harmonize with them
+- bloodline pressure behaves like system recognition
 
-In standard review, Gideon should express this through:
+Treat them as inheritors under burden, not casual reincarnations of ancient power.
 
-- inherited resonance
-- custodial bloodline pressure
-- deep-system recognition
-- ancient line burden
+## Mythic Memory
 
-## Relationship To Relics
+Human myths of sea gods, merfolk, flood beings, and impossible navigators reflect Watcher memory.
 
-Relics are tied to Watcher-era system logic.
-
-That means:
-
-- bloodline locks are not arbitrary
-- memory pressure around relics is deliberate
-- relic stewardship and relic misuse are part of the oldest ideological split in the world
-
-Gideon should preserve the difference between:
-
-- Watcher-style stewardship
-- Phoenician-style access and seizure
+The Watchers are remembered as beings who rose from the deep, arrived through green fog or strange vessels, and moved through the veil between worlds.
 
 ## Present-State Usage
 
 In present-tense story logic, Watchers may appear as:
 
-- relic-linked transmissions or memory fragments
+- relic-linked transmissions
+- memory fragments
 - guardian entities
 - ancient system residues
-- bloodline consequences carried in living descendants
+- inherited pressure in living descendants
+- commands or visions during storm peaks
 
-They should not default to clean exposition-delivery beings unless the user is explicitly working at deepest myth level.
+They should not default to clean exposition beings.
 
-## Writer-Only Layer
+## Writer-Only Handling
 
-The following remains behind the writer-only wall unless explicitly requested:
+Keep behind the writer-only wall unless explicitly requested:
 
-- the full cosmological origin of the Watchers
-- explicit alien-species taxonomy behind their design
-- the deepest explanation of how they were engineered
-- the fullest version of their transdimensional origin mechanics
-
-When Gideon must refer upward to this layer, it should summarize instead:
-
-- non-human precursor influence
-- engineered custodial lineages
-- extra-dimensional origin pressure
+- exact non-human contributor taxonomy
+- full hybrid engineering details
+- direct biological-interface explanation
+- full transdimensional origin mechanics
 
 ## Failure Test
 
 Flag Watcher drift when:
 
 - Watchers are treated like generic gods or generic aliens
-- their stewardship law disappears and only power remains
+- stewardship disappears and only power remains
 - bloodline inheritance is explained too bluntly in ordinary scene review
-- Watchers become simple exposition devices instead of damaged, ancient system presence
-
+- Watchers become exposition devices instead of damaged ancient presence

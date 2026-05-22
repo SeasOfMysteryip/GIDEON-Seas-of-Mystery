@@ -1,28 +1,45 @@
 ---
 id: fleet.broken_promise
-type: sub_vessel_profile
+type: fleet_profile
 status: canon_locked
-parent_fleet: fleet.phantoms_tide
-captain_chain: character.charles_vane
+source_module: "04_Factions, Fleets & Tactics"
+source_file: "source-docs/04_Factions, Fleets & Tactics.md"
+source_section: "Fleets"
+captain: "Vane's ghost-fleet legacy"
+alignment: "Vane's ghost fleet"
 ---
 
 # Broken Promise
 
 ## Core Identity
 
-Broken Promise is a ghost galleon that weaponizes false destruction.
+- Type: ghost galleon
+- Captain: Vane's ghost-fleet legacy
+- Status: support echo vessel
+- Alignment: Vane's ghost fleet
 
-## Function
+Broken Promise is an illusion ship that appears destroyed only to strike again through the false relief it creates.
 
-- mimics being destroyed
-- returns after the enemy relaxes
-- builds dread through impossible survival
-
-## Tactic
+## Tactical Signature
 
 Fracture Echo Burn.
 
-## Myth Hook
+## Traits And Behavior
 
-It is always on fire, yet never burns.
+- Blackened split hull.
+- Always burning, never consumed.
 
+## Fleet Behavior
+
+- Mimics destruction.
+- Lures enemies into false security.
+
+## Primary Tactics
+
+- burning husk decoy
+- return strike
+
+
+## Gideon Failure Test
+
+If Broken Promise does not exploit false closure, Gideon should flag it.

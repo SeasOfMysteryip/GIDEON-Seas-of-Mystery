@@ -84,6 +84,12 @@ Carlos is Jordan's decoding partner; together they can make the anomalies harder
 
 Drew and Jordan are the AV bridge of the witness team.
 
+## Witness Function
+
+- Jordan's job is to make the impossible audible before anyone can agree what it means.
+- He can catch voices under static, rhythmic wrongness, relic hum, and acoustic echoes of fracture behavior.
+- He leaves in Episode 101, so later Gideon checks should not assign him ongoing shipboard function.
+
 ## Season Note
 
 Jordan leaves in Episode 101. That should remain clear in continuity.

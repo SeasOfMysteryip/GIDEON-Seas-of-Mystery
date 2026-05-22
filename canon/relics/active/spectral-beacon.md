@@ -3,6 +3,10 @@ id: relic.spectral_beacon
 type: relic_profile
 status: canon_locked
 availability: active
+aliases:
+  - Pulse-Tower
+  - The Sea's Call
+  - Gravebell of the Deep
 related_relics:
   - relic.compass_of_ley_currents
   - relic.shell_of_memory
@@ -16,19 +20,29 @@ related_relics:
 
 The Spectral Beacon is not a wisdom relic. It is a convergence lure: a pulse tower that summons fleets, destabilizes regions, and forces pressure into the open.
 
+## Form And Visual Signature
+
+- Towering ley spire relic with an Atlantean core and corrupted Phoenician override glyphs.
+- Spiraled ley-crystal heart glows blue-green-white.
+- Glyph rings levitate and shift like mechanical chant.
+- Activation fires a visible ley vortex across the Sea.
+- Resonance is felt in the chest before it is heard.
+
 ## Function
 
-- emits irresistible ley pulses
-- draws relic-bound ships, predators, and spectral life
-- amplifies fractures and regional instability
-- scrambles navigation and battlefield coherence
+- Emits irresistible ley pulses to attuned ships, relics, and spectral life.
+- Draws ley-bound vessels toward its location without filtering allegiance.
+- Amplifies nearby fractures and rift blooms.
+- Scrambles navigation, basic tech, and battlefield coherence.
+- Broadcasts bloodline and relic resonance across long ley distances.
 
 ## Limitation And Cost
 
-- costs the world more than the bearer
-- saturates ley grids and blooms fracture risk
-- cannot be quietly silenced through ordinary control
-- harms bloodline-bonded people through marrow resonance and dissociation
+- Costs the world more than the bearer.
+- Saturates the ley grid and blooms fracture instability.
+- Draws Leviathans, wraith fleets, and spectral predators.
+- Cannot be quietly silenced through ordinary control.
+- Bloodline-bonded people suffer marrow resonance, dissociation, and stress.
 
 ## Bearer Rule
 
@@ -36,19 +50,19 @@ It is not a personal possession relic. Stable control requires multi-relic and b
 
 ## Symbiosis
 
-- destabilizes Compass, Shell, Spyglass, and Memory under heavy pulse
-- briefly aligns with the Gull under rare harmonic moments
-- should be treated as a convergence catalyst, not a balanced circuit node
+- Destabilizes Compass, Shell, Spyglass, and Memory under heavy pulse.
+- Briefly aligns with the Gull under rare harmonic moments.
+- Should be treated as convergence catalyst, not balanced circuit node.
 
 ## Faction Pressure
 
-Every major force can use the Beacon's wake, but none truly own its allegiance. Murakami's override attempt should remain a failure with consequences.
+- Every major force can use the Beacon's wake, but none truly owns its allegiance.
+- Murakami's override attempt should remain a failure with consequences.
 
 ## Episode Status
 
-Activated in Episode 104 and functions as a battlefield anchor in Episode 105. After that its role drops or goes dormant in verified Season One canon.
+Activated in Season One as battlefield and convergence pressure, then drops or goes dormant after verified use.
 
 ## Failure Test
 
 Flag drift if the Beacon feels benevolent, selective, or safely controllable by one faction without wider consequence.
-

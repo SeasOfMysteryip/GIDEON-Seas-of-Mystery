@@ -1,107 +1,105 @@
 ---
 id: source_lore.songs.ballad_of_the_spectral_sea
 type: source_lore_song
-status: working
-source_module: "05B_LORE / Songbook"
+status: usable_reference
+source_module: "05B_LORE"
+source_section: "Songbook"
+title: "Ballad of the Spectral Sea"
+performed_by: "The Bloody Gull Boys"
+song_type: "crew anthem / battle chant"
+canon_weight: source_lore
+cross_references:
+  - "canon/characters/main/jeb-blackwater.md"
+  - "canon/fleets/bloody-gull.md"
 ---
 
 # Ballad of the Spectral Sea
 
-## Alias
+## Use Rule
 
-- `Captain Jeb's Storm Chant`
+Use this as source-lore song material. The full lyric can be quoted or performed on the page when it fits the scene, but the lyrics are not literal canon law unless a canon file, episode card, or approved scene promotes a specific claim.
 
-## Type
+## Song Function
 
-- battle chant
-- crew anthem
-- relic-harmonic song
+Bloody Gull identity, ship battle, relic-harmonic rallying.
 
-## Sound / Performance Notes
+## Performance Context
 
-- haunting ambient stormbed
-- creaking timbers
-- Bone Dice rattle
-- distant Builder chant
-- Spyglass pulse-sync intro
-- ship pulse hum alive
-- deck stomp / chant pulse / relic hum overlay
-- stormcall drumroll and visual pulse on the outro rise
+- Performed by: The Bloody Gull Boys
+- Type: crew anthem / battle chant
+- Best use: scene texture, tavern performance, shipboard ritual, memory trigger, or emotional refrain
+- Response language: call-and-response, crew response, audience response, or band response should be treated as performance behavior, not as old source-system terminology
 
 ## Lyrics
 
 ### Verse 1
-
-On the fractured waves where the ley-lines weep,  
-Where the tides pulse deep and the Ghost Fleets creep,  
-There sails a Captain with storm in his eyes,  
+On the fractured waves where the ley-lines weep,
+Where the tides pulse deep and the Ghost Fleets creep,
+There sails a Captain with storm in his eyes,
 Carving blood-salt legends where the lost truth lies!
+_Instrumental Hook: Bone dice spin + drum pulse (4-count)_
 
 ### Chorus
-
-With a "Yo ho ho" and the Spectral hum,  
-Beware the tides where the dead men come!  
-From the rifts below to the fractured sky,  
-It's Seas of Mystery - we bleed, we fly!
+With a "Yo ho ho" and the Spectral hum,
+Beware the tides where the dead men come!
+From the rifts below to the fractured sky,
+It's *Seas of Mystery* - we bleed, we fly!
+_Instrumental Hook: Deck stomp / chant pulse / relic hum overlay_
 
 ### Verse 2
-
-Through ley-storm rage and the Watchers' gaze,  
-He's chased down myths in the Spectral haze.  
-With relics blazing and a crew battle-worn,  
+Through ley-storm rage and the Watchers' gaze,
+He's chased down myths in the Spectral haze.
+With relics blazing and a crew battle-worn,
 He rides the fractures where the legends are born!
+_Instrumental Hook: Stormglass sizzle + ship pulse syncopation_
 
 ### Chorus
-
-With a "Yo ho ho" and the Spectral hum,  
-Beware the tides where the dead men come!  
-From the rifts below to the fractured sky,  
-It's Seas of Mystery - we bleed, we fly!
+With a "Yo ho ho" and the Spectral hum,
+Beware the tides where the dead men come!
+From the rifts below to the fractured sky,
+It's *Seas of Mystery* - we bleed, we fly!
+_Instrumental Break: Watcher chant layering + Spyglass resonance_
 
 ### Bridge
-
-There's leviathans, whispers, and prophecies grim,  
-Fog-wreathed relics where the echoes swim.  
-Captain Jeb roars through the bloodline fear:  
+There's leviathans, whispers, and prophecies grim,
+Fog-wreathed relics where the resonances swim.
+Captain Jeb roars through the bloodline fear:
 "Hoist the storm! The truth is near!"
+_Breakdown: Bone Dice throw + ship creak overlay, Crew chant building_
 
-### Final Chorus
+### Chorus  -  Elevated Final Pass
+With a "Yo ho ho" and the Spectral hum,
+Beware the tides where the dead men come!
+From the rifts below to the fractured sky,
+It's *Seas of Mystery* - we bleed, we fly!
+_Outro build: Stormcall drumroll + Spyglass visual pulse_
 
-With a "Yo ho ho" and the Spectral hum,  
-Beware the tides where the dead men come!  
-From the rifts below to the fractured sky,  
-It's Seas of Mystery - we bleed, we fly!
-
-### Outro
-
-So hoist the Gull's sails, let the leylines ignite,  
-With Captain Jeb we tear through night!  
-The sea's alive, the relics unfold,  
-Set course for prophecy - be brave, be bold!  
-Yo ho ho, let the storm take flight,  
+### Outro  -  Ship Fight Finish
+So hoist the Gull's sails, let the leylines ignite,
+With Captain Jeb we tear through night!
+The sea's alive, the relics unfold,
+Set course for prophecy - be brave, be bold!
+Yo ho ho, let the storm take flight,
 With Captain Jeb and the Gull's burning light!
+_Big Finish: Crew shout "HOIST THE STORM!" / Watcher response fade_
+_Canon Notes (Live Forge Tracking):_
 
-## In-World Function
+* Captain Jeb & Gull pulse: Integrated. Jeb's leadership pulse mirrors leyflow control.
 
-- Bloody Gull crew anthem
-- ship-battle chant
-- crew ritual or rally cry
-- relic-activation support texture
-- post-battle chant or tavern retelling
+* Relic Activations: Spyglass, Bone Dice, Stormglass soundbed hooks alive for future audio integration.
 
-## Adaptation Notes
+* Scene Usage: Ship battles, crew rituals, relic activations, or post-battle chant.
 
-- strong source for Captain Jeb / Bloody Gull identity
-- useful for Old Red-adjacent line sourcing even when not quoted directly
-- useful as a battle-rally language bank
-- useful as a tone bridge between the dramatized-radio origin and the current series world
+* Faction Layer: Bloody Gull Crew anthem. Usable for morale boost or ship fight soundtrack.
 
-## Source Cleanup Notes
+## Story Uses
 
-The original source entry included Vault Echo tags and Forge/Vault workflow language. Those wrapper elements were intentionally removed here while preserving:
+- Use as page-ready song material when a scene needs music, oral tradition, or ship culture.
+- Mine refrains for dialogue, act buttons, titles, and emotional callbacks.
+- Treat supernatural-sounding lines as sailor myth unless canon files confirm them.
 
-- the title and alias
-- the song's functional type
-- performance logic
-- the full lyric body
-- the in-world and adaptation-use notes
+## Canon Guardrails
+
+- Source lore loses to locked canon and approved episode/scene files.
+- Performance bravado, tavern exaggeration, and oral-tradition distortion are allowed.
+- Cleaned language has replaced outdated source terms with current Seas terms where needed.

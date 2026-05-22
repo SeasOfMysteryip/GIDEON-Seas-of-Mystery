@@ -128,6 +128,19 @@ Gus treats Old Red with reverence and superstition. He knows Red is part prophet
 
 Gus reads The Bloody Gull Boys as crew ballast: useful hands, cover noise, and shipboard morale. He respects the work behind the music more than the performance.
 
+## Writer-Facing Pressure Points
+
+- Gus is allowed to want the adventure, but never naively. The danger is part of the draw and part of the damage.
+- He should often be the first person to translate mythic danger into action: move, brace, shoot, grab, seal, carry, survive.
+- His bond with Linda should stay lived-in and quiet. The strongest beats are practical care under pressure, not romantic declaration.
+- Because he has no relic, he is a useful test for whether a scene still works at human scale.
+
+## Field Use Notes
+
+- Under combat pressure, Gus can carry tactical geography better than most of the crew.
+- His humor should arrive as pressure management, not as scene deflation.
+- When relic users lose the room to myth, Gus should keep track of bodies, exits, weapons, and who is about to fall.
+
 ## Canon Failure Test
 
 If a scene with Gus does not reflect loss-scarred loyalty, action-first survival, or his quiet gravity toward Linda and the crew, Gideon should flag it.

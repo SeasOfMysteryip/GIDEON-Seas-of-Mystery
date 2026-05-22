@@ -1,28 +1,47 @@
 ---
 id: fleet.widows_wake
-type: sub_vessel_profile
+type: fleet_profile
 status: canon_locked
-parent_fleet: fleet.queen_annes_revenge
-captain_chain: character.blackbeard
+source_module: "04_Factions, Fleets & Tactics"
+source_file: "source-docs/04_Factions, Fleets & Tactics.md"
+source_section: "Fleets"
+captain: "Blackbeard's fleet command"
+alignment: "Blackbeard's fleet"
 ---
 
 # Widow's Wake
 
 ## Core Identity
 
-Widow's Wake is a schooner-turned-siege ship built for silent drift-and-hit executions.
+- Type: schooner-turned-siege ship
+- Captain: Blackbeard's fleet command
+- Status: active support vessel
+- Alignment: Blackbeard's fleet
 
-## Function
+Widow's Wake is a low-hull silent executioner that closes without pulse signature and fires after the target already feels doomed.
 
-- closes range without pulse signature
-- hits at point-blank
-- works as executioner ship in Blackbeard's line
-
-## Tactic
+## Tactical Signature
 
 Soundless Push.
 
-## Myth Hook
+## Traits And Behavior
 
-Its keel is carved from petrified kraken bone and bleeds black mist in ley storms.
+- Gunports open like jaws.
+- Black sails soaked in ash oil.
+- Keel myth tied to petrified kraken bone and black mist.
 
+## Fleet Behavior
+
+- Closes range under silence.
+- Fires at point blank to convert dread into rupture.
+
+## Primary Tactics
+
+- Silent drift
+- point-blank execution
+- pulse-shadow approach
+
+
+## Gideon Failure Test
+
+If Widow's Wake announces herself too early or fights flamboyantly, Gideon should flag it.

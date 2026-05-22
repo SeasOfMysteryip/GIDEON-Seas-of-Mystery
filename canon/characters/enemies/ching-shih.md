@@ -131,6 +131,17 @@ Vane is dismissed as reckless deadweight.
 
 Vernon is a non-factor, a rusted sword with no enduring value.
 
+## Visual And Performance Notes
+
+- Her crown should feel centered, deliberate, and heavy with command.
+- Robes and ship movement should suggest discipline rather than flourish: the Crimson Lotus glides, never merely sails.
+- Weather symmetry can bend around her presence; storms should seem organized, not excited.
+- Her stillness should interrupt spectacle, especially Blackbeard's.
+
+## Season Two Use Note
+
+Ching Shih is not Blackbeard's echo. She is equal-but-different power: where he weaponizes fear and theater, she weaponizes finality, order, and legacy.
+
 ## Character Mandate
 
 Ching Shih must reinforce empire through control, silence threat before spectacle, and protect legacy at any cost.

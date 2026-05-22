@@ -29,6 +29,7 @@ canon_tags:
   - storm_seer
   - living_relic
   - harmony_regulator
+story_state: dead_as_of_ep108_spectral_core_afterward
 ---
 
 # Old Red
@@ -141,6 +142,18 @@ Old Red is the older, stranger source of ship-song logic. The Bloody Gull Boys m
 End state: Old Red's bones are the Gull's bones now.
 
 He becomes the Tuning Core from Episode 102 through Episode 108, dies in the `EP108` Season One finale, then shifts into spectral core status during the Season Two opening escape arc. Red no longer speaks in riddles because the Gull speaks for him.
+
+## Post-Death Use Rule
+
+Old Red is dead after EP108, but his function is not gone. His bones, dice logic, and pulse memory remain part of the Bloody Gull's structural state.
+
+After death, Gideon should not treat Red as available for normal scene dialogue. His presence can register through ship rhythm, dice memory, relic pulse, crew grief, or the Gull behaving as if it remembers his warning before anyone else does.
+
+## Writer-Facing Pressure Points
+
+- Red's mystical function should always be tied to harmony, not random prophecy.
+- His amusement is part of the grief. Do not sand it down into solemn oracle behavior.
+- If three or more relics are pressuring a scene in Season One, Red should register the pulse unless the scene deliberately withholds that absence.
 
 ## Canonical Impact Of Death
 

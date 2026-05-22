@@ -1,28 +1,46 @@
 ---
 id: fleet.coil_of_the_dead
-type: sub_vessel_profile
+type: fleet_profile
 status: canon_locked
-parent_fleet: fleet.sayf_al_bahr
-captain_chain: character.darak_al_mhar
+source_module: "04_Factions, Fleets & Tactics"
+source_file: "source-docs/04_Factions, Fleets & Tactics.md"
+source_section: "Fleets"
+captain: "Darak's fleet"
+alignment: "Darak's fleet"
 ---
 
 # Coil of the Dead
 
 ## Core Identity
 
-Coil of the Dead is a fracture mine-layer and dead-wreck trap ship.
+- Type: fracture mine layer; dead wreck
+- Captain: Darak's fleet
+- Status: support trap vessel
+- Alignment: Darak's fleet
 
-## Function
+Coil of the Dead is a drifting graveyard on fire, placed where enemies are most likely to think wreckage means safety.
 
-- drifts into blind zones
-- detonates local ley rupture
-- acts as suicide trap vessel
-
-## Tactic
+## Tactical Signature
 
 Fracture Bloom Explosion.
 
-## Myth Hook
+## Traits And Behavior
 
-It does not sail. It drifts where dead things gather.
+- Covered in chains, runes, and scuttled hull fragments.
+- Looks more like a wreck than a weapon.
 
+## Fleet Behavior
+
+- Drifts into blind zones.
+- Detonates local ley rupture from within enemy assumptions.
+
+## Primary Tactics
+
+- mine drift
+- dead-wreck disguise
+- local fracture bloom
+
+
+## Gideon Failure Test
+
+If Coil of the Dead behaves like a mobile dueling ship, Gideon should flag it.

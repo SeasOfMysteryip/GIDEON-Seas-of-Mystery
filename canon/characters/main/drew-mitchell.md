@@ -90,6 +90,12 @@ Jordan helps connect sound and image into something more alarming than either al
 
 Drew regards both with cautious awe. The camera catches what he cannot explain.
 
+## Witness Function
+
+- Drew's job is to make the impossible visible before anyone can agree what it means.
+- His camera can catch light distortions, relic-energy edges, and horizon behavior that later become evidence.
+- He leaves in Episode 101, so later Gideon checks should not assume he remains available for ongoing crew action.
+
 ## Season Note
 
 Drew leaves at the end of Episode 101. That exit matters when later scenes imply who remained long enough to be changed more deeply by the Sea.

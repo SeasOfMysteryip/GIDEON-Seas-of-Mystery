@@ -2,13 +2,15 @@
 id: core.season_spine
 type: season_structure
 status: canon_locked
-source_module: "00_Canon Bible Core v2"
+source_module: "00_Canon Bible Core"
 source_section: "02_Series Arc & Season Outlines"
-source_file: "source-docs/00_Canon Bible Core🗺️ v2.docx"
+source_file: "source-docs/00_Canon Bible Core.md"
 uses:
   - canon/core/themes-and-motifs.md
+  - canon/core/season-one-plotlines.md
   - canon/characters/index.md
   - canon/relics/index.md
+  - season-planning/s02/outline-frame.md
 ---
 
 # Season Spine
@@ -23,6 +25,14 @@ The series follows the collision between the documentary crew, Jeb's storm-scarr
 
 The show should move like a mystery, but feel like a haunted maritime convergence event.
 
+## Format Spine
+
+- one-hour animated drama
+- serialized narrative engine
+- mystery-forward and myth-fed
+- documentary witness frame crossing into cinematic myth pressure
+- episodes built from artifact activation, relational fractures, and ley-bound convergence events
+
 ## Season One Spine
 
 Season One is a spiral of:
@@ -33,7 +43,7 @@ Season One is a spiral of:
 - crew formation through violence and loyalty
 - growing awareness that history is unstable
 
-Season One ends in awakening rather than closure. As of the final Season One restructure, `EP108` is the finale: Old Red dies, the Bloody Gull falls into the Abyss, and the mechanics of escape move to the opening of Season Two.
+Season One ends in awakening rather than closure. As of the final Season One restructure, EP108 is the finale: Old Red dies, the Bloody Gull falls into the Abyss, and the mechanics of escape move to the opening of Season Two.
 
 ## Locked Season-One Arc Threads
 
@@ -57,6 +67,8 @@ Sophia moves from vulnerable captive pressure toward relic-harmonic centrality a
 
 The doc crew's footage and witness position become proof that history in this world is not a stable record.
 
+For fuller Season One thread logic, use canon/core/season-one-plotlines.md.
+
 ## Season-One End State
 
 By the end of Season One:
@@ -67,6 +79,25 @@ By the end of Season One:
 - Atlantis and deeper world architecture move closer to the surface
 - the story graduates from discovery into larger war
 
+## Season Two Authority
+
+Older Season Two material in the core bible is not the active Season Two plan.
+
+For current Season Two direction, use season-planning/s02/outline-frame.md.
+
+Core Season Two posture:
+
+- the crew learns other people have known about the impossible for a long time
+- the world widens beyond discovery into faction pressure
+- Sophia's separation from the Gull becomes an active seduction-by-certainty arc rather than passive captivity
+- the Spectral Sea becomes profitable, studied, guarded, exploited, and weaponized
+
+## Season Three Posture
+
+Season Three remains a broad future-facing layer around Watchers, Protectors, Atlantis, and the fallout of the relic war.
+
+Do not over-commit old Season Three details if they conflict with newer Season Two development.
+
 ## Failure Test
 
 Flag season-spine drift when:
@@ -74,4 +105,5 @@ Flag season-spine drift when:
 - the doc crew remain passive too long
 - Sophia, Lark, and Jeb stop feeling like convergence points
 - Season One feels like answer-delivery instead of awakening
+- old Season Two material overrides the current outline-frame.md
 - the end state does not open the world wider

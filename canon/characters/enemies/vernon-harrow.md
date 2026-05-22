@@ -122,6 +122,13 @@ Blackbeard is old-world enemy whom Vernon hates most for surviving without law.
 
 Vernon still gives orders to a command structure that no longer truly exists.
 
+## Visual And Performance Notes
+
+- Vernon's coat, medals, gauntlets, and posture should feel like a dead empire refusing burial.
+- The empty medal over his heart is a strong visual cue for service without fulfillment.
+- His drinking is ritualized memory, not sloppy comic business.
+- Even defeat should make him issue commands as if history might still obey.
+
 ## Character Mandate
 
 Every Vernon scene should ring with fractured empire, lost glory, and delusional command.

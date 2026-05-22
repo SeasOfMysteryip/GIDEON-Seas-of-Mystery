@@ -6,6 +6,10 @@ availability: active
 primary_bearer: character.jeb_blackwater
 contested_by:
   - character.charles_vane
+aliases:
+  - Stormblade
+  - Surgefang
+  - The Sea's Fang
 related_nodes:
   - power
 related_relics:
@@ -20,19 +24,26 @@ related_relics:
 
 The Cutlass of Surge is a bonded storm-force relic. It channels raw ley violence, but only flows cleanly for the bearer the storm accepts.
 
+## Form And Visual Signature
+
+- Crystalline cutlass forged from Spectral Sea ley-mineral.
+- Aurora threads pulse beneath the surface like coiled lightning.
+- Salt-charged vapor curls from the blade when active.
+- The blade hums alive in a true bearer's hand and turns heavy under false mastery.
+
 ## Function
 
-- channels ley force through strike and motion
-- cuts spectral barriers, fracture walls, and relic shields
-- destabilizes enemy relic resonance
-- can overcharge into devastating force under true sync
+- Channels ley force through strike and motion.
+- Cuts spectral barriers, fracture walls, and relic shields.
+- Destabilizes enemy relic resonance.
+- Can overcharge into devastating force under true sync.
 
 ## Limitation And Cost
 
-- depends on ambient storm or ley pressure
-- lashes back through feedback when drawn too hard
-- sharpens aggression and obsession in the bearer
-- punishes false mastery
+- Depends on ambient storm or ley pressure.
+- Lashes back through feedback when drawn too hard.
+- Feeds aggression and obsession.
+- False bearers hallucinate control while the blade punishes them.
 
 ## Bearer Rule
 
@@ -40,17 +51,20 @@ Jeb is the true bearer. Vane is a false bearer and should trigger recoil, instab
 
 ## Symbiosis
 
-- resonates with Shell rhythm
-- flares with Spyglass pressure
-- intensifies near Memory of Kings and other myth anchors
+- Resonates with Shell rhythm and auditory ley feedback.
+- Flares with Spyglass pressure.
+- Intensifies near Memory of Kings and mythic anchor points.
+- Old Red's dice can accelerate in rhythm with blade surges.
 
 ## Faction Pressure
 
-Warlords and storm claimants covet it, but the blade is not a transferable status object. It obeys relationship law more than theft law.
+- Warlords and storm claimants covet it.
+- Murakami-style tactical users should fail because the blade resists logic-driven mastery.
+- Ghost fleets may follow or flee its surge.
 
 ## Episode Status
 
-Episode anchors: discovered in Episode 105, mishandled by Vane in Episode 106, unlocked further by Jeb across Episode 108 and the Season Two opening fallout.
+Discovered in Season One, mishandled by Vane, and unlocked further by Jeb across the Season One finale and Season Two opening fallout.
 
 ## Failure Test
 

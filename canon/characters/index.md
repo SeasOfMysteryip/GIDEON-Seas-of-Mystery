@@ -81,10 +81,17 @@ For this pilot, the files below are treated as canon-locked character source mat
 | Marin Halvorsen | `minor/beau-and-marin-halvorsen.md` | Civilian bleed-tourism contrast, influencer blindness, early-listener sensitivity |
 | Lt. Alina Voss | `minor/lt-alina-voss.md` | Tactical fracture mapping, clinical anti-myth observation, ArcLight counterpoint |
 | Tomas Reyes | `minor/tomas-reyes.md` | Human fracture consequence, memory fragmentation, atmospheric warning presence |
+| Passenger Archetypes | `minor/passenger-archetypes.md` | Civilian contrast, bleed-economy pressure, hidden observer and passenger type logic |
 | Callum Thorne | `minor/callum-thorne.md` | Bloody Gull Boys guitar/vocals, topman rhythm, shipboard morale |
 | Bram Pike | `minor/bram-pike.md` | Bloody Gull Boys upright bass/vocals, carpenter's mate, low-harmony ballast |
 | Finnian Bell | `minor/finnian-bell.md` | Bloody Gull Boys fiddle/accordion/vocals, sailmaker-rigger, nervous musical edge |
 | Toby Marlowe | `minor/toby-marlowe.md` | Bloody Gull Boys drums/vocals, bosun's runner, deck cadence |
+
+## Reconciliation Note
+
+The current character canon has been reconciled against the original 03_Characters source markdown as cleaned source material, not as raw session transcript. GPT/process language, Vault Echo tags, and post-session packaging should not be treated as character canon unless restated in these repo files.
+
+Protected newer Season Two additions should be edited only through direct writer instruction: Benjamin Briggs, Captain Wilhelm Worley, and The Bloody Gull Boys.
 
 ## Review Priorities
 

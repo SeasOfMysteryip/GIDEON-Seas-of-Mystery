@@ -12,25 +12,30 @@ origin: primordial
 
 ## Core Identity
 
-The Bones of the Leviathan are not a single-creature command relic so much as an ecosystem override. They rewrite the logic of the hunt across the sea.
+The Bones of the Leviathan are an ecosystem override. They rewrite the logic of the hunt across the Sea.
+
+## Form And Visual Signature
+
+- Fossilized remains of a primordial sea predator.
+- Bone surface carries ancient glyphs of predation.
+- The Bones seem to breathe in ley-heavy environments.
 
 ## Function
 
-- awakens predator-class entities
-- rewires migration and prey patterns
-- weaponizes ecology at campaign scale
+- Awakens predator-class entities.
+- Rewires migration and prey patterns.
+- Weaponizes ecology at campaign scale.
 
 ## Limitation And Cost
 
-- induces predatory drift in the user
-- can collapse whole sea zones into chaos
-- punishes fear and over-force differently, making control unstable
+- Induces predatory drift in the user.
+- Can collapse whole sea zones into chaos.
+- Punishes fear and over-force differently, making control unstable.
 
 ## Story Rule
 
-This is a war-escalation relic, not a local scene trick. Treat it as a regional threat engine and future convergence object.
+War-escalation relic, not a local trick. Treat as a regional threat engine and future convergence object.
 
 ## Failure Test
 
-Flag drift if the Bones are reduced to simple monster summoning or small-scale action seasoning.
-
+Flag drift if reduced to simple monster summoning or small-scale action seasoning.

@@ -12,26 +12,31 @@ origin: throne_relic
 
 ## Core Identity
 
-The Trident of Poseidon is an apex dominion relic: not navigation, not harmony, but law imposed on the sea itself.
+The Trident of Poseidon is an apex dominion relic: not navigation, not harmony, but law imposed on the Sea itself.
+
+## Form And Visual Signature
+
+- Ancient bronze trident with spectral seawater dripping from the tines.
+- Leyline currents pulse along the haft like ocean maps.
+- Water defies gravity near the blade.
 
 ## Function
 
-- exerts tide and sea-current rule at massive scale
-- writes new ley paths
-- opens, closes, or authors rifts
-- turns fleets into extensions of the bearer's tide authority
+- Exerts tide and sea-current rule at massive scale.
+- Writes new ley paths.
+- Opens, closes, or authors rifts.
+- Turns fleets into extensions of the bearer's tide authority.
 
 ## Limitation And Cost
 
-- fuses the bearer into conquest logic and ley-bonding
-- cannot be safely surrendered after full sync
-- corrupts crew loyalty through environmental domination pressure
+- Fuses the bearer into conquest logic and ley-bonding.
+- Cannot be safely surrendered after full sync.
+- Corrupts crew loyalty through environmental domination pressure.
 
 ## Story Rule
 
-Treat the Trident as a future campaign-defining artifact tied to major faction escalation and pirate-king war.
+Future campaign-defining artifact tied to major faction escalation and pirate-king war.
 
 ## Failure Test
 
-Flag drift if the Trident appears as ordinary weapon hardware or enters active story play without a world-scale shift.
-
+Flag drift if it appears as ordinary weapon hardware or enters active story play without world-scale shift.

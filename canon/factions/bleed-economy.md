@@ -2,12 +2,14 @@
 id: factions.bleed_economy
 type: faction_doctrine
 status: canon_locked
-source_module: "00_Canon Bible Core v2 / 04_Factions, Fleets & Tactics v2"
-source_section: "Convergence Doctrine / Independent Players / Minor Character Integration"
-source_file: "source-docs/00_Canon Bible Core🗺️ v2.docx"
+source_module: "05A_Deep Myth / 04_Factions, Fleets & Tactics"
+source_section: "Bleed Economy & Shadow Survival Doctrine"
+source_file: "source-docs/05A_Deep Myth.md"
 uses:
   - canon/deep-myth/myth-arc.md
   - canon/deep-myth/systems-doctrine.md
+  - canon/deep-myth/spectral-sea.md
+  - canon/deep-myth/mirror-harbors.md
   - canon/factions/power-flow.md
   - canon/factions/independent-players.md
 ---
@@ -16,26 +18,64 @@ uses:
 
 ## Purpose
 
-The bleed economy is how deep-world pressure becomes everyday life.
+The bleed economy is how Spectral pressure becomes everyday life.
 
-It explains how minor characters, brokers, operators, scavengers, analysts, soldiers, and civilians can exist inside the myth system without all becoming central relic-bearers or prophecy figures.
-
-Use this file whenever Gideon needs to reason about:
-
-- how ordinary people make money in a fracture world
-- why minor characters are present in myth-space
-- how factions recruit, exploit, or discard lower-tier operators
-- what kinds of black-market, military, or survival systems grow around bleed events
+It explains how governments, cults, elites, scavenger crews, brokers, smugglers, researchers, tourists, soldiers, and civilians can exist inside the myth system without all becoming relic-bearers.
 
 ## Core Rule
 
 Most people in this world do not control the myth. They survive its leakage.
 
-The bleed economy exists because the Spectral Sea, relic drift, fracture zones, and ley events create trade, labor, surveillance, smuggling, salvage, and emergency industries around them.
+The Spectral Sea bleeds into the real world through infrastructure:
+
+- food
+- fuel
+- currency
+- motive
+- blackmail
+- data
+- passage
+- relic rumors
+- survival labor
+
+The economy runs on dollars, deception, desperation, and secrecy.
+
+## Shadow Economy Structure
+
+| Layer | System | Canon Notes |
+| --- | --- | --- |
+| Real-world currency | Dollars, yen, crypto, rare metals, data drives. | Used in smuggler ports, ghost trade zones, and black-market relic contracts. |
+| Tourism fronts | Pirate tours, thrill junkies, elite death-seekers, controlled passage. | A grounded way for ordinary people to enter the edge of myth without understanding the cost. |
+| Black ops contracts | Intelligence agencies, militaries, private firms, and containment groups. | Hire operators to locate vessels, map anomalies, suppress evidence, or chase relic traces. |
+| Cult infiltration | Wealthy doomsday groups, occult orders, religious fronts. | Fund expeditions for spiritual gain, relic acquisition, or controlled access to "the Sea beyond." |
+| Cargo smuggling | Arms, contraband, human cargo, secrets, fuel, rations. | Relics are often the bait, not the only prize. Ships ferry illicit loads between worlds. |
+| Route intelligence | Drift maps, storm timing, harbor tolls, disappearance data. | Valuable because movement through the Sea is never free. |
+
+## Crew And Survival Logistics
+
+| System | Source | Notes |
+| --- | --- | --- |
+| Food supply | Human-sourced rations and preserved cargo. | Salted meat, ration bars, contraband delicacies, and port resupply are always in demand. |
+| Water and fuel | Ferried through supply lines, stolen, or bartered. | Real-world resupply remains vital. Fuel can be worth more than ammunition. |
+| Spectral food | Abyssal catch, ley-fed algae, cult diets. | Rare and risky. May contaminate, alter, or bind the eater. |
+| Emergency stores | Prepared, scavenged, or stolen. | Finite stores make starvation, ration politics, and mutiny plausible. |
+
+## Traveler Types
+
+Humans can and do travel in and out of the Spectral Sea.
+
+| Type | Motivation / Role |
+| --- | --- |
+| Elite pleasure seekers | Pay for the thrill and misunderstand the cost. |
+| Power players | Governments, corporations, shadow contractors, and military interests seeking weaponization, containment, or erasure. |
+| Zealots | Cults, religious groups, and Revisionists seeking divine purpose or relic destiny. |
+| Researchers and scientists | Historians, archaeologists, analysts, and truth-seekers; some are pawns. |
+| Hired crew | Deckhands, mercenaries, smugglers, ferrymen, and body-movers. |
+| The unfortunate | Accidental crossers caught by bleed storms, Mirror Harbors, and fractures. |
 
 ## What Moves Through The Economy
 
-The bleed economy is not only money. It is a circulation of:
+The bleed economy circulates:
 
 - location intelligence
 - storm timing
@@ -47,94 +87,53 @@ The bleed economy is not only money. It is a circulation of:
 - military mapping data
 - transport access
 - safe-passage promises
-
-It also includes higher-order trade in:
-
 - relic-circuit intelligence
 - bearer sightings
 - false relic leads
-- staged council invitations
-- tether-break rumors
+- staged invitations and councils
 
 ## Who Lives In It
 
-This is where many minor and support characters get their in-world function.
-
 ### Surveillance And Analysis
 
-Characters like Silas Merrin belong here.
-
-They live in:
-
-- fracture intelligence markets
-- coded observation networks
-- private surveillance contracts
-- anomaly data exchanges
+Analysts and private operators live in anomaly data exchanges, coded observation networks, surveillance contracts, and fracture intelligence markets.
 
 ### Recon And Command Logistics
 
-Characters like Lt. Alina Voss belong here.
+Military and containment figures live in mapping systems, recon operations, tactical anomaly management, suppression work, and emergency response.
 
-They live in:
+### Brokers And Opportunists
 
-- military mapping systems
-- ArcLight-style recon operations
-- containment doctrine
-- tactical anomaly management
-
-### Brokers, Traders, And Opportunists
-
-These belong to the underworld and independent-player side of the bleed economy.
-
-They live in:
-
-- relic rumor chains
-- salvage auctions
-- black-market route sales
-- forged access papers
-- counterfeit artifact trade
-- relic-circuit fragments sold as prophecy, rumor, or leverage
+Independent players sell relic rumors, route access, forged papers, black-market salvage, false prophecy, and leverage.
 
 ### Civilians And Witnesses
 
-Characters like Beau, Marin, Tomas, and other peripheral lives belong here when the myth reaches ordinary human systems.
-
-They live in:
-
-- tourism around haunted geographies
-- fringe economies built on rumors
-- labor tied to ports, shipping, research, and disappearance zones
-- grief economies around vanished people and lost routes
+Peripheral lives are pulled into the bleed economy through tourism, ports, shipping, research, disappearance zones, grief economies, and rumors around vanished people.
 
 ## Faction Relationship
 
-Each major faction interacts with the bleed economy differently:
+| Faction Type | Relationship To The Economy |
+| --- | --- |
+| Protectors | Monitor, suppress, or contain dangerous circulation. |
+| Revisionists | Exploit the economy for access, weaponization, and institutional control. |
+| Independent players | Profit directly from routes, rumors, salvage, and secrets. |
+| Blackbeard's domain | Taxes, controls, raids, or swallows trade and passage. |
+| Military / imperial structures | Try to formalize, command, erase, or weaponize the bleed. |
+| Cults | Fund access through belief, fear, devotion, and elite patronage. |
 
-- Protectors monitor and suppress dangerous circulation
-- Revisionists exploit it for access and weaponization
-- independent players profit from it directly
-- Blackbeard's domain taxes, controls, or swallows it
-- imperial and military structures try to formalize and command it
+## Story Function
 
-Higher-order players also use the bleed economy to evaluate the relic circuit without exposing their full intent.
+The bleed economy grounds the myth by making it profitable and terrifying.
 
-That means markets, rumors, salvage chains, and councils can function as disguised intelligence systems around awakening relic nodes.
-
-This means minor characters often sit at the point where abstract faction struggle becomes material life.
-
-## Story Rule
-
-The bleed economy is the reason the world feels populated rather than hero-only.
-
-It gives the setting:
+It gives the world:
 
 - dockworkers who know too much
 - analysts who read fracture patterns
-- smugglers who sell routes they do not understand
+- smugglers who sell routes they barely understand
 - officers tasked with mapping the impossible
-- tourists and civilians caught at the edge of myth pressure
+- tourists caught at the edge of myth pressure
 - witnesses whose livelihoods depend on surviving contact with the unreal
-- brokers who do not understand the full system but profit from carrying pieces of it
+- brokers who profit from carrying pieces of a system they do not understand
 
 ## Tone Rule
 
@@ -144,25 +143,16 @@ The bleed economy should feel:
 - exploitative
 - rumor-driven
 - half-technical and half-superstitious
-- built from desperation, not elegance
+- built from desperation
+- morally compromised
 
-It should never feel like a clean fantasy marketplace.
-
-## Review Rule
-
-Use this file when Gideon needs to check whether a minor character or faction-adjacent operator feels grounded in the world.
-
-Ask:
-
-- what are they actually doing for survival, duty, trade, or leverage?
-- what system of rumor, labor, mapping, salvage, or command put them here?
-- are they responding to myth pressure materially rather than only symbolically?
+It should not feel like a clean fantasy marketplace.
 
 ## Failure Test
 
 Flag bleed-economy drift when:
 
-- minor characters appear in myth space with no material reason to be there
-- factions operate without any labor, intelligence, or supply underside
+- minor characters appear in myth space with no material reason
+- factions operate without labor, intelligence, or supply underside
 - the world feels populated only by chosen people, captains, and relic-bearers
-- black-market and surveillance logic vanish from high-pressure zones
+- black-market, surveillance, tourism, and resupply logic vanish from high-pressure zones

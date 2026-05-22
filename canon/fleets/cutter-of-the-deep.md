@@ -1,28 +1,48 @@
 ---
 id: fleet.cutter_of_the_deep
-type: sub_vessel_profile
+type: fleet_profile
 status: canon_locked
-parent_fleet: fleet.queen_annes_revenge
-captain_chain: character.blackbeard
+source_module: "04_Factions, Fleets & Tactics"
+source_file: "source-docs/04_Factions, Fleets & Tactics.md"
+source_section: "Fleets"
+captain: "Blackbeard's fleet command"
+alignment: "Blackbeard's fleet"
 ---
 
 # Cutter of the Deep
 
 ## Core Identity
 
-Cutter of the Deep is a heavy cutter built for targeted relic extraction.
+- Type: heavy cutter and pulse-harpoon frigate
+- Captain: Blackbeard's fleet command
+- Status: active support vessel
+- Alignment: Blackbeard's fleet
 
-## Function
+Cutter of the Deep hunts relic-bearers like whales. It is built for extraction rather than broad destruction.
 
-- hunts relic-bearers
-- locks onto pulse signatures
-- rips relics out mid-battle
-
-## Tactic
+## Tactical Signature
 
 Modified Marrowline Cut.
 
-## Myth Hook
+## Traits And Behavior
 
-Its crew are mute so betrayal cannot speak. Only the harpoons do.
+- Double harpoon rigs.
+- Reinforced hull plating.
+- Relic-snare netting.
+- Crew silence is part discipline, part terror.
 
+## Fleet Behavior
+
+- Locks onto relic pulse.
+- Rips or disables target function mid-battle.
+
+## Primary Tactics
+
+- Pulse harpoon
+- relic snare
+- bearer isolation
+
+
+## Gideon Failure Test
+
+If the cutter targets ships generally instead of relic functions specifically, Gideon should flag it.

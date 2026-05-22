@@ -14,23 +14,28 @@ origin: revisionist_corruption
 
 The Mirror of Lost Reflections is a memory-warfare relic. It turns history itself into a battlefield.
 
+## Form And Visual Signature
+
+- Obsidian mirror with silver Atlantean frame.
+- Surface ripples like black water even at rest.
+- Reflections show desires, fears, alternate timelines, or broken memory.
+
 ## Function
 
-- erases, fractures, implants, and rewrites memory
-- extracts memory for storage or leverage
-- can scale into collective memory warfare when amplified
+- Erases, fractures, implants, and rewrites memory.
+- Extracts memory for storage or leverage.
+- Scales into collective memory warfare when amplified.
 
 ## Limitation And Cost
 
-- splinters the user's own identity
-- contaminates nearby minds through memory bleed
-- becomes addictive because it offers control over truth
+- Splinters the user's own identity.
+- Contaminates nearby minds through memory bleed.
+- Becomes addictive because it offers control over truth.
 
 ## Story Rule
 
-This is not atmosphere. It is a strategic black-ops artifact with enormous narrative consequences. Use it as a future threat, not a casual twist generator.
+Strategic black-ops artifact with enormous narrative consequence. Future threat, not casual twist generator.
 
 ## Failure Test
 
-Flag drift if the Mirror is used for clean retcon logic, harmless illusion work, or low-stakes mind tricks.
-
+Flag drift if used for clean retcon logic, harmless illusion work, or low-stakes mind tricks.

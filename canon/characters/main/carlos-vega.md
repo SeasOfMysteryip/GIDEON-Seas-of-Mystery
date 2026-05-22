@@ -89,6 +89,12 @@ Jordan and Carlos form the audio/visual anomaly bridge.
 
 Carlos studies Sophia's footage obsessively because it contains pattern information he cannot ignore.
 
+## Witness Function
+
+- Carlos turns raw footage into pattern. He is the person most likely to find the anomaly in a loop, jump cut, dropped frame, or sync mismatch.
+- In Season Two, if he remains aboard, his useful function is practical: spotting modern-system inconsistencies and making surveillance evidence legible.
+- Keep him distinct from Drew and Jordan: Drew sees, Jordan hears, Carlos decodes.
+
 ## Canon Failure Test
 
 If a scene with Carlos does not reflect analytical anomaly reading, edit-room survival logic, or evidence-driven focus under pressure, Gideon should flag it.

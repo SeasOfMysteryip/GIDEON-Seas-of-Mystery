@@ -100,6 +100,12 @@ Martin idolizes Lark.
 
 Martin is fascinated by Sophia and afraid of what she represents.
 
+## Witness Function
+
+- Martin is the innocent-eye pressure point: curious enough to move toward danger, inexperienced enough to make that dangerous.
+- He can handle gear, stumble into relic proximity, and reveal how frightening the myth is to someone who has not built armor against it.
+- If he remains aboard after Episode 101, his courage should look accidental first and chosen later.
+
 ## Canon Failure Test
 
 If a scene with Martin does not reflect curiosity under pressure, accidental courage, or inexperienced proximity to the myth, Gideon should flag it.

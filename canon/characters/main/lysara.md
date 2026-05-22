@@ -91,6 +91,20 @@ Lysara appears through memory triggers, relic flares, ley bleed, and sea-linked 
 
 She should feel like the Sea remembering itself, not like a standard apparition entering a scene.
 
+## Visual And Performance Notes
+
+- Eyes may read as liquid gold with bioluminescent flecks.
+- Hair can move like dark green-black kelp threaded with light.
+- Skin may carry pearlescent moon-on-water shimmer near ley convergence.
+- Her voice can layer bone-deep resonance beneath audible speech.
+- Transitions around her should feel like memory crossing water, not a jump-scare arrival.
+
+## Writer-Facing Pressure Points
+
+- Lysara is not here to solve the plot. She changes emotional weather.
+- She can tease, haunt, bless, or wound, but she should not become exposition.
+- Her connection to Sophia is legacy and sea-memory, not simple replacement.
+
 ## Abilities And Myth Function
 
 - Leyline empathy.

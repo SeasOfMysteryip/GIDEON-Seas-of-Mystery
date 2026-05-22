@@ -65,6 +65,23 @@ Tomas speaks low, haltingly, and in broken memory fragments.
 
 Tomas should feel like atmospheric warning: the human afterimage of exposure, not a hero waiting for a subplot.
 
+## Black Marlin Incident
+
+Tomas is the sole known survivor of the Black Marlin, lost in ley-fracture storms near Point Nemo and recovered from a drifting skiff after severe exposure.
+
+Memory fragments:
+
+- Starless sky.
+- Rigging whispers.
+- Dreams of drowning in air.
+- A broken compass whose needle cannot find north.
+
+## Field Use Notes
+
+- Tomas should deliver consequence by presence, not plot authority.
+- He should never explain the Spectral Sea clearly.
+- His fragments are most useful when they make other characters understand what prolonged exposure can do to a human mind.
+
 ## Canon Failure Test
 
 If a scene with Tomas does not reflect memory fragmentation, sky-lost dread, or human bleed consequence, Gideon should flag it.

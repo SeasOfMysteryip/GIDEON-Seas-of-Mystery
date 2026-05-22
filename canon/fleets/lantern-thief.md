@@ -1,28 +1,46 @@
 ---
 id: fleet.lantern_thief
-type: sub_vessel_profile
+type: fleet_profile
 status: canon_locked
-parent_fleet: fleet.sayf_al_bahr
-captain_chain: character.darak_al_mhar
+source_module: "04_Factions, Fleets & Tactics"
+source_file: "source-docs/04_Factions, Fleets & Tactics.md"
+source_section: "Fleets"
+captain: "Darak's fleet"
+alignment: "Darak's fleet"
 ---
 
 # Lantern Thief
 
 ## Core Identity
 
-Lantern Thief is Darak's spectral skiff built to forge signals and bait relic hunters.
+- Type: spectral skiff; signal interceptor
+- Captain: Darak's fleet
+- Status: support vessel
+- Alignment: Darak's fleet
 
-## Function
+Lantern Thief is a relic signal forger. The light enemies chase is always one ripple too far.
 
-- relic signal forgery
-- larger-enemy lure
-- chase diversion
-
-## Tactic
+## Tactical Signature
 
 Relic Bait Pulse.
 
-## Myth Hook
+## Traits And Behavior
 
-It is never caught because the light you chase is always one ripple away.
+- Stolen relic fragments sewn into sails.
+- Never boarded, never caught.
 
+## Fleet Behavior
+
+- Emits fake pulses.
+- Draws larger enemies toward false artifact locks.
+
+## Primary Tactics
+
+- signal theft
+- bait pulse
+- false lock
+
+
+## Gideon Failure Test
+
+If Lantern Thief reveals the truth too early, Gideon should flag it.

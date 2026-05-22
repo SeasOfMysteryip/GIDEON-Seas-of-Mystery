@@ -1,144 +1,104 @@
 ---
-id: myth.myth_arc
-type: story_engine
+id: myth.arc
+type: myth_system
 status: canon_locked
-source_module: "05A_Deep Myth v2"
-source_section: "Myth Arc"
-source_file: "source-docs/05A_Deep Myth🧠 v2.docx"
+source_module: "05A_Deep Myth"
+source_section: "Myth Arc / Atlantis Fracture Engine"
+source_file: "source-docs/05A_Deep Myth.md"
 uses:
-  - canon/deep-myth/revelation-rules.md
   - canon/deep-myth/atlantis.md
   - canon/deep-myth/spectral-sea.md
-  - canon/deep-myth/storm-profile.md
   - canon/deep-myth/watchers.md
-  - canon/deep-myth/war-of-the-ancients.md
+  - canon/deep-myth/vein-map.md
   - canon/relics/relic-circuit.md
 ---
 
 # Myth Arc
 
-## Core Function
+## Core Engine
 
-The myth arc is the highest-level story engine beneath Seas of Mystery.
+The myth engine of Seas of Mystery runs through a repeating chain:
 
-It explains what the world is trying to do beneath the plot:
+1. Primordial or precursor intelligence seeds Atlantis with purpose and knowledge.
+2. Watchers become Atlantean seafarers, engineers, guardians, and bloodline custodians.
+3. The Library gathers dangerous knowledge and memory architecture.
+4. The Library shatters into relics.
+5. The leyline grid stabilizes relic pulse, fracture navigation, and reality anchors.
+6. The Great Schism breaks the system.
+7. Fractures open and the Spectral Sea is born.
+8. The Bloody Gull sails through the drift layer of memory, myth, and time.
+9. Protectors and bloodline inheritors become the only people who can fully sense, unlock, or wield the relic system.
+10. Modern conflict asks whether the Library should remain sealed or awaken what remains of the Watchers.
 
-- remember what was broken
-- test who can carry that memory
-- decide whether old power will be stewarded, seized, or destroyed
-- force bloodlines, relics, and fracture sites back into contact
+## Atlantis Fracture Engine
 
-Gideon should use this file to preserve the deeper shape of the series rather than to over-explain individual scenes.
+Atlantis is the fracture engine beneath the series.
 
-## Surface Story Engine
+It is:
 
-At the safe canon layer, the myth arc should be understood as:
+- not only a city
+- not only a ruin
+- not only a myth
+- a convergence nexus
+- a dimensional root system
+- a calibration mechanism for memory, leyline, bloodline, relic, and fracture behavior
 
-- the world trying to remember itself after an ancient collapse
-- relics acting as memory-keys, not treasure items
-- bloodlines acting as inheritance pressure, not chosen-one shortcuts
-- the Spectral Sea forcing unresolved history back into motion
-- modern characters being drawn into an unfinished system rather than a random curse
+Atlantis did not simply fall. It split, scattered, departed, and left a living system behind.
 
-This is the layer Gideon may use freely in standard review.
+## Core Structures
 
-## Deep Story Engine
+| Structure | Function |
+| --- | --- |
+| Leyline Grid | Earth-interface pulse network stabilizing relic resonance and fracture drift. |
+| Spectral Sea | Dimensional drift layer formed by Atlantis's collapse. |
+| Relics | Living Library fragments, memory keys, fracture anchors, and tests of bloodline compatibility. |
+| Bloodlines | Biological resonance channels designed or inherited from Watcher stewardship. |
+| Mirror Harbors | Fixed thresholds into the Spectral echo-layer and drift lanes. |
+| Fractures | Unfinished bridges from Atlantis that now behave as unstable time-space ports. |
 
-At the restricted layer, the myth arc should be understood as:
+## Time Slip Rule
 
-- a damaged world-system attempting recalibration
-- relics, bloodlines, and fracture zones behaving like surviving pieces of a broken architecture
-- the oldest ideological split repeating itself through modern factions and descendants
-- memory, access, and stewardship functioning as the true conflict beneath ships, storms, and treasure
+Time slips are not random glitches. They are echoes of a broken system attempting to reconnect to lost command.
 
-Gideon may use this layer in deep canon analysis and worldbuilding mode, but should avoid dropping it bluntly into ordinary scene notes.
+Ships caught in fractures may be sampled, delayed, looped, or returned wrong.
 
-## The Trinity Of Structure
+## Emotional Ignition Rule
 
-The world's deeper engine operates through three linked layers:
+Events that fracture identity can ripple into physical space.
 
-1. `Leyline Grid`
-   The Earth-interface layer. It routes pressure, memory, access, and activation through the world.
-2. `Spectral Sea`
-   The dimensional drift layer. It holds the scar, distortion, grief, and unfinished consequences of collapse.
-3. `Astral Conduit`
-   The highest transit or origin layer behind the system's oldest architecture.
+Emotional ignition can:
 
-For standard review, Gideon should speak openly about the Leyline Grid and the Spectral Sea.
+- trigger relic activity
+- open dormant fractures
+- amplify bloodline recognition
+- wake storm pressure
+- create memory bleed
 
-The Astral Conduit belongs behind the restricted wall and should only be referenced indirectly unless the user explicitly asks for deepest myth structure.
+## World Logic Reconciliation
 
-Safe upward language includes:
+| Concept | Canon Function |
+| --- | --- |
+| Ancient gods | Cultural memories of Watcher dimensional seafarers. |
+| Leyline sites | Global scars reacting to buried pulse infrastructure. |
+| Spectral Sea | Collapse zone of Atlantis made of memory, myth, drift, and time. |
+| Relics | Living fragments of the Library. |
+| Fractures | Open time-space bridges left unfinished by collapse. |
+| Bloodline inheritors | Living interfaces with the old system, especially Sophia and Lark. |
 
-- origin-layer pressure
-- higher system architecture
-- pre-collapse transit law
-- the oldest layer of the buried network
+## Story Question
 
-## Functional Law
+The modern story is not only "find the relics."
 
-The myth arc should preserve these operating truths:
+The deeper question is:
 
-- relics awaken relationship, memory, and consequence before they solve plot
-- bloodline pressure grants burden before mastery
-- fractures expose hidden truth but distort access to it
-- storms are system events, not weather events
-- places matter because the world is scarred unevenly
-- the same old ideological conflict keeps resurfacing through new faces
-
-## Modern Story Consequence
-
-In present-tense story logic, the myth arc means:
-
-- Sophia, Lark, and Jeb are not random intersections; they are convergence points
-- relic awakenings should feel like recognition, toll, and inherited consequence
-- faction conflict should track back to ancient disagreement over stewardship versus seizure
-- expansion of the world should reveal system pattern, not generate disconnected lore islands
-
-## Theme Engine
-
-The myth arc should keep the series centered on:
-
-- memory versus erasure
-- stewardship versus domination
-- inheritance versus self-authorship
-- grief versus denial
-- the cost of opening what should have stayed sealed
-
-If a major story turn does not touch one or more of these pressures, Gideon should treat it as suspect at the myth layer.
-
-## Revelation Rule
-
-In standard review, Gideon should express the myth arc through:
-
-- inherited burden
-- deep-world memory
-- recurring fracture pattern
-- unfinished ancient consequence
-- old system pressure returning through the present
-
-Gideon should not casually use:
-
-- explicit alien taxonomy
-- full galactic Atlantis framing
-- literal stargate language as casual explanation
-- the deepest transdimensional origin architecture
-
-Those remain governed by `revelation-rules.md`.
-
-## Writer-Only Edge
-
-At the writer-only edge, the myth arc points toward the fullest origin architecture of the world and the highest transit layer behind Atlantis-era design.
-
-That truth remains real, but Gideon should summarize upward rather than expose it during normal use.
+Should the Library remain sealed, should the Watchers' system awaken, or should the forbidden access logic of Phoenicia and the Revisionists seize the broken world first?
 
 ## Failure Test
 
 Flag myth-arc drift when:
 
-- relics become generic powers rather than memory-bearing system fragments
-- bloodline inheritance becomes easy destiny without burden
-- fracture events behave like random spectacle
-- ancient war and modern faction logic stop mirroring each other
-- new lore expands sideways instead of revealing pattern
-- writer-only cosmology is used where myth pressure would be stronger
+- relics become ordinary treasure
+- Atlantis becomes decorative lore
+- bloodlines are power-ups without burden
+- time slips are random tricks
+- the Watcher/Phoenician conflict is absent from relic access logic

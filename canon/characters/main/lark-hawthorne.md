@@ -146,6 +146,19 @@ Vernon is an imperial predator obsessed with controlling Lark's relic potential 
 
 Murakami is a strategic adversary who seeks to neutralize Lark to maintain fracture dominance.
 
+## Writer-Facing Pressure Points
+
+- Lark should move from analysis into action. The best Lark scenes force her to decide whether knowing a thing gives her the right to use it.
+- Her intelligence is armor, but her father wound is the engine under it.
+- The Spyglass, Memory of Kings, and related systems should tempt her toward dangerous certainty.
+- If she sounds like she is merely curious, the scene is probably too soft. Lark hunts proof because grief has left her no clean alternative.
+
+## Visual And Performance Notes
+
+- Lark tracks fracture behavior like a person reading a crime scene, not like a tourist admiring magic.
+- Relic use may manifest as scar-channel pressure, burned-hand memory, glyph bleed, or time holding its breath.
+- Her best command moments are clipped, slightly ruthless, and followed by the private cost landing a beat later.
+
 ## Scene Forge Cues
 
 - When Lark uses the spyglass, the environment can warp subtly.

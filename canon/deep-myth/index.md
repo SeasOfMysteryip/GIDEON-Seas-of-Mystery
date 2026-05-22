@@ -2,8 +2,8 @@
 id: index.deep_myth
 type: canon_index
 status: canon_locked
-source_module: "05A_Deep Myth v2"
-source_file: "source-docs/05A_Deep Myth🧠 v2.docx"
+source_module: "05A_Deep Myth"
+source_file: "source-docs/05A_Deep Myth.md"
 uses:
   - canon/deep-myth/revelation-rules.md
   - canon/deep-myth/spectral-sea.md
@@ -16,6 +16,7 @@ uses:
   - canon/deep-myth/war-of-the-ancients.md
   - canon/deep-myth/myth-arc.md
   - canon/deep-myth/systems-doctrine.md
+  - canon/factions/bleed-economy.md
 ---
 
 # Deep Myth Canon Index
@@ -26,24 +27,33 @@ This folder contains the world-scale myth and metaphysical law of Seas of Myster
 
 Use the files in this folder as the source of truth for:
 
-- deep-world origin law
+- Atlantis origin law
 - Spectral Sea metaphysics
 - fracture behavior
 - storm behavior
+- leyline and location logic
+- Mirror Harbor transition law
+- Watcher inheritance
+- ancient faction conflict
 - revelation-level handling of hidden cosmology
 
 ## Files
 
 | File | Function |
 | --- | --- |
-| `revelation-rules.md` | controls what Gideon can say openly versus keep writer-only |
-| `spectral-sea.md` | defines the Spectral Sea as an environment and metaphysical system |
-| `storm-profile.md` | defines the Storm as a dimensional collision event and recurring pressure system |
-| `atlantis.md` | defines Atlantis as the buried source-system beneath relics, fractures, and bloodline inheritance |
-| `watchers.md` | defines the Watchers as ancient custodians with layered origin truth and present-day bloodline consequence |
-| `vein-map.md` | defines ley hubs and fracture zones as the scar-geometry of the post-collapse world |
-| `mirror-harbors.md` | defines fixed threshold ports between the real world and the Spectral Sea |
-| `key-locations.md` | groups the major recurring world sites into a quick-reference location layer |
-| `war-of-the-ancients.md` | defines the hidden ideological war beneath relic access, bloodline conflict, and fracture history |
-| `myth-arc.md` | defines the highest-level story engine linking relics, bloodlines, fractures, and repeating world-memory |
-| `systems-doctrine.md` | reconciles relics, storms, fractures, bloodlines, and factions into one broken world system |
+| revelation-rules.md | Controls what Gideon can say openly versus keep writer-only. |
+| spectral-sea.md | Defines the Spectral Sea as environment, access system, memory field, and metaphysical law. |
+| storm-profile.md | Defines the Storm as a dimensional collision event and recurring pressure system. |
+| atlantis.md | Defines Atlantis as the buried source-system beneath relics, fractures, bloodline inheritance, and the Library. |
+| watchers.md | Defines the Watchers as ancient custodians, dimensional seafarers, and bloodline-origin pressure. |
+| vein-map.md | Defines ley hubs and fracture zones as the scar-geometry of the post-collapse world. |
+| mirror-harbors.md | Defines fixed threshold ports, drift corridors, tolls, and transition law. |
+| key-locations.md | Groups major recurring world sites into a quick-reference location layer. |
+| war-of-the-ancients.md | Defines Atlantis versus Phoenicia, the Watcher/Phoenician ideological split, and Flame of Sidon inheritance. |
+| myth-arc.md | Defines the highest-level story engine linking relics, bloodlines, fractures, and repeating world-memory. |
+| systems-doctrine.md | Reconciles relics, storms, fractures, bloodlines, and factions into one broken world system. |
+| ../factions/bleed-economy.md | Defines how Spectral pressure becomes trade, transport, resupply, surveillance, and survival infrastructure. |
+
+## Import Hygiene
+
+This canon layer excludes session notes, process markers, and source-document housekeeping. If future source docs include development notes, convert only stable world law into these files.

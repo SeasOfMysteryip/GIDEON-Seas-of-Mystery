@@ -2,35 +2,53 @@
 id: fleet.hms_relentless
 type: fleet_profile
 status: canon_locked
-captain: character.vernon_harrow
-related_relics:
-  - relic.imperial_gauntlets
-  - relic.spyglass
+source_module: "04_Factions, Fleets & Tactics"
+source_file: "source-docs/04_Factions, Fleets & Tactics.md"
+source_section: "Fleets"
+captain: "Admiral Vernon Harrow"
+alignment: "Vernon's imperial relic pursuit force"
 ---
 
 # HMS Relentless
 
 ## Core Identity
 
-HMS Relentless is Vernon's flagship: a ship of the line modified for relic integration and imperial formation warfare.
+- Type: third-rate ship of the line modified for relic integration
+- Captain: Admiral Vernon Harrow
+- Status: imperial flagship and formation anchor
+- Alignment: Vernon's imperial relic pursuit force
+
+HMS Relentless is dead empire refusing burial. Its discipline is ceremony, its violence is doctrine, and its hull argues with the sea rather than surrendering to it.
 
 ## Tactical Signature
 
-Formation warfare and spectral shock discipline.
+Formation warfare, spectral shock, and line discipline.
+
+## Traits And Behavior
+
+- Black oak burned along the waterline.
+- Split-crown lion figurehead.
+- Sails that seem to march rather than ripple.
+- Relic accelerant gun decks.
+- Command deck like a steel and ivory pulpit.
 
 ## Fleet Behavior
 
-- line control
-- ritualized timing
-- synchronized barrage
-- relic overpressure
+- Does not chase; waits where order should be.
+- Absorbs storm pressure and punishes disobedience.
+- Uses synchronized barrages and relic overpressure.
+
+## Primary Tactics
+
+- Bladewall Protocol
+- Broadhead Lock
+- Judgment Column
 
 ## Supporting Ships
 
-- HMS Valor's Mercy
-- HMS Thunderwake
+- HMS Valor's Mercy: shield escort.
+- HMS Thunderwake: relic-disruption bomb vessel.
 
-## Support Ship Functions
+## Gideon Failure Test
 
-- `fleet.hms_valors_mercy`: shield projection and escort protection
-- `fleet.hms_thunderwake`: relic scrambling and disruption barrage
+If Relentless fights like a pirate ship or flexible skirmisher, Gideon should flag it.

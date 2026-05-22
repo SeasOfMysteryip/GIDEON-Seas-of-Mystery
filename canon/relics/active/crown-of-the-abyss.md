@@ -4,6 +4,10 @@ type: relic_profile
 status: canon_locked
 availability: active
 primary_bearer: character.ching_shih
+aliases:
+  - Reef Crown
+  - Storm Monarch's Thorn
+  - Throne of the Drowned
 related_relics:
   - relic.blackbeards_ring
 ---
@@ -14,32 +18,42 @@ related_relics:
 
 The Crown of the Abyss is a sovereign dominion relic. It is command made corrosive: a throne for drowned-court rule, not harmony.
 
+## Form And Visual Signature
+
+- Black coral circlet twisted into jagged crown shape.
+- Salt-hardened jewels hold storm memories.
+- Coral tendrils flex under spectral light.
+- The crown seems to breathe like gills in rhythm with the bearer's will.
+- Near Blackbeard, it hums against the frequency of his Ring.
+
 ## Function
 
-- commands drowned courts and spectral mariners
-- summons battlefield-scale dead forces
-- opens fracture gates and disrupts formations
-- catalyzes seaquake-scale battlefield pressure
+- Commands drowned courts and spectral mariners.
+- Summons battlefield-scale dead forces.
+- Opens fracture gates and redirects leyflows.
+- Can trigger seaquake-scale battlefield disruption.
 
 ## Limitation And Cost
 
-- coralization and salt petrification spread through the bearer
-- conquest-thinking intensifies into self-loss
-- risks full transformation into spectral monarchy
-- binds the bearer lethally to the Sea
+- Coralization and salt petrification spread through the bearer.
+- Conquest-thinking intensifies into self-loss.
+- Bearer risks full transformation into spectral monarchy.
+- Physical and emotional separation from the Sea becomes dangerous.
 
 ## Bearer Rule
 
-Ching Shih is the confirmed bearer. She survives it through will, not bloodline comfort. That distinction matters.
+Ching Shih is the confirmed bearer. She survives it through will, not bloodline comfort.
 
 ## Symbiosis
 
-- clashes in resonance with `Blackbeard's Ring`
-- pulls spectral fleets and deep creatures toward its command frequency
+- Clashes in resonance with Blackbeard's Ring.
+- Draws spectral fleets and deep creatures toward its command frequency.
+- Creates sovereignty pressure rather than harmonic balance.
 
 ## Faction Pressure
 
-This relic belongs to the power web, not the hero circuit. It should read as empire-through-command, not as a navigational or restorative artifact.
+- Belongs to the power web, not the hero circuit.
+- Reads as empire-through-command and abyssal sovereignty.
 
 ## Episode Status
 
@@ -48,4 +62,3 @@ Active in council and convergence-level Season One power scenes, with larger con
 ## Failure Test
 
 Flag drift if the Crown behaves like finesse magic, personal adornment, or command without corruption cost.
-

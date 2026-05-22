@@ -2,122 +2,184 @@
 id: myth.spectral_sea
 type: world_law
 status: canon_locked
-source_module: "05A_Deep Myth v2"
+source_module: "05A_Deep Myth"
 source_section: "Spectral Sea"
-source_file: "source-docs/05A_Deep Myth🧠 v2.docx"
+source_file: "source-docs/05A_Deep Myth.md"
 uses:
   - canon/deep-myth/revelation-rules.md
+  - canon/deep-myth/atlantis.md
+  - canon/deep-myth/vein-map.md
+  - canon/deep-myth/mirror-harbors.md
+  - canon/deep-myth/storm-profile.md
 ---
 
 # Spectral Sea
 
 ## Core Identity
 
-The Spectral Sea is not ordinary haunted water. It is a fracture environment where time, memory, and physical law bleed against one another.
+The Spectral Sea is not ordinary haunted water. It is a fracture environment where time, memory, identity, and physical law bleed against one another.
 
 It exists where Atlantis's collapse left reality unable to seal cleanly.
 
 ## Core Law
 
-The Spectral Sea is the world's active myth-pressure field.
+The Spectral Sea is the world's active myth-pressure field. It is not decorative atmosphere and not a generic anomaly. It changes what sailing, remembering, dying, returning, and surviving mean.
 
-It bends chronology, identity, navigation, and consequence. It is not a decorative supernatural setting. It is a system that changes what sailing, remembering, and surviving mean.
+The Sea pressures:
 
-## Primary Behaviors
+- chronology
+- memory
+- identity
+- grief
+- bloodline recognition
+- reality confidence
+- consequence after crossing
 
-The Spectral Sea can produce:
+## Nature Of The Sea
 
-- time slippage
-- fracture corridors
-- memory distortion
-- ghost ships and phantom crews
-- predatory entities and sea-beast emergence
-- alternate-path pressure and parallel possibility bleed
+The Spectral Sea is a network of rifts at the intersection of time, space, reality, and myth-memory.
 
-## Fracture Logic
+It can behave as:
 
-Fractures are dimensional weak points seeded by ancient rupture and often intensified by ley intersections or relic activation.
+- a corridor between dimensions
+- a drift layer of Atlantean collapse debris
+- a memory field
+- a ghost-ship graveyard
+- a fracture ocean
+- a route system between Mirror Harbors and dead zones
 
-Their effects can include:
+## Fractures In Time And Space
 
-- loops in time
-- collision of past and present
+Fractures are dimensional weak points intensified by leyline intersections, relic activation, emotional ignition, or old Atlantean rupture.
+
+Fractures can create:
+
+- time loops
+- memory glitches
+- collision between past and present
+- delayed emergence decades later
 - entry into alternate or unstable realities
-- disappearance and delayed return
+- disappearance from ordinary chronology
 - identity and memory corruption
 
-## Ghost Ship Rule
+Fractures are never consequence-free access points.
 
-Ghost ships in the Spectral Sea are not simple dead-vessel folklore.
+## Ghost Ships And Phantom Crews
 
-They are ships or crews trapped in fracture logic:
+Ghost ships are not simple dead-vessel folklore. They are vessels and crews trapped in fracture logic.
 
-- stuck inside loops
-- caught in unfinished moments
+They may be:
+
+- caught in repeating final moments
 - pulled out of normal chronology
-- sometimes unaware they have crossed out of ordinary reality
+- unaware they have crossed out of reality
+- drawn toward other anchored vessels
+- forced to keep sailing, fighting, mutinying, or mourning
 
-## Creature Rule
+The Bloody Gull attracts ghost ships because Jeb and the Gull are bound to the same fracture system.
 
-The Spectral Sea is home to creatures that should feel mythic, ancient, and not fully bound by normal biology or chronology.
+## Monstrous Entities
 
-Use them as:
+The Spectral Sea contains entities that are mythic, ancient, and not fully bound by normal biology or chronology.
 
-- abyssal predators
+They can include:
+
+- Kraken
+- Leviathans
+- sea serpents
 - relic guardians
-- fracture-born sea powers
-- memory-haunted beasts
+- fracture-born predators
+- ancient beings mistaken for monsters
+- Watcher remnants transformed by the Sea
 
-Do not reduce them to generic monster-of-the-week threat.
+Use these creatures as system pressure, not interchangeable monsters.
 
 ## The Bloody Gull
 
 The Bloody Gull is an anchor vessel inside the Spectral Sea.
 
-It is not merely a ship traveling through the system. It is tied to the system's deeper rules through Jeb, relic pressure, and later the ship's own living relic status.
+It is not merely traveling through the system. It is tied to the system through Jeb, relic pressure, the ship's curse, and later the ship's living relic status.
 
-This gives the Gull:
+The Gull can:
 
-- unusual mobility through fracture space
-- heightened sensitivity to storms and pulse changes
-- freedom paired with damnation
+- shift between dimensions
+- drift between timelines
+- sense storms before they arrive
+- carry relic keys through unstable water
+- function as a bridge between the real world and the Spectral layer
 
-## Character Pressure
+This mobility is always paired with damnation, cost, or exposure risk.
 
-The Spectral Sea should always do more than threaten bodies.
+## Relics And Navigation
 
-It should pressure:
+Atlantean relics often cause, stabilize, close, or reveal fractures.
 
-- memory
-- identity
-- grief
-- longing
-- bloodline recognition
-- reality confidence
+Relics aboard or near the Gull can:
 
-If a Spectral Sea scene only looks strange but does not alter emotional or metaphysical stakes, Gideon should flag it.
+- guide the ship through unstable waters
+- open or close fractures
+- trigger unintended fracture activity
+- deepen the ship's connection to the Sea
+- pull the crew toward dangerous routes
 
-## Key Locations
+The Tuning Core and other relics should be treated as keys and anchors, not simple tools.
 
-Core sites repeatedly tied to Spectral Sea pressure include:
+## Time Glitches And Alternate Realities
 
-- Bermuda Triangle
-- Point Nemo
-- Sargasso Sea
-- Yonaguni Monument
+Spectral fractures can produce:
 
-These should be treated as true hot zones, not interchangeable spooky coordinates.
+- deja vu
+- memories of lives never lived
+- echoes of alternate versions of characters
+- contact with past or possible selves
+- realities where key losses did not happen
+- timelines that tempt characters into correcting or disrupting what happened
 
-## Myth Tone
+These effects should challenge identity and choice, not only create spectacle.
 
-The Spectral Sea should read as:
+## Major Sites Within The Spectral Sea System
+
+| Site | Function |
+| --- | --- |
+| Bermuda Triangle | Temporal rift site and Watcher fracture epicenter. Time slips and portal pressure concentrate here. |
+| Point Nemo | Oceanic dead zone and possible Watcher exile pressure site. Time behaves differently and return signals can fail. |
+| Sargasso Sea | Ghost ship graveyard and ley-energy whirlpool. Ships loop, vanish, and return wrong. |
+| Yonaguni Monument | Submerged Atlantean architecture and pulse beacon tied to unstable resonance. |
+
+## Myth Layer
+
+The Spectral Sea is the bloodstream of the planet's myth-memory.
+
+It reflects fracture logic rather than ordinary water:
+
+- leylines flow with memory density
+- storms express emotional and relic resonance
+- ships become myth-node vectors shaped by their crews' unresolved weight
+- the Sea remembers what history tried to drown
+
+Tone:
 
 - cosmic grief
 - memory hunger
 - guilt current
 - dimensional aftermath
 
-Not generic fantasy ocean, and not simple sci-fi anomaly field.
+## Access Rule
+
+Humans can and do travel in and out of the Spectral Sea.
+
+This access is controlled, layered, dangerous, and profitable. It is not fantasy tourism without cost.
+
+Confirmed traveler types include:
+
+| Type | Role |
+| --- | --- |
+| Elite pleasure seekers | Pay for the thrill without understanding the cost. |
+| Power players | Governments, corporations, and shadow contracts seeking weaponization or erasure. |
+| Zealots | Cults, religious orders, and Revisionists seeking purpose through relics. |
+| Researchers and scientists | Historians, archaeologists, and truth-seekers who may also become pawns. |
+| Hired crew | Deckhands, mercenaries, smugglers, and ferrymen moving relics or bodies. |
+| The unfortunate | Accidental crossers caught by storms, Mirror Harbors, or fractures. |
 
 ## Failure Test
 
@@ -125,6 +187,6 @@ Flag Spectral Sea drift when:
 
 - it behaves like ordinary storm water with spooky dressing
 - fractures appear without consequence
-- ghost ships function like simple haunted-house props
-- the Sea pressures plot but not identity, memory, or bloodline
-
+- ghost ships function like haunted-house props
+- the Sea pressures plot but not memory, identity, grief, or bloodline
+- access feels casual and costless

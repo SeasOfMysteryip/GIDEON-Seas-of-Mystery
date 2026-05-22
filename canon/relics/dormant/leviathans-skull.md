@@ -14,23 +14,28 @@ origin: titan_relic
 
 Leviathan's Skull is an environmental dominion relic. It does not just direct creatures. It rewrites weather, current, and battlefield geography.
 
+## Form And Visual Signature
+
+- Colossal skull fragment of primordial Leviathan predator.
+- Abyss-blackened bone threaded with glowing mineral ley veins.
+- Cracks pulse abyssal blue when storms rise.
+
 ## Function
 
-- releases storm arteries across the Spectral Sea
-- reroutes abyssal creatures and trade paths
-- destabilizes fractures and makes whole regions strategically different
+- Releases permanent storm arteries across the Spectral Sea.
+- Reroutes abyssal predators, trade paths, and naval routes.
+- Destabilizes fractures and makes whole regions strategically different.
 
 ## Limitation And Cost
 
-- ley-brands and storms the bearer into madness
-- corrupts ship and crew tied to it
-- requires anchoring and high-threshold will to use at all
+- Ley-brands and storms the bearer into madness.
+- Corrupts ship and crew tied to it.
+- Requires anchoring and high-threshold will to use at all.
 
 ## Story Rule
 
-Treat this as a late-war crown relic for sea-route domination, not as active Season One canon behavior.
+Late-war crown relic for sea-route domination, not active Season One behavior.
 
 ## Failure Test
 
-Flag drift if the Skull behaves like a portable weapon or shows up without region-wide consequences.
-
+Flag drift if it behaves like a portable weapon or appears without region-wide consequences.

@@ -14,24 +14,29 @@ origin: atlantean_crown_relic
 
 The Atlantean Sigil is the completion keystone: the crown relic that connects the wider circuit into full systemic ignition.
 
+## Form And Visual Signature
+
+- Living Atlantean alloy emblem with spiraled geometry.
+- Glyph lattice flows like heartlight under activation.
+- Can project a living map of Spectral Sea and Library circuitry.
+
 ## Function
 
-- completes the relic circuit
-- powers final Library or convergence activation structures
-- projects full sea-blueprint logic
-- rethreads or seals ley routes at the highest level
+- Completes the relic circuit.
+- Powers final Library or convergence activation structures.
+- Projects full sea-blueprint logic.
+- Rethreads or seals ley routes at the highest level.
 
 ## Limitation And Cost
 
-- demands Atlantean bloodline access
-- punishes unworthy handling lethally
-- risks permanent entanglement between mind and global ley structure
+- Demands Atlantean bloodline access.
+- Punishes unworthy handling lethally.
+- Risks permanent entanglement between mind and global ley structure.
 
 ## Story Rule
 
-This is a future endgame keystone. It should remain seeded, foreshadowed, and protected from premature scene use.
+Future endgame keystone. Seed, foreshadow, and protect from premature scene use.
 
 ## Failure Test
 
-Flag drift if the Sigil is treated like a casual key, a generic map piece, or a relic any faction can simply operate on demand.
-
+Flag drift if treated like a casual key, generic map piece, or relic any faction can operate on demand.

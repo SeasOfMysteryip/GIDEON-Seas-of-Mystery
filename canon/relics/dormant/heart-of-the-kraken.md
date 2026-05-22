@@ -12,25 +12,30 @@ origin: primordial_bio_relic
 
 ## Core Identity
 
-The Heart of the Kraken is an abyssal beast-pulse relic. It does not command by authority so much as entangle the bearer with deep-sea will and living storm hunger.
+The Heart of the Kraken is an abyssal beast-pulse relic. It does not command by authority; it entangles the bearer with deep-sea will and living storm hunger.
+
+## Form And Visual Signature
+
+- Obsidian gemstone dark as the abyss.
+- Bioluminescent leyfire veins pulse like a heartbeat.
+- Surface sweats brine mist in high-tension environments.
 
 ## Function
 
-- syncs with abyssal beasts and leviathan-class predators
-- turns emotional state into creature response logic
-- amplifies storm chaos into sentient siege pressure
+- Syncs with abyssal beasts and leviathan-class predators.
+- Turns emotional state into creature response logic.
+- Amplifies oceanic chaos into sentient siege pressure.
 
 ## Limitation And Cost
 
-- corrupts body and identity toward thrall-state
-- risks permanent heartbeat entanglement with abyssal forces
-- devours weak-willed or conquest-only users
+- Corrupts body and identity toward Kraken thrall-state.
+- Risks permanent heartbeat entanglement with abyssal forces.
+- Devours weak-willed or conquest-only users.
 
 ## Story Rule
 
-This is a Season Two or later catalyst relic. It should not appear in Season One scene logic except as dormant myth pressure or teaser-level foreshadowing.
+Season Two or later catalyst relic. Do not activate in Season One scene logic except as dormant myth pressure or teaser-level foreshadowing.
 
 ## Failure Test
 
-Flag drift if the Heart appears as a clean summoning tool, a tame monster button, or active Season One equipment.
-
+Flag drift if it becomes clean monster summoning, a tame creature button, or ordinary equipment.

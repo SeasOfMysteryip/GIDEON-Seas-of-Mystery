@@ -14,24 +14,29 @@ origin: atlantean_creation
 
 The Atlas Fragment is the worldbone map relic: living cartography, convergence key, and route-authoring pressure at the largest scale.
 
+## Form And Visual Signature
+
+- Stone slab fragment carved from Atlantis's ley-marrow.
+- Maplines ripple like liquid metal beneath stone.
+- Floating ley constellations can project during activation.
+
 ## Function
 
-- projects evolving ley maps
-- locates hidden Library or convergence sites
-- reveals Atlantis-scale system memory
-- can reroute or expand sea-path logic itself
+- Projects evolving ley maps.
+- Locates hidden Library or convergence sites.
+- Reveals Atlantis-scale system memory.
+- Can reroute or expand sea-path logic itself.
 
 ## Limitation And Cost
 
-- overloads perception and thought
-- punishes emotional instability with false-path logic
-- favors Atlantean bloodline and architect-level minds
+- Overloads perception and thought.
+- Emotional instability distorts paths.
+- Non-Atlantean users risk fatal misdirection.
 
 ## Story Rule
 
-Treat the Atlas Fragment as a future convergence key, not just a better map. It should raise the stakes of route authorship and endgame access.
+Future convergence key, not just a better map. Raises stakes of route authorship and endgame access.
 
 ## Failure Test
 
-Flag drift if the Atlas Fragment is reduced to pretty navigation visuals without structural consequences.
-
+Flag drift if reduced to pretty navigation visuals without structural consequences.
