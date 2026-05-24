@@ -11,7 +11,6 @@ uses:
   - canon/relics/active/compass-of-ley-currents.md
   - canon/factions/blackbeards-domain.md
   - canon/factions/bleed-economy.md
-  - agents/gideon/combat-review.md
 ---
 
 # Episode 103 Continuity Notes

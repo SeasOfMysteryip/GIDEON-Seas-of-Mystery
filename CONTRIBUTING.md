@@ -7,11 +7,11 @@
 - Label speculative additions as `possible canon addition` until they are accepted.
 - Preserve source provenance in frontmatter, but keep references repo-neutral.
 
-## Agent Files
+## Workspace Use
 
-- Gideon operating instructions live in `agents/gideon/`.
-- Review flows should cite the specific canon files they depend on.
-- Keep agent instructions practical and testable. Avoid adding broad lore unless it changes how Gideon should act.
+- Product behavior and Gideon operating instructions live in the Gideon Workspace app repo, not this source repo.
+- Keep this repo focused on Seas of Mystery source files, canon, planning, examples, templates, and source-lore material.
+- When source files need review guidance, keep it document-specific and cite the canon files it depends on.
 
 ## Source Documents
 

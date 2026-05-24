@@ -4,7 +4,7 @@ type: episode_planning
 status: working
 episode: EP203
 draft_state: act_scene_breakdown
-source_file: "agents/gideon/forge-execution-modes.md"
+source_file: "workspace-generated"
 ---
 
 # EP203 Act / Scene Breakdown

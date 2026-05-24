@@ -1,8 +1,8 @@
-# GIDEON Agent Pilot
+# Seas of Mystery Source Repo
 
-This pilot turns the cast canon, faction logic, fleet doctrine, tactical law, and relic canon rules for Seas of Mystery into agent-ready source files.
+This repo holds the cast canon, faction logic, fleet doctrine, tactical law, relic canon rules, episode planning, and source lore for Seas of Mystery.
 
-The original Word documents are untouched. These Markdown files are working copies designed for Gideon to read, search, compare, and use during character audits.
+The original Word documents are untouched. These Markdown files are working copies designed for source-connected review, search, comparison, and canon maintenance.
 
 ## Repository Status
 
@@ -22,7 +22,7 @@ The original `.docx` and `.pdf` files are not tracked by default. Keep them loca
 
 ## Contribution Notes
 
-See `CONTRIBUTING.md` before changing locked canon, Gideon operating rules, or source provenance fields.
+See `CONTRIBUTING.md` before changing locked canon, source provenance fields, or project structure.
 
 ## What This Pilot Does
 
@@ -32,22 +32,8 @@ See `CONTRIBUTING.md` before changing locked canon, Gideon operating rules, or s
 - Establishes relic-language cleanup rules before the Relics module is converted.
 - Adds the relic doctrine layer so Gideon can treat relics as a coherent system instead of isolated magic objects.
 - Starts a deep-myth canon layer with revelation control, Spectral Sea law, storm law, and Atlantis origin rules.
-- Gives Gideon reusable review instructions for voice, behavior, emotional continuity, and relationship drift.
 - Adds a relationship continuity matrix so shared-scene dynamics can be checked directly.
 - Provides a template for converting the rest of the cast later.
-
-## Suggested First Test
-
-Give Gideon a scene and ask:
-
-```text
-Use agents/gideon/character-review.md and canon/relationship-continuity.md.
-Review this scene against canon/characters/main/jeb-blackwater.md, canon/characters/main/lark-hawthorne.md, and canon/characters/main/sophia-briggs.md.
-Flag hard canon conflicts, voice drift, emotional drift, and relationship drift.
-Suggest fixes without rewriting the whole scene unless asked.
-```
-
-If you want a more repeatable operator flow, start with `agents/gideon/review-workflow.md`.
 
 ## Folder Map
 
@@ -227,17 +213,6 @@ episodes/
         index.md
 canon/
   relationship-continuity.md
-
-agents/gideon/
-  system.md
-  review-modes.md
-  character-review.md
-  relic-review.md
-  combat-review.md
-  review-workflow.md
-  voice-check.md
-  templates/
-    scene-audit-template.md
 
 templates/
   character-profile.md

@@ -4,7 +4,7 @@ type: season_planning
 status: working
 season: S02
 draft_state: season_restart_packet
-source_file: "agents/gideon/forge-execution-modes.md"
+source_file: "workspace-generated"
 ---
 
 # Season 2 Restart Packet

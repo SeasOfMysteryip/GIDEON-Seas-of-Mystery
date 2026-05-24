@@ -58,5 +58,5 @@ Refresh the asset index after adding images manually:
 npm run visual:index
 ```
 
-The tooling reads canon from `GIDEON_REPO_PATH`, falling back to `/Users/adamboyd/Documents/Codex/GIDEON-agent-pilot`.
+The tooling reads canon from `GIDEON_REPO_PATH`, falling back to the repo root.
 It writes prompts to `prompts/` and generated images into the matching visual asset folder.
